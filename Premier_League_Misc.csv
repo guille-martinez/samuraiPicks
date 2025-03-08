@@ -1,0 +1,544 @@
+date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Performance,Aerial Duels,Aerial Duels,Aerial Duels,time,match_report,team
+,,,,,,,,CrdY,CrdR,2CrdY,Fls,Fld,Off,Crs,Int,TklW,PKwon,PKcon,OG,Recov,Won,Lost,Won%,,,
+2024-08-17,Matchweek 1,Sat,Away,L,0,2,Wolves,2,0,0,14,17,1,14,7,12,0,0,0,36,13,17,43.3,15:00:00,/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,Arsenal
+2024-08-24,Matchweek 2,Sat,Home,L,0,2,Aston Villa,1,0,0,8,16,3,10,4,10,0,0,0,33,9,7,56.3,17:30:00,/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,Arsenal
+2024-08-31,Matchweek 3,Sat,Away,D,1,1,Brighton,2,0,0,7,12,1,26,5,7,0,0,0,38,18,14,56.3,12:30:00,/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,Arsenal
+2024-09-15,Matchweek 4,Sun,Home,L,0,1,Tottenham,5,0,0,13,10,2,31,9,13,0,0,0,39,14,14,50.0,14:00:00,/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,Arsenal
+2024-09-22,Matchweek 5,Sun,Home,D,2,2,Manchester City,3,0,0,7,10,0,24,3,5,0,0,0,39,16,11,59.3,16:30:00,/en/matches/d7538020/Manchester-City-Arsenal-September-22-2024-Premier-League,Arsenal
+2024-09-28,Matchweek 6,Sat,Away,L,2,4,Leicester City,4,0,0,6,11,1,4,6,14,0,0,1,23,15,18,45.5,15:00:00,/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,Arsenal
+2024-10-05,Matchweek 7,Sat,Away,L,1,3,Southampton,3,0,0,9,10,0,7,9,10,0,0,0,26,14,9,60.9,15:00:00,/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,Arsenal
+2024-10-19,Matchweek 8,Sat,Home,W,2,0,Bournemouth,1,0,0,12,11,1,25,6,11,1,0,0,41,12,17,41.4,17:30:00,/en/matches/01e63a1f/Bournemouth-Arsenal-October-19-2024-Premier-League,Arsenal
+2024-10-27,Matchweek 9,Sun,Away,D,2,2,Liverpool,2,0,0,14,14,1,24,5,9,0,0,0,31,11,18,37.9,16:30:00,/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,Arsenal
+2024-11-02,Matchweek 10,Sat,Home,W,1,0,Newcastle Utd,4,0,0,16,18,0,13,6,15,0,0,0,40,18,14,56.3,12:30:00,/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,Arsenal
+2024-11-10,Matchweek 11,Sun,Home,D,1,1,Chelsea,4,0,0,12,12,1,14,7,16,0,0,0,38,9,10,47.4,16:30:00,/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,Arsenal
+2024-11-23,Matchweek 12,Sat,Away,L,0,3,Nott'ham Forest,2,0,0,11,10,2,18,10,10,0,0,0,29,14,11,56.0,15:00:00,/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,Arsenal
+2024-11-30,Matchweek 13,Sat,Home,L,2,5,West Ham,4,0,0,10,13,1,9,6,16,0,2,0,29,17,10,63.0,17:30:00,/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,Arsenal
+2024-12-04,Matchweek 14,Wed,Away,L,0,2,Manchester Utd,3,0,0,8,12,2,6,10,10,0,0,0,33,9,12,42.9,20:15:00,/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,Arsenal
+2024-12-08,Matchweek 15,Sun,Home,D,1,1,Fulham,4,0,0,10,9,0,10,9,16,0,0,0,38,6,10,37.5,14:00:00,/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,Arsenal
+2024-12-14,Matchweek 16,Sat,Away,D,0,0,Everton,3,0,0,9,5,3,8,7,20,0,0,0,42,9,14,39.1,15:00:00,/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,Arsenal
+2024-12-21,Matchweek 17,Sat,Home,L,1,5,Crystal Palace,2,0,0,9,8,1,14,3,11,0,0,0,38,13,19,40.6,17:30:00,/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,Arsenal
+2024-12-27,Matchweek 18,Fri,Away,L,0,1,Ipswich Town,1,0,0,12,6,2,8,11,10,0,0,0,37,14,13,51.9,20:15:00,/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,Arsenal
+2025-01-01,Matchweek 19,Wed,Home,L,1,3,Brentford,1,0,0,6,8,0,15,6,7,0,0,0,41,12,18,40.0,17:30:00,/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,Arsenal
+2025-01-04,Matchweek 20,Sat,Home,D,1,1,Brighton,2,0,0,17,14,0,10,8,10,1,0,0,47,12,12,50.0,17:30:00,/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,Arsenal
+2025-01-15,Matchweek 21,Wed,Away,L,1,2,Tottenham,1,0,0,9,15,1,17,4,13,0,0,1,34,8,14,36.4,20:00:00,/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,Arsenal
+2025-01-18,Matchweek 22,Sat,Away,D,2,2,Aston Villa,3,0,0,18,9,2,6,3,8,0,0,0,30,13,15,46.4,17:30:00,/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,Arsenal
+2025-01-25,Matchweek 23,Sat,Home,L,0,1,Wolves,2,1,1,20,9,0,14,7,20,0,0,0,47,13,7,65.0,15:00:00,/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,Arsenal
+2025-02-02,Matchweek 24,Sun,Away,L,1,5,Manchester City,0,0,0,7,6,1,14,6,8,0,0,0,35,7,6,53.8,16:30:00,/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,Arsenal
+2025-02-15,Matchweek 25,Sat,Home,L,0,2,Leicester City,2,0,0,9,10,1,16,7,13,0,0,0,42,11,15,42.3,12:30:00,/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,Arsenal
+2025-02-22,Matchweek 26,Sat,Away,W,1,0,West Ham,3,0,0,15,16,2,8,14,5,0,0,0,34,19,17,52.8,15:00:00,/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,Arsenal
+2025-02-26,Matchweek 27,Wed,Home,D,0,0,Nott'ham Forest,1,0,0,10,15,1,18,8,10,0,0,0,34,14,16,46.7,19:30:00,/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,Arsenal
+2024-08-17,Matchweek 1,Sat,Home,L,1,2,West Ham,1,0,0,18,11,1,25,6,10,1,0,0,39,14,12,53.8,17:30:00,/en/matches/eac7c00b/West-Ham-United-Aston-Villa-August-17-2024-Premier-League,Aston Villa
+2024-08-24,Matchweek 2,Sat,Away,W,2,0,Arsenal,3,0,0,16,8,1,13,8,9,0,0,0,33,7,9,43.8,17:30:00,/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,Aston Villa
+2024-08-31,Matchweek 3,Sat,Home,L,1,2,Leicester City,4,0,0,13,21,3,18,11,11,0,0,0,45,9,10,47.4,15:00:00,/en/matches/5af68b76/Leicester-City-Aston-Villa-August-31-2024-Premier-League,Aston Villa
+2024-09-14,Matchweek 4,Sat,Away,L,2,3,Everton,4,0,0,12,9,3,12,6,16,0,0,0,36,11,8,57.9,17:30:00,/en/matches/cdb4c33b/Aston-Villa-Everton-September-14-2024-Premier-League,Aston Villa
+2024-09-21,Matchweek 5,Sat,Away,L,1,3,Wolves,6,0,0,16,11,5,11,10,9,0,0,0,32,10,7,58.8,15:00:00,/en/matches/e2b62260/Aston-Villa-Wolverhampton-Wanderers-September-21-2024-Premier-League,Aston Villa
+2024-09-29,Matchweek 6,Sun,Home,D,2,2,Ipswich Town,4,0,0,10,14,2,17,7,9,0,0,0,44,8,7,53.3,14:00:00,/en/matches/ef742b9c/Ipswich-Town-Aston-Villa-September-29-2024-Premier-League,Aston Villa
+2024-10-06,Matchweek 7,Sun,Away,D,0,0,Manchester Utd,5,0,0,11,12,1,9,12,12,0,0,0,37,14,8,63.6,14:00:00,/en/matches/abef5f2a/Aston-Villa-Manchester-United-October-6-2024-Premier-League,Aston Villa
+2024-10-19,Matchweek 8,Sat,Home,L,1,3,Fulham,3,1,0,8,10,2,30,14,11,0,0,1,40,14,5,73.7,15:00:00,/en/matches/615d637e/Fulham-Aston-Villa-October-19-2024-Premier-League,Aston Villa
+2024-10-26,Matchweek 9,Sat,Away,D,1,1,Bournemouth,6,0,0,14,12,5,20,11,10,0,0,0,41,15,13,53.6,15:00:00,/en/matches/bce300b2/Aston-Villa-Bournemouth-October-26-2024-Premier-League,Aston Villa
+2024-11-03,Matchweek 10,Sun,Home,W,4,1,Tottenham,2,0,0,14,13,0,23,16,7,0,0,0,51,12,11,52.2,14:00:00,/en/matches/8fa951f9/Tottenham-Hotspur-Aston-Villa-November-3-2024-Premier-League,Aston Villa
+2024-11-09,Matchweek 11,Sat,Home,W,2,0,Liverpool,0,0,0,11,15,1,8,7,9,0,0,0,47,6,6,50.0,20:00:00,/en/matches/737af5bf/Liverpool-Aston-Villa-November-9-2024-Premier-League,Aston Villa
+2024-11-23,Matchweek 12,Sat,Away,D,2,2,Crystal Palace,2,0,0,11,9,2,15,10,16,0,1,0,48,11,12,47.8,15:00:00,/en/matches/bf2e07a1/Aston-Villa-Crystal-Palace-November-23-2024-Premier-League,Aston Villa
+2024-12-01,Matchweek 13,Sun,Home,W,3,0,Chelsea,2,0,0,21,4,3,12,3,10,0,0,0,39,5,6,45.5,13:30:00,/en/matches/080b797b/Chelsea-Aston-Villa-December-1-2024-Premier-League,Aston Villa
+2024-12-04,Matchweek 14,Wed,Away,L,1,3,Brentford,2,0,0,15,11,1,21,8,7,0,1,0,36,16,11,59.3,20:15:00,/en/matches/c24a734b/Aston-Villa-Brentford-December-4-2024-Premier-League,Aston Villa
+2024-12-07,Matchweek 15,Sat,Away,L,0,1,Southampton,3,0,0,15,17,4,13,12,5,0,0,0,44,8,9,47.1,15:00:00,/en/matches/92cfde2c/Aston-Villa-Southampton-December-7-2024-Premier-League,Aston Villa
+2024-12-14,Matchweek 16,Sat,Home,W,2,1,Nott'ham Forest,0,0,0,12,6,2,21,8,14,0,0,0,45,10,8,55.6,17:30:00,/en/matches/26926fd3/Nottingham-Forest-Aston-Villa-December-14-2024-Premier-League,Aston Villa
+2024-12-21,Matchweek 17,Sat,Away,L,1,2,Manchester City,3,0,0,7,14,0,14,5,4,0,0,0,35,2,2,50.0,12:30:00,/en/matches/ce9dc982/Aston-Villa-Manchester-City-December-21-2024-Premier-League,Aston Villa
+2024-12-26,Matchweek 18,Thu,Home,W,3,0,Newcastle Utd,2,0,0,15,10,5,18,8,8,0,0,0,49,14,8,63.6,15:00:00,/en/matches/9985f304/Newcastle-United-Aston-Villa-December-26-2024-Premier-League,Aston Villa
+2024-12-30,Matchweek 19,Mon,Away,D,2,2,Brighton,3,0,0,14,9,0,12,14,11,0,1,0,44,11,11,50.0,19:45:00,/en/matches/5e8340e9/Aston-Villa-Brighton-and-Hove-Albion-December-30-2024-Premier-League,Aston Villa
+2025-01-04,Matchweek 20,Sat,Away,L,1,2,Leicester City,1,0,0,11,10,1,11,11,12,0,0,0,37,6,12,33.3,15:00:00,/en/matches/f5ae8d7d/Aston-Villa-Leicester-City-January-4-2025-Premier-League,Aston Villa
+2025-01-15,Matchweek 21,Wed,Home,L,0,1,Everton,2,0,0,17,10,5,20,10,9,0,0,0,37,16,19,45.7,19:30:00,/en/matches/3e70b855/Everton-Aston-Villa-January-15-2025-Premier-League,Aston Villa
+2025-01-18,Matchweek 22,Sat,Home,D,2,2,Arsenal,2,0,0,10,17,3,41,8,7,0,0,0,38,15,13,53.6,17:30:00,/en/matches/1fdaaaba/Arsenal-Aston-Villa-January-18-2025-Premier-League,Aston Villa
+2025-01-26,Matchweek 23,Sun,Away,D,1,1,West Ham,3,0,0,16,11,4,22,14,17,0,0,0,44,18,20,47.4,16:30:00,/en/matches/bb05246c/Aston-Villa-West-Ham-United-January-26-2025-Premier-League,Aston Villa
+2025-02-01,Matchweek 24,Sat,Home,W,2,0,Wolves,2,0,0,20,12,6,14,15,14,0,0,0,36,8,11,42.1,17:30:00,/en/matches/693ab427/Wolverhampton-Wanderers-Aston-Villa-February-1-2025-Premier-League,Aston Villa
+2025-02-15,Matchweek 25,Sat,Away,D,1,1,Ipswich Town,5,1,1,11,7,3,6,13,10,0,0,0,32,7,11,38.9,15:00:00,/en/matches/06fee8c4/Aston-Villa-Ipswich-Town-February-15-2025-Premier-League,Aston Villa
+2025-02-19,Matchweek 29,Wed,Away,D,2,2,Liverpool,0,0,0,6,8,2,20,8,11,0,0,0,34,13,12,52.0,19:30:00,/en/matches/39c7b656/Aston-Villa-Liverpool-February-19-2025-Premier-League,Aston Villa
+2025-02-22,Matchweek 26,Sat,Away,L,1,2,Chelsea,3,0,0,16,15,1,12,10,7,0,0,0,48,7,6,53.8,17:30:00,/en/matches/5109d405/Aston-Villa-Chelsea-February-22-2025-Premier-League,Aston Villa
+2025-02-25,Matchweek 27,Tue,Home,W,4,1,Crystal Palace,3,0,0,19,10,7,12,10,21,0,0,0,46,9,13,40.9,19:30:00,/en/matches/0a97629a/Crystal-Palace-Aston-Villa-February-25-2025-Premier-League,Aston Villa
+2024-08-17,Matchweek 1,Sat,Home,D,1,1,Nott'ham Forest,1,0,0,17,8,1,13,7,12,0,0,0,49,25,15,62.5,15:00:00,/en/matches/4efc72e4/Nottingham-Forest-Bournemouth-August-17-2024-Premier-League,Bournemouth
+2024-08-25,Matchweek 2,Sun,Away,D,1,1,Newcastle Utd,2,0,0,8,19,0,26,4,12,0,0,0,59,10,13,43.5,14:00:00,/en/matches/1934f267/Bournemouth-Newcastle-United-August-25-2024-Premier-League,Bournemouth
+2024-08-31,Matchweek 3,Sat,Home,L,2,3,Everton,2,0,0,6,11,2,21,12,11,0,0,0,56,22,17,56.4,15:00:00,/en/matches/58bbe046/Everton-Bournemouth-August-31-2024-Premier-League,Bournemouth
+2024-09-14,Matchweek 4,Sat,Away,W,1,0,Chelsea,8,0,0,9,16,3,8,6,7,0,1,0,46,11,15,42.3,20:00:00,/en/matches/456b4762/Bournemouth-Chelsea-September-14-2024-Premier-League,Bournemouth
+2024-09-21,Matchweek 5,Sat,Home,W,3,0,Liverpool,1,0,0,10,11,0,8,6,14,0,0,0,44,9,6,60.0,15:00:00,/en/matches/32a9539b/Liverpool-Bournemouth-September-21-2024-Premier-League,Bournemouth
+2024-09-30,Matchweek 6,Mon,Away,L,1,3,Southampton,5,0,0,12,19,1,14,8,12,0,0,0,38,16,9,64.0,20:00:00,/en/matches/04d2cc03/Bournemouth-Southampton-September-30-2024-Premier-League,Bournemouth
+2024-10-05,Matchweek 7,Sat,Home,W,1,0,Leicester City,4,0,0,12,14,2,6,7,10,0,0,0,46,21,16,56.8,15:00:00,/en/matches/d153872e/Leicester-City-Bournemouth-October-5-2024-Premier-League,Bournemouth
+2024-10-19,Matchweek 8,Sat,Away,L,0,2,Arsenal,1,1,0,11,12,1,15,6,10,0,1,0,42,17,12,58.6,17:30:00,/en/matches/01e63a1f/Bournemouth-Arsenal-October-19-2024-Premier-League,Bournemouth
+2024-10-26,Matchweek 9,Sat,Home,D,1,1,Aston Villa,7,0,0,12,13,0,21,11,5,0,0,0,37,13,15,46.4,15:00:00,/en/matches/bce300b2/Aston-Villa-Bournemouth-October-26-2024-Premier-League,Bournemouth
+2024-11-02,Matchweek 10,Sat,Away,L,1,2,Manchester City,1,0,0,6,11,0,27,5,7,0,0,0,30,14,13,51.9,15:00:00,/en/matches/ed970fef/Bournemouth-Manchester-City-November-2-2024-Premier-League,Bournemouth
+2024-11-09,Matchweek 11,Sat,Home,W,3,2,Brentford,2,0,0,8,15,0,23,6,6,0,0,0,44,37,18,67.3,15:00:00,/en/matches/1c998ef5/Brentford-Bournemouth-November-9-2024-Premier-League,Bournemouth
+2024-11-23,Matchweek 12,Sat,Away,W,2,1,Brighton,4,1,1,10,12,1,2,6,13,0,0,0,38,18,8,69.2,15:00:00,/en/matches/4708a5bf/Bournemouth-Brighton-and-Hove-Albion-November-23-2024-Premier-League,Bournemouth
+2024-11-30,Matchweek 13,Sat,Home,L,2,4,Wolves,5,0,0,13,10,2,21,6,18,0,3,0,53,12,14,46.2,15:00:00,/en/matches/adfb1b89/Wolverhampton-Wanderers-Bournemouth-November-30-2024-Premier-League,Bournemouth
+2024-12-05,Matchweek 14,Thu,Away,L,0,1,Tottenham,2,0,0,8,15,3,21,9,16,0,0,0,53,7,12,36.8,20:15:00,/en/matches/c7e59a0a/Bournemouth-Tottenham-Hotspur-December-5-2024-Premier-League,Bournemouth
+2024-12-08,Matchweek 15,Sun,Home,L,1,2,Ipswich Town,2,0,0,9,11,0,13,5,12,0,0,0,56,25,19,56.8,14:00:00,/en/matches/392c7b1f/Ipswich-Town-Bournemouth-December-8-2024-Premier-League,Bournemouth
+2024-12-16,Matchweek 16,Mon,Away,D,1,1,West Ham,2,0,0,11,5,1,23,8,6,0,0,0,53,23,21,52.3,20:00:00,/en/matches/49cd674b/Bournemouth-West-Ham-United-December-16-2024-Premier-League,Bournemouth
+2024-12-22,Matchweek 17,Sun,Home,L,0,3,Manchester Utd,1,0,0,11,10,0,21,4,12,0,1,0,53,13,10,56.5,14:00:00,/en/matches/8381ba53/Manchester-United-Bournemouth-December-22-2024-Premier-League,Bournemouth
+2024-12-26,Matchweek 18,Thu,Away,D,0,0,Crystal Palace,2,0,0,12,13,1,11,8,15,0,0,0,59,19,15,55.9,15:00:00,/en/matches/886ca6b3/Bournemouth-Crystal-Palace-December-26-2024-Premier-League,Bournemouth
+2024-12-29,Matchweek 19,Sun,Home,D,2,2,Fulham,1,0,0,7,16,0,15,11,14,0,0,0,47,15,25,37.5,15:00:00,/en/matches/4b4023dc/Fulham-Bournemouth-December-29-2024-Premier-League,Bournemouth
+2025-01-04,Matchweek 20,Sat,Away,L,0,1,Everton,2,0,0,14,14,0,13,13,10,0,0,0,45,12,25,32.4,15:00:00,/en/matches/43f0c302/Bournemouth-Everton-January-4-2025-Premier-League,Bournemouth
+2025-01-14,Matchweek 21,Tue,Home,D,2,2,Chelsea,2,0,0,15,16,2,16,5,7,0,1,0,39,15,11,57.7,19:30:00,/en/matches/fff671a9/Chelsea-Bournemouth-January-14-2025-Premier-League,Bournemouth
+2025-01-18,Matchweek 22,Sat,Home,L,1,4,Newcastle Utd,1,0,0,7,18,1,28,3,8,0,0,0,38,16,15,51.6,12:30:00,/en/matches/99d11a39/Newcastle-United-Bournemouth-January-18-2025-Premier-League,Bournemouth
+2025-01-25,Matchweek 23,Sat,Away,L,0,5,Nott'ham Forest,3,0,0,12,9,2,23,5,6,0,0,0,40,20,9,69.0,15:00:00,/en/matches/efa8ddd7/Bournemouth-Nottingham-Forest-January-25-2025-Premier-League,Bournemouth
+2025-02-01,Matchweek 24,Sat,Away,W,2,0,Liverpool,3,0,0,9,14,1,13,11,11,1,0,0,43,7,6,53.8,15:00:00,/en/matches/886603cd/Bournemouth-Liverpool-February-1-2025-Premier-League,Bournemouth
+2025-02-15,Matchweek 25,Sat,Home,L,1,3,Southampton,1,0,0,13,15,0,20,11,18,0,0,0,48,22,14,61.1,15:00:00,/en/matches/ce3da486/Southampton-Bournemouth-February-15-2025-Premier-League,Bournemouth
+2025-02-22,Matchweek 26,Sat,Away,W,1,0,Wolves,3,0,0,9,17,1,16,10,15,0,0,0,48,17,16,51.5,15:00:00,/en/matches/ccdda6d3/Bournemouth-Wolverhampton-Wanderers-February-22-2025-Premier-League,Bournemouth
+2025-02-25,Matchweek 27,Tue,Home,W,2,1,Brighton,2,0,0,12,14,0,8,6,13,1,0,0,34,18,25,41.9,19:30:00,/en/matches/fade9277/Brighton-and-Hove-Albion-Bournemouth-February-25-2025-Premier-League,Bournemouth
+2024-08-18,Matchweek 1,Sun,Away,L,1,2,Crystal Palace,5,0,0,15,6,3,14,5,13,0,0,0,49,14,19,42.4,14:00:00,/en/matches/b63822b9/Brentford-Crystal-Palace-August-18-2024-Premier-League,Brentford
+2024-08-25,Matchweek 2,Sun,Home,W,2,0,Liverpool,2,0,0,10,7,1,15,7,10,0,0,0,47,6,8,42.9,16:30:00,/en/matches/09b1742e/Liverpool-Brentford-August-25-2024-Premier-League,Brentford
+2024-08-31,Matchweek 3,Sat,Away,L,1,3,Southampton,1,0,0,7,10,2,20,9,10,0,0,0,36,3,9,25.0,15:00:00,/en/matches/fec3438b/Brentford-Southampton-August-31-2024-Premier-League,Brentford
+2024-09-14,Matchweek 4,Sat,Home,W,2,1,Manchester City,3,0,0,9,3,1,15,5,5,0,0,0,38,6,11,35.3,15:00:00,/en/matches/54405f8a/Manchester-City-Brentford-September-14-2024-Premier-League,Brentford
+2024-09-21,Matchweek 5,Sat,Home,W,3,1,Tottenham,3,0,0,11,8,1,23,17,11,0,0,0,60,13,7,65.0,15:00:00,/en/matches/9511708f/Tottenham-Hotspur-Brentford-September-21-2024-Premier-League,Brentford
+2024-09-28,Matchweek 6,Sat,Away,D,1,1,West Ham,3,0,0,11,2,2,16,10,7,0,0,0,50,17,16,51.5,15:00:00,/en/matches/9c4f2bcd/Brentford-West-Ham-United-September-28-2024-Premier-League,Brentford
+2024-10-05,Matchweek 7,Sat,Away,L,3,5,Wolves,3,0,0,10,9,1,20,5,15,0,1,0,42,20,22,47.6,15:00:00,/en/matches/909090f8/Brentford-Wolverhampton-Wanderers-October-5-2024-Premier-League,Brentford
+2024-10-19,Matchweek 8,Sat,Home,W,2,1,Manchester Utd,2,0,0,4,5,1,19,8,16,0,0,0,46,22,18,55.0,15:00:00,/en/matches/7f2c3291/Manchester-United-Brentford-October-19-2024-Premier-League,Brentford
+2024-10-26,Matchweek 9,Sat,Away,L,3,4,Ipswich Town,3,1,1,10,7,1,19,12,9,0,1,0,40,14,25,35.9,15:00:00,/en/matches/1fb2dcde/Brentford-Ipswich-Town-October-26-2024-Premier-League,Brentford
+2024-11-04,Matchweek 10,Mon,Home,W,2,1,Fulham,2,0,0,3,10,2,43,13,8,0,0,0,46,16,23,41.0,20:00:00,/en/matches/e1590847/Fulham-Brentford-November-4-2024-Premier-League,Brentford
+2024-11-09,Matchweek 11,Sat,Away,L,2,3,Bournemouth,4,0,0,16,8,1,23,8,12,0,0,0,49,18,37,32.7,15:00:00,/en/matches/1c998ef5/Brentford-Bournemouth-November-9-2024-Premier-League,Brentford
+2024-11-23,Matchweek 12,Sat,Home,D,0,0,Everton,0,0,0,8,9,3,43,3,5,0,0,0,38,15,18,45.5,15:00:00,/en/matches/dd7675a7/Everton-Brentford-November-23-2024-Premier-League,Brentford
+2024-11-30,Matchweek 13,Sat,Away,L,1,4,Leicester City,1,0,0,10,9,1,17,10,9,0,0,0,40,16,19,45.7,15:00:00,/en/matches/f4f9a64f/Brentford-Leicester-City-November-30-2024-Premier-League,Brentford
+2024-12-04,Matchweek 14,Wed,Home,W,3,1,Aston Villa,2,0,0,11,15,0,24,8,12,1,0,0,45,11,16,40.7,20:15:00,/en/matches/c24a734b/Aston-Villa-Brentford-December-4-2024-Premier-League,Brentford
+2024-12-07,Matchweek 15,Sat,Away,L,2,4,Newcastle Utd,0,0,0,7,10,2,24,3,5,0,0,0,43,9,10,47.4,15:00:00,/en/matches/1042592d/Brentford-Newcastle-United-December-7-2024-Premier-League,Brentford
+2024-12-15,Matchweek 16,Sun,Home,W,2,1,Chelsea,2,1,1,11,7,1,34,8,8,0,0,0,50,20,19,51.3,19:00:00,/en/matches/5f0803f7/Chelsea-Brentford-December-15-2024-Premier-League,Brentford
+2024-12-21,Matchweek 17,Sat,Away,W,2,0,Nott'ham Forest,4,0,0,14,10,3,14,18,9,0,0,0,42,20,17,54.1,15:00:00,/en/matches/1c60d037/Brentford-Nottingham-Forest-December-21-2024-Premier-League,Brentford
+2024-12-27,Matchweek 18,Fri,Home,D,0,0,Brighton,0,0,0,6,12,0,19,9,13,0,0,0,59,19,11,63.3,19:30:00,/en/matches/15b10b33/Brighton-and-Hove-Albion-Brentford-December-27-2024-Premier-League,Brentford
+2025-01-01,Matchweek 19,Wed,Away,W,3,1,Arsenal,2,0,0,8,6,6,20,6,9,0,0,0,48,18,12,60.0,17:30:00,/en/matches/7e6892e4/Brentford-Arsenal-January-1-2025-Premier-League,Brentford
+2025-01-04,Matchweek 20,Sat,Home,L,0,5,Southampton,2,0,0,10,4,1,13,4,8,0,1,0,40,18,15,54.5,15:00:00,/en/matches/36fc576a/Southampton-Brentford-January-4-2025-Premier-League,Brentford
+2025-01-14,Matchweek 21,Tue,Away,D,2,2,Manchester City,0,0,0,4,4,0,20,9,6,0,0,0,38,17,16,51.5,19:30:00,/en/matches/68c2e6b8/Brentford-Manchester-City-January-14-2025-Premier-League,Brentford
+2025-01-18,Matchweek 22,Sat,Away,W,2,0,Liverpool,3,0,0,14,6,0,32,4,5,0,0,0,45,12,13,48.0,15:00:00,/en/matches/5e8445c1/Brentford-Liverpool-January-18-2025-Premier-League,Brentford
+2025-01-26,Matchweek 23,Sun,Home,L,1,2,Crystal Palace,2,0,0,8,11,1,17,2,13,0,1,0,47,18,19,48.6,14:00:00,/en/matches/68d6e8fe/Crystal-Palace-Brentford-January-26-2025-Premier-League,Brentford
+2025-02-02,Matchweek 24,Sun,Away,W,2,0,Tottenham,1,0,0,11,4,1,9,11,13,0,0,0,51,16,19,45.7,14:00:00,/en/matches/7193a229/Brentford-Tottenham-Hotspur-February-2-2025-Premier-League,Brentford
+2025-02-15,Matchweek 25,Sat,Home,L,0,1,West Ham,1,0,0,10,13,2,31,2,8,0,0,0,38,16,21,43.2,15:00:00,/en/matches/79406a7e/West-Ham-United-Brentford-February-15-2025-Premier-League,Brentford
+2025-02-21,Matchweek 26,Fri,Home,L,0,4,Leicester City,4,0,0,10,9,1,27,13,5,0,0,0,37,9,21,30.0,20:00:00,/en/matches/da5a149a/Leicester-City-Brentford-February-21-2025-Premier-League,Brentford
+2025-02-26,Matchweek 27,Wed,Away,D,1,1,Everton,1,0,0,6,3,0,21,4,8,0,0,0,39,16,14,53.3,19:30:00,/en/matches/1218933c/Brentford-Everton-February-26-2025-Premier-League,Brentford
+2024-08-17,Matchweek 1,Sat,Home,L,0,3,Everton,1,1,0,8,8,7,17,13,11,0,0,0,45,18,13,58.1,15:00:00,/en/matches/71618ace/Everton-Brighton-and-Hove-Albion-August-17-2024-Premier-League,Brighton
+2024-08-24,Matchweek 2,Sat,Away,L,1,2,Manchester Utd,2,0,0,13,8,6,12,12,11,0,0,0,50,6,8,42.9,12:30:00,/en/matches/fc8ab8b2/Brighton-and-Hove-Albion-Manchester-United-August-24-2024-Premier-League,Brighton
+2024-08-31,Matchweek 3,Sat,Home,D,1,1,Arsenal,5,1,1,12,7,3,7,12,11,0,0,0,37,14,18,43.8,12:30:00,/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,Brighton
+2024-09-14,Matchweek 4,Sat,Away,D,0,0,Ipswich Town,3,0,0,16,14,3,6,11,14,0,0,0,40,18,17,51.4,15:00:00,/en/matches/2ffa4354/Brighton-and-Hove-Albion-Ipswich-Town-September-14-2024-Premier-League,Brighton
+2024-09-22,Matchweek 5,Sun,Away,D,2,2,Nott'ham Forest,6,1,1,11,10,4,4,8,8,1,0,0,29,9,18,33.3,14:00:00,/en/matches/d701a1df/Brighton-and-Hove-Albion-Nottingham-Forest-September-22-2024-Premier-League,Brighton
+2024-09-28,Matchweek 6,Sat,Home,W,4,2,Chelsea,3,0,0,11,8,6,11,7,13,1,0,0,53,6,11,35.3,15:00:00,/en/matches/1714cebe/Chelsea-Brighton-and-Hove-Albion-September-28-2024-Premier-League,Brighton
+2024-10-06,Matchweek 7,Sun,Away,L,2,3,Tottenham,2,0,0,10,13,2,19,7,12,0,0,0,37,8,7,53.3,16:30:00,/en/matches/dac142c7/Brighton-and-Hove-Albion-Tottenham-Hotspur-October-6-2024-Premier-League,Brighton
+2024-10-19,Matchweek 8,Sat,Home,L,0,1,Newcastle Utd,2,0,0,11,8,3,23,13,19,0,0,0,51,10,16,38.5,15:00:00,/en/matches/48081db0/Newcastle-United-Brighton-and-Hove-Albion-October-19-2024-Premier-League,Brighton
+2024-10-26,Matchweek 9,Sat,Away,D,2,2,Wolves,3,0,0,10,12,1,19,9,12,0,0,0,46,15,11,57.7,15:00:00,/en/matches/9487e056/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-October-26-2024-Premier-League,Brighton
+2024-11-02,Matchweek 10,Sat,Home,W,2,1,Liverpool,1,0,0,10,16,1,18,10,19,0,0,0,46,10,8,55.6,15:00:00,/en/matches/7d114c70/Liverpool-Brighton-and-Hove-Albion-November-2-2024-Premier-League,Brighton
+2024-11-09,Matchweek 11,Sat,Away,L,1,2,Manchester City,3,0,0,10,12,1,11,4,5,0,0,0,36,5,6,45.5,17:30:00,/en/matches/62aa7905/Brighton-and-Hove-Albion-Manchester-City-November-9-2024-Premier-League,Brighton
+2024-11-23,Matchweek 12,Sat,Home,L,1,2,Bournemouth,2,0,0,13,10,5,36,10,11,0,0,0,60,8,18,30.8,15:00:00,/en/matches/4708a5bf/Bournemouth-Brighton-and-Hove-Albion-November-23-2024-Premier-League,Brighton
+2024-11-29,Matchweek 13,Fri,Away,D,1,1,Southampton,4,0,0,16,19,1,23,4,9,0,0,0,30,9,10,47.4,20:00:00,/en/matches/d38c4a31/Brighton-and-Hove-Albion-Southampton-November-29-2024-Premier-League,Brighton
+2024-12-05,Matchweek 14,Thu,Home,W,3,1,Fulham,2,0,0,7,7,0,16,8,7,0,0,0,27,15,13,53.6,19:30:00,/en/matches/32aaf579/Fulham-Brighton-and-Hove-Albion-December-5-2024-Premier-League,Brighton
+2024-12-08,Matchweek 15,Sun,Home,D,2,2,Leicester City,1,0,0,9,9,1,20,6,7,0,0,0,35,14,11,56.0,14:00:00,/en/matches/7b549f8f/Leicester-City-Brighton-and-Hove-Albion-December-8-2024-Premier-League,Brighton
+2024-12-15,Matchweek 16,Sun,Away,W,3,1,Crystal Palace,4,0,0,15,11,1,12,8,16,0,0,1,36,15,13,53.6,14:00:00,/en/matches/c8314a05/Brighton-and-Hove-Albion-Crystal-Palace-December-15-2024-Premier-League,Brighton
+2024-12-21,Matchweek 17,Sat,Home,D,1,1,West Ham,2,0,0,14,20,5,14,7,15,0,0,0,45,17,21,44.7,15:00:00,/en/matches/04be8e87/West-Ham-United-Brighton-and-Hove-Albion-December-21-2024-Premier-League,Brighton
+2024-12-27,Matchweek 18,Fri,Away,D,0,0,Brentford,2,0,0,12,6,5,9,11,12,0,0,0,48,11,19,36.7,19:30:00,/en/matches/15b10b33/Brighton-and-Hove-Albion-Brentford-December-27-2024-Premier-League,Brighton
+2024-12-30,Matchweek 19,Mon,Home,D,2,2,Aston Villa,2,0,0,9,14,2,19,4,12,1,0,0,46,11,11,50.0,19:45:00,/en/matches/5e8340e9/Aston-Villa-Brighton-and-Hove-Albion-December-30-2024-Premier-League,Brighton
+2025-01-04,Matchweek 20,Sat,Away,D,1,1,Arsenal,3,0,0,14,17,3,15,5,7,0,1,0,42,12,12,50.0,17:30:00,/en/matches/52186da4/Brighton-and-Hove-Albion-Arsenal-January-4-2025-Premier-League,Brighton
+2025-01-16,Matchweek 21,Thu,Home,L,0,2,Ipswich Town,2,0,0,13,14,1,9,10,8,0,0,0,38,11,16,40.7,19:30:00,/en/matches/ace86fcc/Ipswich-Town-Brighton-and-Hove-Albion-January-16-2025-Premier-League,Brighton
+2025-01-19,Matchweek 22,Sun,Home,L,1,3,Manchester Utd,3,0,0,13,12,3,10,11,10,1,0,0,43,13,12,52.0,14:00:00,/en/matches/45028d5b/Manchester-United-Brighton-and-Hove-Albion-January-19-2025-Premier-League,Brighton
+2025-01-25,Matchweek 23,Sat,Away,W,1,0,Everton,4,0,0,11,7,1,4,11,15,0,0,0,37,23,20,53.5,15:00:00,/en/matches/b54aac79/Brighton-and-Hove-Albion-Everton-January-25-2025-Premier-League,Brighton
+2025-02-01,Matchweek 24,Sat,Home,W,7,0,Nott'ham Forest,1,0,0,8,12,1,10,7,15,1,0,0,47,15,8,65.2,12:30:00,/en/matches/897ab235/Nottingham-Forest-Brighton-and-Hove-Albion-February-1-2025-Premier-League,Brighton
+2025-02-14,Matchweek 25,Fri,Away,L,0,3,Chelsea,2,0,0,15,12,3,18,7,4,0,0,0,36,13,13,50.0,20:00:00,/en/matches/ed780e1d/Brighton-and-Hove-Albion-Chelsea-February-14-2025-Premier-League,Brighton
+2025-02-22,Matchweek 26,Sat,Home,L,0,4,Southampton,2,0,0,11,12,2,11,13,7,0,0,0,50,12,21,36.4,15:00:00,/en/matches/e757bea1/Southampton-Brighton-and-Hove-Albion-February-22-2025-Premier-League,Brighton
+2025-02-25,Matchweek 27,Tue,Away,L,1,2,Bournemouth,1,0,0,14,12,4,22,12,13,0,1,0,44,25,18,58.1,19:30:00,/en/matches/fade9277/Brighton-and-Hove-Albion-Bournemouth-February-25-2025-Premier-League,Brighton
+2024-08-18,Matchweek 1,Sun,Away,W,2,0,Manchester City,1,0,0,9,12,1,11,10,9,0,0,0,41,5,3,62.5,16:30:00,/en/matches/67a0c715/Chelsea-Manchester-City-August-18-2024-Premier-League,Chelsea
+2024-08-25,Matchweek 2,Sun,Home,L,2,6,Wolves,2,0,0,13,13,3,13,9,10,0,0,0,43,8,5,61.5,14:00:00,/en/matches/e76c15c9/Wolverhampton-Wanderers-Chelsea-August-25-2024-Premier-League,Chelsea
+2024-09-01,Matchweek 3,Sun,Away,D,1,1,Crystal Palace,2,0,0,13,9,1,9,6,11,0,0,0,31,7,10,41.2,13:30:00,/en/matches/3387c2c8/Chelsea-Crystal-Palace-September-1-2024-Premier-League,Chelsea
+2024-09-14,Matchweek 4,Sat,Home,L,0,1,Bournemouth,6,0,0,16,9,4,17,10,8,1,0,0,59,15,11,57.7,20:00:00,/en/matches/456b4762/Bournemouth-Chelsea-September-14-2024-Premier-League,Chelsea
+2024-09-21,Matchweek 5,Sat,Home,L,0,3,West Ham,5,0,0,17,9,2,29,8,6,0,0,0,46,9,10,47.4,12:30:00,/en/matches/ce0fb1f5/West-Ham-United-Chelsea-September-21-2024-Premier-League,Chelsea
+2024-09-28,Matchweek 6,Sat,Away,L,2,4,Brighton,2,0,0,8,11,2,16,12,8,0,1,0,53,11,6,64.7,15:00:00,/en/matches/1714cebe/Chelsea-Brighton-and-Hove-Albion-September-28-2024-Premier-League,Chelsea
+2024-10-06,Matchweek 7,Sun,Away,D,1,1,Nott'ham Forest,4,1,1,11,11,3,11,6,6,0,0,0,35,15,13,53.6,14:00:00,/en/matches/b9e00aac/Chelsea-Nottingham-Forest-October-6-2024-Premier-League,Chelsea
+2024-10-20,Matchweek 8,Sun,Home,W,2,1,Liverpool,4,0,0,12,13,5,4,6,18,1,0,0,40,6,10,37.5,16:30:00,/en/matches/99b4737c/Liverpool-Chelsea-October-20-2024-Premier-League,Chelsea
+2024-10-27,Matchweek 9,Sun,Away,L,1,2,Newcastle Utd,3,0,0,16,13,1,11,6,8,0,0,0,37,14,13,51.9,14:00:00,/en/matches/33571b04/Chelsea-Newcastle-United-October-27-2024-Premier-League,Chelsea
+2024-11-03,Matchweek 10,Sun,Home,D,1,1,Manchester Utd,6,0,0,19,13,4,13,11,13,1,0,0,41,8,17,32.0,16:30:00,/en/matches/1273ae28/Manchester-United-Chelsea-November-3-2024-Premier-League,Chelsea
+2024-11-10,Matchweek 11,Sun,Away,D,1,1,Arsenal,2,0,0,12,12,7,17,6,6,0,0,0,34,10,9,52.6,16:30:00,/en/matches/2874d56e/North-West-London-Derby-Chelsea-Arsenal-November-10-2024-Premier-League,Chelsea
+2024-11-23,Matchweek 12,Sat,Home,L,1,2,Leicester City,4,0,0,15,11,3,7,8,9,1,0,0,35,7,8,46.7,12:30:00,/en/matches/bb885467/Leicester-City-Chelsea-November-23-2024-Premier-League,Chelsea
+2024-12-01,Matchweek 13,Sun,Away,L,0,3,Aston Villa,2,0,0,6,20,1,7,10,7,0,0,0,29,6,5,54.5,13:30:00,/en/matches/080b797b/Chelsea-Aston-Villa-December-1-2024-Premier-League,Chelsea
+2024-12-04,Matchweek 14,Wed,Home,L,1,5,Southampton,1,1,0,7,13,3,16,6,10,0,0,0,28,7,6,53.8,19:30:00,/en/matches/e4480630/Southampton-Chelsea-December-4-2024-Premier-League,Chelsea
+2024-12-08,Matchweek 15,Sun,Home,L,3,4,Tottenham,2,0,0,17,11,3,15,4,14,0,2,0,41,8,8,50.0,16:30:00,/en/matches/abff9b73/Tottenham-Hotspur-Chelsea-December-8-2024-Premier-League,Chelsea
+2024-12-15,Matchweek 16,Sun,Away,L,1,2,Brentford,2,0,0,7,9,3,18,6,12,0,0,0,48,19,20,48.7,19:00:00,/en/matches/5f0803f7/Chelsea-Brentford-December-15-2024-Premier-League,Chelsea
+2024-12-22,Matchweek 17,Sun,Home,D,0,0,Everton,4,0,0,20,11,2,9,10,11,0,0,0,29,9,9,50.0,14:00:00,/en/matches/de72140c/Everton-Chelsea-December-22-2024-Premier-League,Chelsea
+2024-12-26,Matchweek 18,Thu,Away,W,2,1,Fulham,3,0,0,13,12,1,20,12,5,0,0,0,49,11,7,61.1,15:00:00,/en/matches/03d6159c/Chelsea-Fulham-December-26-2024-Premier-League,Chelsea
+2024-12-30,Matchweek 19,Mon,Home,W,2,0,Ipswich Town,4,0,0,9,5,0,7,6,7,1,0,0,35,14,16,46.7,19:45:00,/en/matches/88073205/Ipswich-Town-Chelsea-December-30-2024-Premier-League,Chelsea
+2025-01-04,Matchweek 20,Sat,Home,D,1,1,Crystal Palace,0,0,0,9,12,2,19,7,16,0,0,0,48,15,8,65.2,15:00:00,/en/matches/cd9861d5/Crystal-Palace-Chelsea-January-4-2025-Premier-League,Chelsea
+2025-01-14,Matchweek 21,Tue,Away,D,2,2,Bournemouth,3,0,0,16,15,1,12,10,9,1,0,0,39,11,15,42.3,19:30:00,/en/matches/fff671a9/Chelsea-Bournemouth-January-14-2025-Premier-League,Chelsea
+2025-01-20,Matchweek 22,Mon,Away,L,1,3,Wolves,2,0,0,14,7,2,18,9,11,0,0,0,39,9,12,42.9,20:00:00,/en/matches/e62cfa12/Chelsea-Wolverhampton-Wanderers-January-20-2025-Premier-League,Chelsea
+2025-01-25,Matchweek 23,Sat,Home,W,3,1,Manchester City,3,0,0,6,8,5,5,6,9,0,0,0,39,7,8,46.7,17:30:00,/en/matches/bfd54040/Manchester-City-Chelsea-January-25-2025-Premier-League,Chelsea
+2025-02-03,Matchweek 24,Mon,Away,L,1,2,West Ham,1,0,0,10,11,1,14,11,7,0,0,1,36,13,19,40.6,20:00:00,/en/matches/ed7df9b1/Chelsea-West-Ham-United-February-3-2025-Premier-League,Chelsea
+2025-02-14,Matchweek 25,Fri,Home,W,3,0,Brighton,1,0,0,12,13,2,3,13,11,0,0,0,32,13,13,50.0,20:00:00,/en/matches/ed780e1d/Brighton-and-Hove-Albion-Chelsea-February-14-2025-Premier-League,Chelsea
+2025-02-22,Matchweek 26,Sat,Home,W,2,1,Aston Villa,1,0,0,15,16,1,13,5,9,0,0,0,41,6,7,46.2,17:30:00,/en/matches/5109d405/Aston-Villa-Chelsea-February-22-2025-Premier-League,Chelsea
+2025-02-25,Matchweek 27,Tue,Away,L,0,4,Southampton,2,0,0,9,5,0,10,9,11,0,0,0,36,8,11,42.1,20:15:00,/en/matches/21d4a457/Chelsea-Southampton-February-25-2025-Premier-League,Chelsea
+2024-08-18,Matchweek 1,Sun,Home,W,2,1,Brentford,1,0,0,6,15,1,17,11,10,0,0,1,47,19,14,57.6,14:00:00,/en/matches/b63822b9/Brentford-Crystal-Palace-August-18-2024-Premier-League,Crystal Palace
+2024-08-24,Matchweek 2,Sat,Away,W,2,0,West Ham,1,0,0,17,9,2,14,15,12,0,0,0,52,23,13,63.9,15:00:00,/en/matches/540cfb68/Crystal-Palace-West-Ham-United-August-24-2024-Premier-League,Crystal Palace
+2024-09-01,Matchweek 3,Sun,Home,D,1,1,Chelsea,4,0,0,9,13,0,19,8,7,0,0,0,46,10,7,58.8,13:30:00,/en/matches/3387c2c8/Chelsea-Crystal-Palace-September-1-2024-Premier-League,Crystal Palace
+2024-09-14,Matchweek 4,Sat,Away,D,2,2,Leicester City,3,0,0,15,10,0,8,8,8,0,1,0,37,12,21,36.4,15:00:00,/en/matches/430cce12/Crystal-Palace-Leicester-City-September-14-2024-Premier-League,Crystal Palace
+2024-09-21,Matchweek 5,Sat,Away,D,0,0,Manchester Utd,2,0,0,12,6,0,23,9,8,0,0,0,44,18,13,58.1,17:30:00,/en/matches/929e225f/Crystal-Palace-Manchester-United-September-21-2024-Premier-League,Crystal Palace
+2024-09-28,Matchweek 6,Sat,Home,W,2,1,Everton,2,0,0,13,9,2,23,16,5,0,0,0,45,28,20,58.3,15:00:00,/en/matches/d47382cd/Everton-Crystal-Palace-September-28-2024-Premier-League,Crystal Palace
+2024-10-05,Matchweek 7,Sat,Away,W,1,0,Liverpool,2,0,0,15,7,0,16,13,6,0,0,0,43,27,7,79.4,12:30:00,/en/matches/49ea224b/Crystal-Palace-Liverpool-October-5-2024-Premier-League,Crystal Palace
+2024-10-21,Matchweek 8,Mon,Home,W,1,0,Nott'ham Forest,2,0,0,9,11,2,23,14,5,0,0,0,39,18,14,56.3,20:00:00,/en/matches/5ed3894e/Nottingham-Forest-Crystal-Palace-October-21-2024-Premier-League,Crystal Palace
+2024-10-27,Matchweek 9,Sun,Away,L,0,1,Tottenham,4,0,0,12,16,1,28,10,14,0,0,0,51,15,21,41.7,14:00:00,/en/matches/e995d937/Crystal-Palace-Tottenham-Hotspur-October-27-2024-Premier-League,Crystal Palace
+2024-11-02,Matchweek 10,Sat,Home,D,2,2,Wolves,1,0,0,7,8,4,12,13,10,0,0,0,41,13,15,46.4,17:30:00,/en/matches/a4251fae/Wolverhampton-Wanderers-Crystal-Palace-November-2-2024-Premier-League,Crystal Palace
+2024-11-09,Matchweek 11,Sat,Away,W,2,0,Fulham,1,0,0,11,10,4,20,11,10,0,0,0,58,17,13,56.7,15:00:00,/en/matches/d5015ba4/Crystal-Palace-Fulham-November-9-2024-Premier-League,Crystal Palace
+2024-11-23,Matchweek 12,Sat,Home,D,2,2,Aston Villa,3,0,0,10,10,1,20,4,5,1,0,0,51,12,11,52.2,15:00:00,/en/matches/bf2e07a1/Aston-Villa-Crystal-Palace-November-23-2024-Premier-League,Crystal Palace
+2024-11-30,Matchweek 13,Sat,Away,D,1,1,Newcastle Utd,3,0,0,11,12,2,22,8,9,0,0,0,42,16,16,50.0,15:00:00,/en/matches/a4f03af0/Crystal-Palace-Newcastle-United-November-30-2024-Premier-League,Crystal Palace
+2024-12-03,Matchweek 14,Tue,Home,L,0,1,Ipswich Town,2,0,0,14,13,1,21,9,11,0,0,0,47,31,15,67.4,19:30:00,/en/matches/f7a96e82/Ipswich-Town-Crystal-Palace-December-3-2024-Premier-League,Crystal Palace
+2024-12-07,Matchweek 15,Sat,Away,D,2,2,Manchester City,2,1,1,10,4,2,16,7,7,0,0,0,43,12,6,66.7,15:00:00,/en/matches/6b7fbda1/Crystal-Palace-Manchester-City-December-7-2024-Premier-League,Crystal Palace
+2024-12-15,Matchweek 16,Sun,Home,L,1,3,Brighton,1,0,0,11,13,1,23,5,16,0,0,0,43,13,15,46.4,14:00:00,/en/matches/c8314a05/Brighton-and-Hove-Albion-Crystal-Palace-December-15-2024-Premier-League,Crystal Palace
+2024-12-21,Matchweek 17,Sat,Away,W,5,1,Arsenal,2,0,0,8,8,0,17,11,10,0,0,0,33,19,13,59.4,17:30:00,/en/matches/5e7aa707/Crystal-Palace-Arsenal-December-21-2024-Premier-League,Crystal Palace
+2024-12-26,Matchweek 18,Thu,Home,D,0,0,Bournemouth,2,0,0,13,11,1,27,6,16,0,0,0,62,15,19,44.1,15:00:00,/en/matches/886ca6b3/Bournemouth-Crystal-Palace-December-26-2024-Premier-League,Crystal Palace
+2024-12-29,Matchweek 19,Sun,Away,L,1,2,Southampton,3,0,0,19,18,1,22,13,8,0,0,0,52,24,17,58.5,15:00:00,/en/matches/6d06b29c/Crystal-Palace-Southampton-December-29-2024-Premier-League,Crystal Palace
+2025-01-04,Matchweek 20,Sat,Away,D,1,1,Chelsea,2,0,0,12,9,0,14,8,5,0,0,0,52,8,15,34.8,15:00:00,/en/matches/cd9861d5/Crystal-Palace-Chelsea-January-4-2025-Premier-League,Crystal Palace
+2025-01-15,Matchweek 21,Wed,Home,L,0,2,Leicester City,0,0,0,7,5,1,22,9,11,0,0,0,53,14,14,50.0,19:30:00,/en/matches/99eb6105/Leicester-City-Crystal-Palace-January-15-2025-Premier-League,Crystal Palace
+2025-01-18,Matchweek 22,Sat,Home,L,0,2,West Ham,3,1,1,13,10,1,13,11,6,0,1,0,44,17,10,63.0,15:00:00,/en/matches/03ac4a9c/West-Ham-United-Crystal-Palace-January-18-2025-Premier-League,Crystal Palace
+2025-01-26,Matchweek 23,Sun,Away,W,2,1,Brentford,2,0,0,11,8,0,18,2,9,1,0,0,48,19,18,51.4,14:00:00,/en/matches/68d6e8fe/Crystal-Palace-Brentford-January-26-2025-Premier-League,Crystal Palace
+2025-02-02,Matchweek 24,Sun,Home,L,0,2,Manchester Utd,3,0,0,12,12,0,23,12,10,0,0,0,51,19,18,51.4,14:00:00,/en/matches/83dba981/Manchester-United-Crystal-Palace-February-2-2025-Premier-League,Crystal Palace
+2025-02-15,Matchweek 25,Sat,Away,W,2,1,Everton,1,0,0,12,9,1,17,11,6,0,0,0,40,32,22,59.3,17:30:00,/en/matches/35ee3617/Crystal-Palace-Everton-February-15-2025-Premier-League,Crystal Palace
+2025-02-22,Matchweek 26,Sat,Home,L,0,2,Fulham,1,0,0,10,7,0,27,8,5,0,0,1,51,16,9,64.0,15:00:00,/en/matches/7289bcdf/Fulham-Crystal-Palace-February-22-2025-Premier-League,Crystal Palace
+2025-02-25,Matchweek 27,Tue,Away,L,1,4,Aston Villa,1,0,0,10,19,7,13,9,4,0,0,0,43,13,9,59.1,19:30:00,/en/matches/0a97629a/Crystal-Palace-Aston-Villa-February-25-2025-Premier-League,Crystal Palace
+2024-08-17,Matchweek 1,Sat,Away,W,3,0,Brighton,1,0,0,8,8,1,14,8,13,0,0,0,43,13,18,41.9,15:00:00,/en/matches/71618ace/Everton-Brighton-and-Hove-Albion-August-17-2024-Premier-League,Everton
+2024-08-24,Matchweek 2,Sat,Home,W,4,0,Tottenham,0,0,0,11,15,0,20,4,16,0,0,0,43,11,14,44.0,15:00:00,/en/matches/1eef1717/Tottenham-Hotspur-Everton-August-24-2024-Premier-League,Everton
+2024-08-31,Matchweek 3,Sat,Away,W,3,2,Bournemouth,1,0,0,11,6,2,24,7,10,0,0,0,51,17,22,43.6,15:00:00,/en/matches/58bbe046/Everton-Bournemouth-August-31-2024-Premier-League,Everton
+2024-09-14,Matchweek 4,Sat,Home,W,3,2,Aston Villa,1,0,0,10,12,1,21,4,15,0,0,0,37,8,11,42.1,17:30:00,/en/matches/cdb4c33b/Aston-Villa-Everton-September-14-2024-Premier-League,Everton
+2024-09-21,Matchweek 5,Sat,Home,D,1,1,Leicester City,1,0,0,11,12,2,29,4,17,0,0,0,41,17,12,58.6,15:00:00,/en/matches/4e6e1cc7/Leicester-City-Everton-September-21-2024-Premier-League,Everton
+2024-09-28,Matchweek 6,Sat,Away,L,1,2,Crystal Palace,0,0,0,11,13,0,20,8,17,0,0,0,51,20,28,41.7,15:00:00,/en/matches/d47382cd/Everton-Crystal-Palace-September-28-2024-Premier-League,Everton
+2024-10-05,Matchweek 7,Sat,Away,D,0,0,Newcastle Utd,2,0,0,8,12,3,22,8,13,1,0,0,53,11,13,45.8,17:30:00,/en/matches/e99a7857/Everton-Newcastle-United-October-5-2024-Premier-League,Everton
+2024-10-19,Matchweek 8,Sat,Home,L,0,2,Ipswich Town,1,0,0,12,9,1,27,9,9,0,0,0,40,12,11,52.2,15:00:00,/en/matches/2273e126/Ipswich-Town-Everton-October-19-2024-Premier-League,Everton
+2024-10-26,Matchweek 9,Sat,Away,D,1,1,Fulham,0,0,0,8,7,2,17,4,11,0,0,0,44,8,18,30.8,17:30:00,/en/matches/1e5152bf/Everton-Fulham-October-26-2024-Premier-League,Everton
+2024-11-02,Matchweek 10,Sat,Home,W,1,0,Southampton,4,0,0,14,16,3,19,7,8,0,0,0,43,7,5,58.3,15:00:00,/en/matches/2be42fdb/Southampton-Everton-November-2-2024-Premier-League,Everton
+2024-11-09,Matchweek 11,Sat,Home,D,0,0,West Ham,1,0,0,10,9,1,14,4,6,0,0,0,39,18,18,50.0,15:00:00,/en/matches/a4cf40b4/West-Ham-United-Everton-November-9-2024-Premier-League,Everton
+2024-11-23,Matchweek 12,Sat,Away,D,0,0,Brentford,0,1,0,10,7,3,11,3,11,0,0,0,31,18,15,54.5,15:00:00,/en/matches/dd7675a7/Everton-Brentford-November-23-2024-Premier-League,Everton
+2024-12-01,Matchweek 13,Sun,Home,W,4,0,Manchester Utd,2,0,0,12,12,3,6,10,11,0,0,0,38,9,10,47.4,13:30:00,/en/matches/e6eef20f/Manchester-United-Everton-December-1-2024-Premier-League,Everton
+2024-12-04,Matchweek 14,Wed,Away,L,0,4,Wolves,0,0,0,8,10,0,13,6,20,0,0,2,44,10,8,55.6,19:30:00,/en/matches/71f00b04/Everton-Wolverhampton-Wanderers-December-4-2024-Premier-League,Everton
+2024-12-14,Matchweek 16,Sat,Home,D,0,0,Arsenal,0,0,0,6,9,5,28,0,10,0,0,0,47,14,9,60.9,15:00:00,/en/matches/32aa9e8e/Arsenal-Everton-December-14-2024-Premier-League,Everton
+2024-12-22,Matchweek 17,Sun,Away,D,0,0,Chelsea,1,0,0,12,19,1,18,2,14,0,0,0,35,9,9,50.0,14:00:00,/en/matches/de72140c/Everton-Chelsea-December-22-2024-Premier-League,Everton
+2024-12-26,Matchweek 18,Thu,Home,D,1,1,Manchester City,1,0,0,5,10,2,23,1,8,1,0,0,37,9,9,50.0,12:30:00,/en/matches/87f2d794/Manchester-City-Everton-December-26-2024-Premier-League,Everton
+2024-12-29,Matchweek 19,Sun,Away,W,2,0,Nott'ham Forest,1,0,0,10,13,2,8,10,13,0,0,0,52,22,26,45.8,15:00:00,/en/matches/5fa986dc/Everton-Nottingham-Forest-December-29-2024-Premier-League,Everton
+2025-01-04,Matchweek 20,Sat,Home,W,1,0,Bournemouth,2,0,0,15,14,1,33,10,12,0,0,0,47,25,12,67.6,15:00:00,/en/matches/43f0c302/Bournemouth-Everton-January-4-2025-Premier-League,Everton
+2025-01-15,Matchweek 21,Wed,Away,W,1,0,Aston Villa,1,0,0,10,17,1,10,9,16,0,0,0,45,19,16,54.3,19:30:00,/en/matches/3e70b855/Everton-Aston-Villa-January-15-2025-Premier-League,Everton
+2025-01-19,Matchweek 22,Sun,Away,L,2,3,Tottenham,1,0,0,14,14,1,19,4,15,0,0,1,38,14,16,46.7,14:00:00,/en/matches/e9f61cb0/Everton-Tottenham-Hotspur-January-19-2025-Premier-League,Everton
+2025-01-25,Matchweek 23,Sat,Home,L,0,1,Brighton,4,0,0,8,11,2,30,7,10,0,1,0,46,20,23,46.5,15:00:00,/en/matches/b54aac79/Brighton-and-Hove-Albion-Everton-January-25-2025-Premier-League,Everton
+2025-02-01,Matchweek 24,Sat,Away,L,0,4,Leicester City,0,0,0,13,6,1,22,5,10,0,0,0,40,13,16,44.8,15:00:00,/en/matches/475670fb/Everton-Leicester-City-February-1-2025-Premier-League,Everton
+2025-02-12,Matchweek 15,Wed,Away,D,2,2,Liverpool,4,1,1,20,9,2,10,8,10,0,0,0,35,22,20,52.4,19:30:00,/en/matches/92627434/Merseyside-Derby-Everton-Liverpool-February-12-2025-Premier-League,Everton
+2025-02-15,Matchweek 25,Sat,Home,L,1,2,Crystal Palace,0,0,0,9,12,3,20,7,11,0,0,0,44,22,32,40.7,17:30:00,/en/matches/35ee3617/Crystal-Palace-Everton-February-15-2025-Premier-League,Everton
+2025-02-22,Matchweek 26,Sat,Away,D,2,2,Manchester Utd,1,0,0,9,11,0,20,13,15,0,0,0,46,19,20,48.7,12:30:00,/en/matches/e5b45c4d/Everton-Manchester-United-February-22-2025-Premier-League,Everton
+2025-02-26,Matchweek 27,Wed,Home,D,1,1,Brentford,2,0,0,3,5,1,20,9,8,0,0,0,37,14,16,46.7,19:30:00,/en/matches/1218933c/Brentford-Everton-February-26-2025-Premier-League,Everton
+2024-08-16,Matchweek 1,Fri,Home,W,1,0,Manchester Utd,2,0,0,12,10,3,18,19,14,0,0,0,58,19,16,54.3,20:00:00,/en/matches/cc5b4244/Manchester-United-Fulham-August-16-2024-Premier-League,Fulham
+2024-08-24,Matchweek 2,Sat,Away,L,1,2,Leicester City,2,0,0,13,14,5,12,7,14,0,0,0,38,13,16,44.8,15:00:00,/en/matches/4d0079fb/Fulham-Leicester-City-August-24-2024-Premier-League,Fulham
+2024-08-31,Matchweek 3,Sat,Home,D,1,1,Ipswich Town,2,0,0,15,15,4,16,4,9,0,0,0,39,11,12,47.8,15:00:00,/en/matches/cec85838/Ipswich-Town-Fulham-August-31-2024-Premier-League,Fulham
+2024-09-14,Matchweek 4,Sat,Away,D,1,1,West Ham,3,0,0,18,15,2,16,10,10,0,0,0,40,10,20,33.3,15:00:00,/en/matches/fa2b1777/Fulham-West-Ham-United-September-14-2024-Premier-League,Fulham
+2024-09-21,Matchweek 5,Sat,Away,L,1,3,Newcastle Utd,0,0,0,8,16,6,12,10,5,0,0,0,37,15,6,71.4,15:00:00,/en/matches/de7298df/Fulham-Newcastle-United-September-21-2024-Premier-League,Fulham
+2024-09-28,Matchweek 6,Sat,Home,L,0,1,Nott'ham Forest,2,0,0,11,15,7,26,9,3,0,1,0,34,18,7,72.0,15:00:00,/en/matches/ee7d3371/Nottingham-Forest-Fulham-September-28-2024-Premier-League,Fulham
+2024-10-05,Matchweek 7,Sat,Home,W,3,2,Manchester City,2,0,0,4,10,0,16,4,7,0,0,0,39,7,5,58.3,15:00:00,/en/matches/61d60f62/Manchester-City-Fulham-October-5-2024-Premier-League,Fulham
+2024-10-19,Matchweek 8,Sat,Away,W,3,1,Aston Villa,5,1,1,11,8,2,19,14,5,0,1,0,33,5,14,26.3,15:00:00,/en/matches/615d637e/Fulham-Aston-Villa-October-19-2024-Premier-League,Fulham
+2024-10-26,Matchweek 9,Sat,Home,D,1,1,Everton,1,0,0,8,8,4,17,8,12,0,0,0,40,18,8,69.2,17:30:00,/en/matches/1e5152bf/Everton-Fulham-October-26-2024-Premier-League,Fulham
+2024-11-04,Matchweek 10,Mon,Away,L,1,2,Brentford,1,0,0,10,3,0,6,12,12,0,0,0,40,23,16,59.0,20:00:00,/en/matches/e1590847/Fulham-Brentford-November-4-2024-Premier-League,Fulham
+2024-11-09,Matchweek 11,Sat,Home,L,0,2,Crystal Palace,1,1,0,10,10,1,12,19,11,0,0,0,46,13,17,43.3,15:00:00,/en/matches/d5015ba4/Crystal-Palace-Fulham-November-9-2024-Premier-League,Fulham
+2024-11-23,Matchweek 12,Sat,Away,W,4,1,Wolves,0,0,0,14,13,1,6,8,10,0,0,0,48,7,6,53.8,15:00:00,/en/matches/ed24aeb8/Fulham-Wolverhampton-Wanderers-November-23-2024-Premier-League,Fulham
+2024-12-01,Matchweek 13,Sun,Home,D,1,1,Tottenham,0,0,0,4,14,1,16,9,9,0,0,0,49,12,15,44.4,13:30:00,/en/matches/9aaa6ed5/Tottenham-Hotspur-Fulham-December-1-2024-Premier-League,Fulham
+2024-12-05,Matchweek 14,Thu,Away,L,1,3,Brighton,2,0,0,8,7,1,21,11,5,0,0,1,36,13,15,46.4,19:30:00,/en/matches/32aaf579/Fulham-Brighton-and-Hove-Albion-December-5-2024-Premier-League,Fulham
+2024-12-08,Matchweek 15,Sun,Away,D,1,1,Arsenal,2,0,0,9,9,3,33,6,6,0,0,0,51,10,6,62.5,14:00:00,/en/matches/038dfa98/Fulham-Arsenal-December-8-2024-Premier-League,Fulham
+2024-12-14,Matchweek 16,Sat,Home,D,2,2,Liverpool,3,1,0,10,7,2,31,9,9,0,0,0,39,13,9,59.1,15:00:00,/en/matches/a436996c/Liverpool-Fulham-December-14-2024-Premier-League,Fulham
+2024-12-22,Matchweek 17,Sun,Away,D,0,0,Southampton,3,0,0,15,8,2,13,11,11,0,0,0,40,15,15,50.0,14:00:00,/en/matches/ba3fcb1e/Fulham-Southampton-December-22-2024-Premier-League,Fulham
+2024-12-26,Matchweek 18,Thu,Home,L,1,2,Chelsea,1,0,0,13,13,3,14,6,7,0,0,0,42,7,11,38.9,15:00:00,/en/matches/03d6159c/Chelsea-Fulham-December-26-2024-Premier-League,Fulham
+2024-12-29,Matchweek 19,Sun,Away,D,2,2,Bournemouth,3,0,0,16,7,0,25,9,8,0,0,0,50,25,15,62.5,15:00:00,/en/matches/4b4023dc/Fulham-Bournemouth-December-29-2024-Premier-League,Fulham
+2025-01-05,Matchweek 20,Sun,Away,D,2,2,Ipswich Town,5,0,0,14,10,1,7,15,6,1,2,0,34,19,24,44.2,14:00:00,/en/matches/8b69ef69/Fulham-Ipswich-Town-January-5-2025-Premier-League,Fulham
+2025-01-14,Matchweek 21,Tue,Home,W,3,2,West Ham,3,0,0,9,18,5,5,7,9,0,0,0,37,15,15,50.0,19:30:00,/en/matches/c6168c73/West-Ham-United-Fulham-January-14-2025-Premier-League,Fulham
+2025-01-18,Matchweek 22,Sat,Home,L,0,2,Leicester City,3,0,0,8,8,2,17,8,8,0,0,0,39,20,20,50.0,15:00:00,/en/matches/bc3ae18e/Leicester-City-Fulham-January-18-2025-Premier-League,Fulham
+2025-01-26,Matchweek 23,Sun,Away,W,1,0,Manchester Utd,1,0,0,9,7,2,7,7,9,0,0,0,46,16,13,55.2,19:00:00,/en/matches/eb14e391/Fulham-Manchester-United-January-26-2025-Premier-League,Fulham
+2025-02-01,Matchweek 24,Sat,Home,L,1,2,Newcastle Utd,4,0,0,10,15,4,17,4,2,0,0,0,37,13,13,50.0,15:00:00,/en/matches/5ec3f48b/Newcastle-United-Fulham-February-1-2025-Premier-League,Fulham
+2025-02-15,Matchweek 25,Sat,Away,L,1,2,Nott'ham Forest,0,0,0,8,12,1,18,8,7,0,0,0,39,15,16,48.4,15:00:00,/en/matches/5968d7ad/Fulham-Nottingham-Forest-February-15-2025-Premier-League,Fulham
+2025-02-22,Matchweek 26,Sat,Away,W,2,0,Crystal Palace,3,0,0,7,10,3,10,10,11,0,0,0,40,9,16,36.0,15:00:00,/en/matches/7289bcdf/Fulham-Crystal-Palace-February-22-2025-Premier-League,Fulham
+2025-02-25,Matchweek 27,Tue,Home,L,1,2,Wolves,1,0,0,8,15,1,29,6,5,0,0,0,42,12,18,40.0,19:30:00,/en/matches/7aecfc4c/Wolverhampton-Wanderers-Fulham-February-25-2025-Premier-League,Fulham
+2024-08-17,Matchweek 1,Sat,Away,W,2,0,Liverpool,1,0,0,18,8,0,23,5,4,0,0,0,40,18,11,62.1,12:30:00,/en/matches/a1d0d529/Ipswich-Town-Liverpool-August-17-2024-Premier-League,Ipswich Town
+2024-08-24,Matchweek 2,Sat,Home,W,4,1,Manchester City,2,0,0,4,15,3,17,6,6,1,0,0,32,5,7,41.7,15:00:00,/en/matches/a24b7a43/Manchester-City-Ipswich-Town-August-24-2024-Premier-League,Ipswich Town
+2024-08-31,Matchweek 3,Sat,Away,D,1,1,Fulham,3,0,0,15,15,0,26,6,7,0,0,0,30,12,11,52.2,15:00:00,/en/matches/cec85838/Ipswich-Town-Fulham-August-31-2024-Premier-League,Ipswich Town
+2024-09-14,Matchweek 4,Sat,Home,D,0,0,Brighton,4,0,0,14,16,1,29,9,11,0,0,0,50,17,18,48.6,15:00:00,/en/matches/2ffa4354/Brighton-and-Hove-Albion-Ipswich-Town-September-14-2024-Premier-League,Ipswich Town
+2024-09-21,Matchweek 5,Sat,Home,D,1,1,Southampton,4,0,0,16,16,3,9,15,7,0,0,0,33,8,18,30.8,15:00:00,/en/matches/948d52cc/Southampton-Ipswich-Town-September-21-2024-Premier-League,Ipswich Town
+2024-09-29,Matchweek 6,Sun,Away,D,2,2,Aston Villa,1,0,0,14,10,1,4,5,9,0,0,0,33,7,8,46.7,14:00:00,/en/matches/ef742b9c/Ipswich-Town-Aston-Villa-September-29-2024-Premier-League,Ipswich Town
+2024-10-05,Matchweek 7,Sat,Home,W,4,1,West Ham,0,0,0,12,5,3,11,8,11,0,0,0,49,10,16,38.5,15:00:00,/en/matches/93e19c5e/West-Ham-United-Ipswich-Town-October-5-2024-Premier-League,Ipswich Town
+2024-10-19,Matchweek 8,Sat,Away,W,2,0,Everton,1,0,0,10,12,0,13,6,12,0,0,0,39,11,12,47.8,15:00:00,/en/matches/2273e126/Ipswich-Town-Everton-October-19-2024-Premier-League,Ipswich Town
+2024-10-26,Matchweek 9,Sat,Home,W,4,3,Brentford,0,0,0,7,10,2,26,4,6,1,0,0,38,25,14,64.1,15:00:00,/en/matches/1fb2dcde/Brentford-Ipswich-Town-October-26-2024-Premier-League,Ipswich Town
+2024-11-02,Matchweek 10,Sat,Away,D,1,1,Leicester City,2,0,0,10,11,0,21,4,11,0,0,0,40,18,20,47.4,15:00:00,/en/matches/ed8f93a0/Ipswich-Town-Leicester-City-November-2-2024-Premier-League,Ipswich Town
+2024-11-10,Matchweek 11,Sun,Home,L,1,2,Tottenham,1,0,0,10,19,0,33,13,6,0,0,0,48,15,12,55.6,14:00:00,/en/matches/f9b9c3c4/Tottenham-Hotspur-Ipswich-Town-November-10-2024-Premier-League,Ipswich Town
+2024-11-24,Matchweek 12,Sun,Away,D,1,1,Manchester Utd,0,0,0,10,11,1,7,11,8,0,0,0,38,13,9,59.1,16:30:00,/en/matches/db1e4ea5/Ipswich-Town-Manchester-United-November-24-2024-Premier-League,Ipswich Town
+2024-11-30,Matchweek 13,Sat,Home,W,1,0,Nott'ham Forest,1,0,0,5,14,3,20,8,12,1,0,0,35,16,17,48.5,15:00:00,/en/matches/ddc8856c/Nottingham-Forest-Ipswich-Town-November-30-2024-Premier-League,Ipswich Town
+2024-12-03,Matchweek 14,Tue,Away,W,1,0,Crystal Palace,4,0,0,13,14,1,18,4,9,0,0,0,43,15,31,32.6,19:30:00,/en/matches/f7a96e82/Ipswich-Town-Crystal-Palace-December-3-2024-Premier-League,Ipswich Town
+2024-12-08,Matchweek 15,Sun,Away,W,2,1,Bournemouth,1,0,0,13,7,0,23,10,15,0,0,0,64,19,25,43.2,14:00:00,/en/matches/392c7b1f/Ipswich-Town-Bournemouth-December-8-2024-Premier-League,Ipswich Town
+2024-12-14,Matchweek 16,Sat,Home,L,1,2,Wolves,2,1,1,13,9,2,25,6,13,0,0,1,57,12,15,44.4,15:00:00,/en/matches/46d52e33/Wolverhampton-Wanderers-Ipswich-Town-December-14-2024-Premier-League,Ipswich Town
+2024-12-21,Matchweek 17,Sat,Away,W,4,0,Newcastle Utd,0,0,0,7,9,1,10,6,10,0,0,0,52,7,8,46.7,15:00:00,/en/matches/764fc51e/Ipswich-Town-Newcastle-United-December-21-2024-Premier-League,Ipswich Town
+2024-12-27,Matchweek 18,Fri,Home,W,1,0,Arsenal,1,0,0,7,10,1,18,4,13,0,0,0,36,13,14,48.1,20:15:00,/en/matches/668dad03/Arsenal-Ipswich-Town-December-27-2024-Premier-League,Ipswich Town
+2024-12-30,Matchweek 19,Mon,Away,L,0,2,Chelsea,4,0,0,5,7,2,19,5,5,0,1,0,44,16,14,53.3,19:45:00,/en/matches/88073205/Ipswich-Town-Chelsea-December-30-2024-Premier-League,Ipswich Town
+2025-01-05,Matchweek 20,Sun,Home,D,2,2,Fulham,1,0,0,10,14,0,35,2,9,2,1,0,40,24,19,55.8,14:00:00,/en/matches/8b69ef69/Fulham-Ipswich-Town-January-5-2025-Premier-League,Ipswich Town
+2025-01-16,Matchweek 21,Thu,Away,W,2,0,Brighton,2,0,0,14,13,1,22,7,13,0,0,0,47,16,11,59.3,19:30:00,/en/matches/ace86fcc/Ipswich-Town-Brighton-and-Hove-Albion-January-16-2025-Premier-League,Ipswich Town
+2025-01-19,Matchweek 22,Sun,Away,W,6,0,Manchester City,1,0,0,7,4,1,8,7,8,0,0,0,35,6,10,37.5,16:30:00,/en/matches/6c829b8f/Ipswich-Town-Manchester-City-January-19-2025-Premier-League,Ipswich Town
+2025-01-25,Matchweek 23,Sat,Home,W,4,1,Liverpool,0,0,0,10,11,0,24,3,9,0,0,0,47,11,5,68.8,15:00:00,/en/matches/ee59115f/Liverpool-Ipswich-Town-January-25-2025-Premier-League,Ipswich Town
+2025-02-01,Matchweek 24,Sat,Away,W,2,1,Southampton,3,0,0,14,11,4,14,10,17,0,0,0,57,26,19,57.8,15:00:00,/en/matches/1098cac0/Ipswich-Town-Southampton-February-1-2025-Premier-League,Ipswich Town
+2025-02-15,Matchweek 25,Sat,Home,D,1,1,Aston Villa,0,0,0,7,11,2,32,5,8,0,0,0,45,11,7,61.1,15:00:00,/en/matches/06fee8c4/Aston-Villa-Ipswich-Town-February-15-2025-Premier-League,Ipswich Town
+2025-02-22,Matchweek 26,Sat,Away,W,4,1,Tottenham,1,0,0,14,15,1,4,6,9,0,0,0,47,7,4,63.6,15:00:00,/en/matches/7853cd1a/Ipswich-Town-Tottenham-Hotspur-February-22-2025-Premier-League,Ipswich Town
+2025-02-26,Matchweek 27,Wed,Home,W,3,2,Manchester Utd,4,1,0,9,16,0,18,4,10,0,0,0,43,10,14,41.7,19:30:00,/en/matches/bf6aa8ee/Manchester-United-Ipswich-Town-February-26-2025-Premier-League,Ipswich Town
+2024-08-19,Matchweek 1,Mon,Away,D,1,1,Tottenham,1,0,0,12,11,1,28,6,13,0,0,0,45,9,8,52.9,20:00:00,/en/matches/62eea1d6/Leicester-City-Tottenham-Hotspur-August-19-2024-Premier-League,Leicester City
+2024-08-24,Matchweek 2,Sat,Home,W,2,1,Fulham,2,0,0,14,12,0,21,8,10,0,0,0,44,16,13,55.2,15:00:00,/en/matches/4d0079fb/Fulham-Leicester-City-August-24-2024-Premier-League,Leicester City
+2024-08-31,Matchweek 3,Sat,Away,W,2,1,Aston Villa,5,0,0,21,13,1,10,7,10,0,0,0,38,10,9,52.6,15:00:00,/en/matches/5af68b76/Leicester-City-Aston-Villa-August-31-2024-Premier-League,Leicester City
+2024-09-14,Matchweek 4,Sat,Home,D,2,2,Crystal Palace,0,0,0,11,14,3,27,8,15,1,0,0,44,21,12,63.6,15:00:00,/en/matches/430cce12/Crystal-Palace-Leicester-City-September-14-2024-Premier-League,Leicester City
+2024-09-21,Matchweek 5,Sat,Away,D,1,1,Everton,2,0,0,12,11,5,14,9,13,0,0,0,47,12,17,41.4,15:00:00,/en/matches/4e6e1cc7/Leicester-City-Everton-September-21-2024-Premier-League,Leicester City
+2024-09-28,Matchweek 6,Sat,Home,W,4,2,Arsenal,2,0,0,11,6,0,38,4,12,0,0,0,42,18,15,54.5,15:00:00,/en/matches/2ee60ac7/Arsenal-Leicester-City-September-28-2024-Premier-League,Leicester City
+2024-10-05,Matchweek 7,Sat,Away,L,0,1,Bournemouth,1,0,0,14,11,1,30,6,14,0,0,0,49,16,21,43.2,15:00:00,/en/matches/d153872e/Leicester-City-Bournemouth-October-5-2024-Premier-League,Leicester City
+2024-10-19,Matchweek 8,Sat,Home,L,2,3,Southampton,5,1,0,10,10,1,19,9,16,0,1,0,27,12,7,63.2,15:00:00,/en/matches/03d28c48/Southampton-Leicester-City-October-19-2024-Premier-League,Leicester City
+2024-10-25,Matchweek 9,Fri,Away,W,3,1,Nott'ham Forest,3,0,0,9,15,1,21,10,11,0,0,0,46,15,24,38.5,20:00:00,/en/matches/292d8bc4/Leicester-City-Nottingham-Forest-October-25-2024-Premier-League,Leicester City
+2024-11-02,Matchweek 10,Sat,Home,D,1,1,Ipswich Town,6,1,1,11,10,0,12,9,7,0,0,0,32,20,18,52.6,15:00:00,/en/matches/ed8f93a0/Ipswich-Town-Leicester-City-November-2-2024-Premier-League,Leicester City
+2024-11-10,Matchweek 11,Sun,Home,W,3,0,Manchester Utd,0,0,0,9,5,1,15,7,24,0,0,0,56,12,18,40.0,14:00:00,/en/matches/35888afe/Manchester-United-Leicester-City-November-10-2024-Premier-League,Leicester City
+2024-11-23,Matchweek 12,Sat,Away,W,2,1,Chelsea,3,0,0,12,15,1,15,9,11,0,1,0,44,8,7,53.3,12:30:00,/en/matches/bb885467/Leicester-City-Chelsea-November-23-2024-Premier-League,Leicester City
+2024-11-30,Matchweek 13,Sat,Home,W,4,1,Brentford,1,0,0,9,10,1,20,9,8,0,0,0,48,19,16,54.3,15:00:00,/en/matches/f4f9a64f/Brentford-Leicester-City-November-30-2024-Premier-League,Leicester City
+2024-12-03,Matchweek 14,Tue,Away,L,1,3,West Ham,2,0,0,7,9,2,27,8,8,0,0,0,58,29,20,59.2,20:15:00,/en/matches/355fd8ce/Leicester-City-West-Ham-United-December-3-2024-Premier-League,Leicester City
+2024-12-08,Matchweek 15,Sun,Away,D,2,2,Brighton,2,0,0,10,9,0,15,6,14,0,0,0,47,11,14,44.0,14:00:00,/en/matches/7b549f8f/Leicester-City-Brighton-and-Hove-Albion-December-8-2024-Premier-League,Leicester City
+2024-12-14,Matchweek 16,Sat,Home,W,4,0,Newcastle Utd,3,0,0,7,15,0,15,6,5,0,0,0,50,11,13,45.8,15:00:00,/en/matches/0b6fe43f/Newcastle-United-Leicester-City-December-14-2024-Premier-League,Leicester City
+2024-12-22,Matchweek 17,Sun,Away,W,3,0,Wolves,0,0,0,16,15,1,8,7,12,0,0,0,50,8,11,42.1,14:00:00,/en/matches/ecd6cb1d/Leicester-City-Wolverhampton-Wanderers-December-22-2024-Premier-League,Leicester City
+2024-12-26,Matchweek 18,Thu,Home,W,3,1,Liverpool,3,0,0,17,5,3,50,8,8,0,0,0,43,11,15,42.3,20:00:00,/en/matches/1f604fbd/Liverpool-Leicester-City-December-26-2024-Premier-League,Leicester City
+2024-12-29,Matchweek 19,Sun,Away,W,2,0,Manchester City,1,0,0,6,11,2,11,5,6,0,0,0,28,6,5,54.5,14:30:00,/en/matches/8bbb6d95/Leicester-City-Manchester-City-December-29-2024-Premier-League,Leicester City
+2025-01-04,Matchweek 20,Sat,Home,W,2,1,Aston Villa,0,0,0,10,11,1,18,10,11,0,0,0,39,12,6,66.7,15:00:00,/en/matches/f5ae8d7d/Aston-Villa-Leicester-City-January-4-2025-Premier-League,Leicester City
+2025-01-15,Matchweek 21,Wed,Away,W,2,0,Crystal Palace,0,0,0,6,7,3,12,9,12,0,0,0,51,14,14,50.0,19:30:00,/en/matches/99eb6105/Leicester-City-Crystal-Palace-January-15-2025-Premier-League,Leicester City
+2025-01-18,Matchweek 22,Sat,Away,W,2,0,Fulham,1,0,0,8,8,2,23,7,13,0,0,0,46,20,20,50.0,15:00:00,/en/matches/bc3ae18e/Leicester-City-Fulham-January-18-2025-Premier-League,Leicester City
+2025-01-26,Matchweek 23,Sun,Home,L,1,2,Tottenham,1,0,0,6,16,5,34,9,6,0,0,0,55,19,19,50.0,14:00:00,/en/matches/8226bca2/Tottenham-Hotspur-Leicester-City-January-26-2025-Premier-League,Leicester City
+2025-02-01,Matchweek 24,Sat,Home,W,4,0,Everton,0,0,0,7,13,3,13,4,8,0,0,0,45,16,13,55.2,15:00:00,/en/matches/475670fb/Everton-Leicester-City-February-1-2025-Premier-League,Leicester City
+2025-02-15,Matchweek 25,Sat,Away,W,2,0,Arsenal,1,0,0,10,9,4,18,5,11,0,0,0,42,15,11,57.7,12:30:00,/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,Leicester City
+2025-02-21,Matchweek 26,Fri,Away,W,4,0,Brentford,0,0,0,10,10,1,20,9,9,0,0,0,42,21,9,70.0,20:00:00,/en/matches/da5a149a/Leicester-City-Brentford-February-21-2025-Premier-League,Leicester City
+2025-02-27,Matchweek 27,Thu,Home,W,2,0,West Ham,0,0,0,12,5,1,17,7,9,0,0,0,41,16,15,51.6,20:00:00,/en/matches/08b1b7de/West-Ham-United-Leicester-City-February-27-2025-Premier-League,Leicester City
+2024-08-17,Matchweek 1,Sat,Home,L,0,2,Ipswich Town,3,0,0,9,17,5,8,9,10,0,0,0,36,11,18,37.9,12:30:00,/en/matches/a1d0d529/Ipswich-Town-Liverpool-August-17-2024-Premier-League,Liverpool
+2024-08-25,Matchweek 2,Sun,Away,L,0,2,Brentford,3,0,0,7,10,2,10,5,6,0,0,0,42,8,6,57.1,16:30:00,/en/matches/09b1742e/Liverpool-Brentford-August-25-2024-Premier-League,Liverpool
+2024-09-01,Matchweek 3,Sun,Home,L,0,3,Manchester Utd,4,0,0,7,7,0,19,7,20,0,0,0,51,5,13,27.8,16:00:00,/en/matches/a7ab7a12/North-West-Derby-Manchester-United-Liverpool-September-1-2024-Premier-League,Liverpool
+2024-09-14,Matchweek 4,Sat,Away,W,1,0,Nott'ham Forest,4,0,0,6,15,5,6,11,15,0,0,0,44,12,21,36.4,15:00:00,/en/matches/674bfe9e/Liverpool-Nottingham-Forest-September-14-2024-Premier-League,Liverpool
+2024-09-21,Matchweek 5,Sat,Away,L,0,3,Bournemouth,4,0,0,12,9,3,24,7,11,0,0,0,48,6,9,40.0,15:00:00,/en/matches/32a9539b/Liverpool-Bournemouth-September-21-2024-Premier-League,Liverpool
+2024-09-28,Matchweek 6,Sat,Home,L,1,2,Wolves,2,0,0,16,8,1,15,9,11,0,1,0,38,10,10,50.0,17:30:00,/en/matches/f2633f1d/Wolverhampton-Wanderers-Liverpool-September-28-2024-Premier-League,Liverpool
+2024-10-05,Matchweek 7,Sat,Home,L,0,1,Crystal Palace,4,0,0,7,15,1,9,5,6,0,0,0,49,7,27,20.6,12:30:00,/en/matches/49ea224b/Crystal-Palace-Liverpool-October-5-2024-Premier-League,Liverpool
+2024-10-20,Matchweek 8,Sun,Away,L,1,2,Chelsea,3,0,0,13,12,0,17,8,10,0,1,0,39,10,6,62.5,16:30:00,/en/matches/99b4737c/Liverpool-Chelsea-October-20-2024-Premier-League,Liverpool
+2024-10-27,Matchweek 9,Sun,Home,D,2,2,Arsenal,2,0,0,14,14,2,13,7,11,0,0,0,34,18,11,62.1,16:30:00,/en/matches/68aa1099/Arsenal-Liverpool-October-27-2024-Premier-League,Liverpool
+2024-11-02,Matchweek 10,Sat,Away,L,1,2,Brighton,1,0,0,18,10,0,15,9,13,0,0,0,46,8,10,44.4,15:00:00,/en/matches/7d114c70/Liverpool-Brighton-and-Hove-Albion-November-2-2024-Premier-League,Liverpool
+2024-11-09,Matchweek 11,Sat,Away,L,0,2,Aston Villa,3,0,0,15,11,1,23,6,8,0,0,0,46,6,6,50.0,20:00:00,/en/matches/737af5bf/Liverpool-Aston-Villa-November-9-2024-Premier-League,Liverpool
+2024-11-24,Matchweek 12,Sun,Home,L,2,3,Southampton,3,0,0,11,9,0,8,5,8,1,1,0,32,4,3,57.1,14:00:00,/en/matches/eb6f8e39/Southampton-Liverpool-November-24-2024-Premier-League,Liverpool
+2024-12-01,Matchweek 13,Sun,Away,L,0,2,Manchester City,3,0,0,8,9,3,9,5,14,0,1,0,38,5,7,41.7,16:00:00,/en/matches/0bd6ad44/Liverpool-Manchester-City-December-1-2024-Premier-League,Liverpool
+2024-12-04,Matchweek 14,Wed,Home,D,3,3,Newcastle Utd,2,0,0,9,17,4,16,5,10,0,0,0,41,9,9,50.0,19:30:00,/en/matches/ca898c29/Newcastle-United-Liverpool-December-4-2024-Premier-League,Liverpool
+2024-12-14,Matchweek 16,Sat,Away,D,2,2,Fulham,4,0,0,7,8,2,14,7,8,0,0,0,32,9,13,40.9,15:00:00,/en/matches/a436996c/Liverpool-Fulham-December-14-2024-Premier-League,Liverpool
+2024-12-22,Matchweek 17,Sun,Home,L,3,6,Tottenham,1,0,0,7,9,4,16,8,13,0,0,0,51,5,8,38.5,16:30:00,/en/matches/1e1cea4c/Tottenham-Hotspur-Liverpool-December-22-2024-Premier-League,Liverpool
+2024-12-26,Matchweek 18,Thu,Away,L,1,3,Leicester City,2,0,0,5,17,2,6,15,5,0,0,0,30,15,11,57.7,20:00:00,/en/matches/1f604fbd/Liverpool-Leicester-City-December-26-2024-Premier-League,Liverpool
+2024-12-29,Matchweek 19,Sun,Home,L,0,5,West Ham,0,0,0,7,10,5,9,11,13,0,0,0,42,6,7,46.2,17:15:00,/en/matches/c1a66ac0/West-Ham-United-Liverpool-December-29-2024-Premier-League,Liverpool
+2025-01-05,Matchweek 20,Sun,Away,D,2,2,Manchester Utd,4,0,0,13,10,4,22,13,8,0,1,0,41,8,11,42.1,16:30:00,/en/matches/4cef863f/North-West-Derby-Liverpool-Manchester-United-January-5-2025-Premier-League,Liverpool
+2025-01-14,Matchweek 21,Tue,Home,D,1,1,Nott'ham Forest,2,0,0,7,10,2,9,9,15,0,0,0,39,10,18,35.7,20:00:00,/en/matches/118f8df8/Nottingham-Forest-Liverpool-January-14-2025-Premier-League,Liverpool
+2025-01-18,Matchweek 22,Sat,Home,L,0,2,Brentford,2,0,0,6,13,6,9,10,6,0,0,0,38,13,12,52.0,15:00:00,/en/matches/5e8445c1/Brentford-Liverpool-January-18-2025-Premier-League,Liverpool
+2025-01-25,Matchweek 23,Sat,Away,L,1,4,Ipswich Town,2,0,0,11,10,1,9,13,12,0,0,0,41,5,11,31.3,15:00:00,/en/matches/ee59115f/Liverpool-Ipswich-Town-January-25-2025-Premier-League,Liverpool
+2025-02-01,Matchweek 24,Sat,Home,L,0,2,Bournemouth,2,0,0,15,8,4,17,10,6,0,1,0,48,6,7,46.2,15:00:00,/en/matches/886603cd/Bournemouth-Liverpool-February-1-2025-Premier-League,Liverpool
+2025-02-12,Matchweek 15,Wed,Home,D,2,2,Everton,4,1,1,9,19,3,16,8,13,0,0,0,43,20,22,47.6,19:30:00,/en/matches/92627434/Merseyside-Derby-Everton-Liverpool-February-12-2025-Premier-League,Liverpool
+2025-02-16,Matchweek 25,Sun,Away,L,1,2,Wolves,2,0,0,13,15,3,10,9,11,0,1,0,45,10,8,55.6,14:00:00,/en/matches/6a917c79/Liverpool-Wolverhampton-Wanderers-February-16-2025-Premier-League,Liverpool
+2025-02-19,Matchweek 29,Wed,Home,D,2,2,Aston Villa,1,0,0,8,6,3,19,3,13,0,0,0,30,12,13,48.0,19:30:00,/en/matches/39c7b656/Aston-Villa-Liverpool-February-19-2025-Premier-League,Liverpool
+2025-02-23,Matchweek 26,Sun,Home,L,0,2,Manchester City,0,0,0,3,9,2,22,3,2,0,0,0,49,4,4,50.0,16:30:00,/en/matches/e51a316b/Manchester-City-Liverpool-February-23-2025-Premier-League,Liverpool
+2025-02-26,Matchweek 27,Wed,Away,L,0,2,Newcastle Utd,1,0,0,11,12,1,14,5,12,0,0,0,37,4,9,30.8,20:15:00,/en/matches/a0975f8c/Liverpool-Newcastle-United-February-26-2025-Premier-League,Liverpool
+2024-08-18,Matchweek 1,Sun,Home,L,0,2,Chelsea,1,0,0,12,9,2,18,10,14,0,0,0,43,3,5,37.5,16:30:00,/en/matches/67a0c715/Chelsea-Manchester-City-August-18-2024-Premier-League,Manchester City
+2024-08-24,Matchweek 2,Sat,Away,L,1,4,Ipswich Town,3,0,0,15,3,1,6,10,8,0,1,0,24,7,5,58.3,15:00:00,/en/matches/a24b7a43/Manchester-City-Ipswich-Town-August-24-2024-Premier-League,Manchester City
+2024-08-31,Matchweek 3,Sat,Home,L,1,3,West Ham,3,0,0,10,2,0,14,6,6,0,0,0,29,9,7,56.3,17:30:00,/en/matches/97ce60d4/West-Ham-United-Manchester-City-August-31-2024-Premier-League,Manchester City
+2024-09-14,Matchweek 4,Sat,Away,L,1,2,Brentford,1,0,0,3,8,1,12,9,15,0,0,0,32,11,6,64.7,15:00:00,/en/matches/54405f8a/Manchester-City-Brentford-September-14-2024-Premier-League,Manchester City
+2024-09-22,Matchweek 5,Sun,Away,D,2,2,Arsenal,6,1,1,10,6,1,7,4,10,0,0,0,25,11,16,40.7,16:30:00,/en/matches/d7538020/Manchester-City-Arsenal-September-22-2024-Premier-League,Manchester City
+2024-09-28,Matchweek 6,Sat,Home,D,1,1,Newcastle Utd,4,0,0,14,10,1,16,10,7,1,0,0,45,13,6,68.4,12:30:00,/en/matches/b4df0bca/Newcastle-United-Manchester-City-September-28-2024-Premier-League,Manchester City
+2024-10-05,Matchweek 7,Sat,Away,L,2,3,Fulham,1,0,0,10,4,3,15,7,9,0,0,0,32,5,7,41.7,15:00:00,/en/matches/61d60f62/Manchester-City-Fulham-October-5-2024-Premier-League,Manchester City
+2024-10-20,Matchweek 8,Sun,Home,L,1,2,Wolves,4,0,0,8,4,2,4,6,13,0,0,0,31,14,13,51.9,14:00:00,/en/matches/90b22cd5/Wolverhampton-Wanderers-Manchester-City-October-20-2024-Premier-League,Manchester City
+2024-10-26,Matchweek 9,Sat,Away,L,0,1,Southampton,3,0,0,9,9,2,2,6,9,0,0,0,18,8,6,57.1,15:00:00,/en/matches/b66f6389/Manchester-City-Southampton-October-26-2024-Premier-League,Manchester City
+2024-11-02,Matchweek 10,Sat,Home,W,2,1,Bournemouth,2,0,0,11,5,2,12,12,12,0,0,0,36,13,14,48.1,15:00:00,/en/matches/ed970fef/Bournemouth-Manchester-City-November-2-2024-Premier-League,Manchester City
+2024-11-09,Matchweek 11,Sat,Home,W,2,1,Brighton,3,0,0,12,10,3,8,12,6,0,0,0,40,6,5,54.5,17:30:00,/en/matches/62aa7905/Brighton-and-Hove-Albion-Manchester-City-November-9-2024-Premier-League,Manchester City
+2024-11-23,Matchweek 12,Sat,Away,W,4,0,Tottenham,2,0,0,9,19,3,10,5,11,0,0,0,39,5,10,33.3,17:30:00,/en/matches/c48b896c/Manchester-City-Tottenham-Hotspur-November-23-2024-Premier-League,Manchester City
+2024-12-01,Matchweek 13,Sun,Home,W,2,0,Liverpool,1,0,0,9,8,4,14,6,13,1,0,0,48,7,5,58.3,16:00:00,/en/matches/0bd6ad44/Liverpool-Manchester-City-December-1-2024-Premier-League,Manchester City
+2024-12-04,Matchweek 14,Wed,Away,L,0,3,Nott'ham Forest,4,0,0,15,7,2,13,14,16,0,0,0,44,5,7,41.7,19:30:00,/en/matches/dedb0eee/Manchester-City-Nottingham-Forest-December-4-2024-Premier-League,Manchester City
+2024-12-07,Matchweek 15,Sat,Home,D,2,2,Crystal Palace,1,0,0,4,9,3,13,6,9,0,0,0,44,6,12,33.3,15:00:00,/en/matches/6b7fbda1/Crystal-Palace-Manchester-City-December-7-2024-Premier-League,Manchester City
+2024-12-15,Matchweek 16,Sun,Away,W,2,1,Manchester Utd,1,0,0,14,5,6,10,17,11,1,0,0,38,12,10,54.5,16:30:00,/en/matches/3d772028/Manchester-Derby-Manchester-City-Manchester-United-December-15-2024-Premier-League,Manchester City
+2024-12-21,Matchweek 17,Sat,Home,W,2,1,Aston Villa,3,0,0,14,7,3,6,4,12,0,0,0,32,2,2,50.0,12:30:00,/en/matches/ce9dc982/Aston-Villa-Manchester-City-December-21-2024-Premier-League,Manchester City
+2024-12-26,Matchweek 18,Thu,Away,D,1,1,Everton,4,0,0,10,5,2,16,7,14,0,1,0,37,9,9,50.0,12:30:00,/en/matches/87f2d794/Manchester-City-Everton-December-26-2024-Premier-League,Manchester City
+2024-12-29,Matchweek 19,Sun,Home,L,0,2,Leicester City,2,0,0,11,6,3,19,9,8,0,0,0,31,5,6,45.5,14:30:00,/en/matches/8bbb6d95/Leicester-City-Manchester-City-December-29-2024-Premier-League,Manchester City
+2025-01-04,Matchweek 20,Sat,Away,L,1,4,West Ham,1,0,0,13,7,2,12,7,9,0,0,1,41,14,7,66.7,15:00:00,/en/matches/d7773a4c/Manchester-City-West-Ham-United-January-4-2025-Premier-League,Manchester City
+2025-01-14,Matchweek 21,Tue,Home,D,2,2,Brentford,0,0,0,4,4,4,20,9,6,0,0,0,36,16,17,48.5,19:30:00,/en/matches/68c2e6b8/Brentford-Manchester-City-January-14-2025-Premier-League,Manchester City
+2025-01-19,Matchweek 22,Sun,Home,L,0,6,Ipswich Town,0,0,0,4,7,1,12,8,9,0,0,0,28,10,6,62.5,16:30:00,/en/matches/6c829b8f/Ipswich-Town-Manchester-City-January-19-2025-Premier-League,Manchester City
+2025-01-25,Matchweek 23,Sat,Away,L,1,3,Chelsea,2,0,0,8,6,2,9,4,8,0,0,0,33,8,7,53.3,17:30:00,/en/matches/bfd54040/Manchester-City-Chelsea-January-25-2025-Premier-League,Manchester City
+2025-02-02,Matchweek 24,Sun,Home,W,5,1,Arsenal,2,0,0,6,7,3,12,5,8,0,0,0,39,6,7,46.2,16:30:00,/en/matches/2906e921/Arsenal-Manchester-City-February-2-2025-Premier-League,Manchester City
+2025-02-15,Matchweek 25,Sat,Away,L,0,4,Newcastle Utd,1,0,0,13,5,3,14,7,15,0,0,0,32,5,8,38.5,15:00:00,/en/matches/8c51fa01/Manchester-City-Newcastle-United-February-15-2025-Premier-League,Manchester City
+2025-02-23,Matchweek 26,Sun,Away,W,2,0,Liverpool,0,0,0,10,3,4,7,4,13,0,0,0,38,4,4,50.0,16:30:00,/en/matches/e51a316b/Manchester-City-Liverpool-February-23-2025-Premier-League,Manchester City
+2025-02-26,Matchweek 27,Wed,Home,L,0,1,Tottenham,3,0,0,12,14,0,16,7,15,0,0,0,44,8,5,61.5,19:30:00,/en/matches/3b8160bd/Tottenham-Hotspur-Manchester-City-February-26-2025-Premier-League,Manchester City
+2024-08-16,Matchweek 1,Fri,Away,L,0,1,Fulham,3,0,0,10,11,1,21,9,17,0,0,0,53,16,19,45.7,20:00:00,/en/matches/cc5b4244/Manchester-United-Fulham-August-16-2024-Premier-League,Manchester Utd
+2024-08-24,Matchweek 2,Sat,Home,W,2,1,Brighton,1,0,0,9,13,0,12,7,12,0,0,0,42,8,6,57.1,12:30:00,/en/matches/fc8ab8b2/Brighton-and-Hove-Albion-Manchester-United-August-24-2024-Premier-League,Manchester Utd
+2024-09-01,Matchweek 3,Sun,Away,W,3,0,Liverpool,1,0,0,7,7,2,6,10,17,0,0,0,53,13,5,72.2,16:00:00,/en/matches/a7ab7a12/North-West-Derby-Manchester-United-Liverpool-September-1-2024-Premier-League,Manchester Utd
+2024-09-14,Matchweek 4,Sat,Home,L,0,3,Southampton,1,1,0,11,12,0,7,11,14,1,0,0,32,4,7,36.4,12:30:00,/en/matches/b96c3759/Southampton-Manchester-United-September-14-2024-Premier-League,Manchester Utd
+2024-09-21,Matchweek 5,Sat,Home,D,0,0,Crystal Palace,3,0,0,7,11,1,14,13,10,0,0,0,47,13,18,41.9,17:30:00,/en/matches/929e225f/Crystal-Palace-Manchester-United-September-21-2024-Premier-League,Manchester Utd
+2024-09-29,Matchweek 6,Sun,Away,W,3,0,Tottenham,3,0,0,14,15,1,15,11,6,0,0,0,46,8,6,57.1,16:30:00,/en/matches/c4b97377/Manchester-United-Tottenham-Hotspur-September-29-2024-Premier-League,Manchester Utd
+2024-10-06,Matchweek 7,Sun,Home,D,0,0,Aston Villa,1,0,0,12,11,0,20,6,10,0,0,0,39,8,14,36.4,14:00:00,/en/matches/abef5f2a/Aston-Villa-Manchester-United-October-6-2024-Premier-League,Manchester Utd
+2024-10-19,Matchweek 8,Sat,Away,L,1,2,Brentford,2,0,0,5,4,3,13,10,11,0,0,0,52,18,22,45.0,15:00:00,/en/matches/7f2c3291/Manchester-United-Brentford-October-19-2024-Premier-League,Manchester Utd
+2024-10-27,Matchweek 9,Sun,Home,W,2,1,West Ham,5,0,0,6,6,3,23,12,5,1,0,0,52,13,14,48.1,14:00:00,/en/matches/38c31a07/West-Ham-United-Manchester-United-October-27-2024-Premier-League,Manchester Utd
+2024-11-03,Matchweek 10,Sun,Away,D,1,1,Chelsea,2,0,0,14,19,0,19,7,11,0,1,0,41,17,8,68.0,16:30:00,/en/matches/1273ae28/Manchester-United-Chelsea-November-3-2024-Premier-League,Manchester Utd
+2024-11-10,Matchweek 11,Sun,Away,L,0,3,Leicester City,1,0,0,5,9,2,16,7,14,0,0,1,50,18,12,60.0,14:00:00,/en/matches/35888afe/Manchester-United-Leicester-City-November-10-2024-Premier-League,Manchester Utd
+2024-11-24,Matchweek 12,Sun,Home,D,1,1,Ipswich Town,0,0,0,11,10,0,16,5,7,0,0,0,44,9,13,40.9,16:30:00,/en/matches/db1e4ea5/Ipswich-Town-Manchester-United-November-24-2024-Premier-League,Manchester Utd
+2024-12-01,Matchweek 13,Sun,Away,L,0,4,Everton,3,0,0,12,12,2,13,5,10,0,0,0,37,10,9,52.6,13:30:00,/en/matches/e6eef20f/Manchester-United-Everton-December-1-2024-Premier-League,Manchester Utd
+2024-12-04,Matchweek 14,Wed,Home,W,2,0,Arsenal,1,0,0,12,8,2,23,3,11,0,0,0,40,12,9,57.1,20:15:00,/en/matches/9938aa27/Arsenal-Manchester-United-December-4-2024-Premier-League,Manchester Utd
+2024-12-07,Matchweek 15,Sat,Away,W,3,2,Nott'ham Forest,2,0,0,13,10,1,7,8,8,0,0,0,41,16,14,53.3,17:30:00,/en/matches/08966ea6/Manchester-United-Nottingham-Forest-December-7-2024-Premier-League,Manchester Utd
+2024-12-15,Matchweek 16,Sun,Home,L,1,2,Manchester City,1,0,0,5,14,0,19,10,10,0,1,0,33,10,12,45.5,16:30:00,/en/matches/3d772028/Manchester-Derby-Manchester-City-Manchester-United-December-15-2024-Premier-League,Manchester Utd
+2024-12-22,Matchweek 17,Sun,Away,W,3,0,Bournemouth,3,0,0,11,11,2,8,11,17,1,0,0,51,10,13,43.5,14:00:00,/en/matches/8381ba53/Manchester-United-Bournemouth-December-22-2024-Premier-League,Manchester Utd
+2024-12-26,Matchweek 18,Thu,Home,W,2,0,Wolves,2,0,0,12,12,3,15,14,19,0,0,0,50,16,9,64.0,17:30:00,/en/matches/77bcad49/Wolverhampton-Wanderers-Manchester-United-December-26-2024-Premier-League,Manchester Utd
+2024-12-30,Matchweek 19,Mon,Away,W,2,0,Newcastle Utd,1,0,0,8,13,4,12,8,16,0,0,0,52,9,10,47.4,20:00:00,/en/matches/8cff7a63/Manchester-United-Newcastle-United-December-30-2024-Premier-League,Manchester Utd
+2025-01-05,Matchweek 20,Sun,Home,D,2,2,Liverpool,2,0,0,10,12,0,17,14,2,0,0,0,41,11,8,57.9,16:30:00,/en/matches/4cef863f/North-West-Derby-Liverpool-Manchester-United-January-5-2025-Premier-League,Manchester Utd
+2025-01-16,Matchweek 21,Thu,Away,L,1,3,Southampton,3,0,0,10,7,0,8,9,16,0,0,0,47,20,9,69.0,20:00:00,/en/matches/f443a602/Manchester-United-Southampton-January-16-2025-Premier-League,Manchester Utd
+2025-01-19,Matchweek 22,Sun,Away,W,3,1,Brighton,3,0,0,12,12,3,9,6,11,0,1,0,40,12,13,48.0,14:00:00,/en/matches/45028d5b/Manchester-United-Brighton-and-Hove-Albion-January-19-2025-Premier-League,Manchester Utd
+2025-01-26,Matchweek 23,Sun,Home,L,0,1,Fulham,0,0,0,7,9,2,23,7,10,0,0,0,49,13,16,44.8,19:00:00,/en/matches/eb14e391/Fulham-Manchester-United-January-26-2025-Premier-League,Manchester Utd
+2025-02-02,Matchweek 24,Sun,Away,W,2,0,Crystal Palace,1,0,0,13,10,1,7,12,10,0,0,0,56,18,19,48.6,14:00:00,/en/matches/83dba981/Manchester-United-Crystal-Palace-February-2-2025-Premier-League,Manchester Utd
+2025-02-16,Matchweek 25,Sun,Home,W,1,0,Tottenham,1,0,0,13,9,0,31,5,6,0,0,0,44,9,11,45.0,16:30:00,/en/matches/09db2a2f/Tottenham-Hotspur-Manchester-United-February-16-2025-Premier-League,Manchester Utd
+2025-02-22,Matchweek 26,Sat,Home,D,2,2,Everton,4,0,0,12,9,1,23,9,18,0,0,0,41,20,19,51.3,12:30:00,/en/matches/e5b45c4d/Everton-Manchester-United-February-22-2025-Premier-League,Manchester Utd
+2025-02-26,Matchweek 27,Wed,Away,L,2,3,Ipswich Town,4,0,0,16,9,2,18,11,11,0,0,1,39,14,10,58.3,19:30:00,/en/matches/bf6aa8ee/Manchester-United-Ipswich-Town-February-26-2025-Premier-League,Manchester Utd
+2024-08-17,Matchweek 1,Sat,Away,L,0,1,Southampton,4,0,0,16,15,2,30,3,6,0,0,0,35,9,7,56.3,15:00:00,/en/matches/34557647/Newcastle-United-Southampton-August-17-2024-Premier-League,Newcastle Utd
+2024-08-25,Matchweek 2,Sun,Home,D,1,1,Bournemouth,2,0,0,20,8,0,19,6,16,0,0,0,60,13,10,56.5,14:00:00,/en/matches/1934f267/Bournemouth-Newcastle-United-August-25-2024-Premier-League,Newcastle Utd
+2024-09-01,Matchweek 3,Sun,Away,L,1,2,Tottenham,4,0,0,13,16,4,27,7,16,0,0,0,45,13,9,59.1,13:30:00,/en/matches/0c994746/Newcastle-United-Tottenham-Hotspur-September-1-2024-Premier-League,Newcastle Utd
+2024-09-15,Matchweek 4,Sun,Home,L,1,2,Wolves,3,0,0,17,6,3,21,10,14,0,0,0,36,8,13,38.1,16:30:00,/en/matches/4b01981e/Wolverhampton-Wanderers-Newcastle-United-September-15-2024-Premier-League,Newcastle Utd
+2024-09-21,Matchweek 5,Sat,Home,W,3,1,Fulham,6,0,0,16,8,1,17,6,9,0,0,0,38,6,15,28.6,15:00:00,/en/matches/de7298df/Fulham-Newcastle-United-September-21-2024-Premier-League,Newcastle Utd
+2024-09-28,Matchweek 6,Sat,Away,D,1,1,Manchester City,4,0,0,10,14,0,19,7,11,0,1,0,45,6,13,31.6,12:30:00,/en/matches/b4df0bca/Newcastle-United-Manchester-City-September-28-2024-Premier-League,Newcastle Utd
+2024-10-05,Matchweek 7,Sat,Home,D,0,0,Everton,1,0,0,12,8,2,9,10,11,0,1,0,54,13,11,54.2,17:30:00,/en/matches/e99a7857/Everton-Newcastle-United-October-5-2024-Premier-League,Newcastle Utd
+2024-10-19,Matchweek 8,Sat,Away,W,1,0,Brighton,2,0,0,9,11,0,8,9,15,0,0,0,47,16,10,61.5,15:00:00,/en/matches/48081db0/Newcastle-United-Brighton-and-Hove-Albion-October-19-2024-Premier-League,Newcastle Utd
+2024-10-27,Matchweek 9,Sun,Home,W,2,1,Chelsea,6,0,0,13,15,2,20,16,8,0,0,0,45,13,14,48.1,14:00:00,/en/matches/33571b04/Chelsea-Newcastle-United-October-27-2024-Premier-League,Newcastle Utd
+2024-11-02,Matchweek 10,Sat,Away,L,0,1,Arsenal,4,0,0,18,16,0,27,6,10,0,0,0,43,14,18,43.8,12:30:00,/en/matches/cc960c22/Newcastle-United-Arsenal-November-2-2024-Premier-League,Newcastle Utd
+2024-11-10,Matchweek 11,Sun,Home,L,1,3,Nott'ham Forest,1,0,0,13,6,3,23,7,19,0,0,0,44,15,22,40.5,14:00:00,/en/matches/a41ce5c3/Nottingham-Forest-Newcastle-United-November-10-2024-Premier-League,Newcastle Utd
+2024-11-25,Matchweek 12,Mon,Away,W,2,0,West Ham,0,0,0,8,11,0,12,10,20,0,0,0,46,14,7,66.7,20:00:00,/en/matches/79f46eec/Newcastle-United-West-Ham-United-November-25-2024-Premier-League,Newcastle Utd
+2024-11-30,Matchweek 13,Sat,Home,D,1,1,Crystal Palace,3,0,0,12,11,2,22,13,17,0,0,1,48,16,16,50.0,15:00:00,/en/matches/a4f03af0/Crystal-Palace-Newcastle-United-November-30-2024-Premier-League,Newcastle Utd
+2024-12-04,Matchweek 14,Wed,Away,D,3,3,Liverpool,5,0,0,17,9,0,15,10,13,0,0,0,40,9,9,50.0,19:30:00,/en/matches/ca898c29/Newcastle-United-Liverpool-December-4-2024-Premier-League,Newcastle Utd
+2024-12-07,Matchweek 15,Sat,Home,W,4,2,Brentford,3,0,0,10,6,3,15,4,15,0,0,0,53,10,9,52.6,15:00:00,/en/matches/1042592d/Brentford-Newcastle-United-December-7-2024-Premier-League,Newcastle Utd
+2024-12-14,Matchweek 16,Sat,Away,L,0,4,Leicester City,3,0,0,16,6,2,10,13,6,0,0,0,32,13,11,54.2,15:00:00,/en/matches/0b6fe43f/Newcastle-United-Leicester-City-December-14-2024-Premier-League,Newcastle Utd
+2024-12-21,Matchweek 17,Sat,Home,L,0,4,Ipswich Town,2,0,0,9,6,3,12,4,5,0,0,0,50,8,7,53.3,15:00:00,/en/matches/764fc51e/Ipswich-Town-Newcastle-United-December-21-2024-Premier-League,Newcastle Utd
+2024-12-26,Matchweek 18,Thu,Away,L,0,3,Aston Villa,1,1,0,10,14,3,20,5,7,0,0,0,33,8,14,36.4,15:00:00,/en/matches/9985f304/Newcastle-United-Aston-Villa-December-26-2024-Premier-League,Newcastle Utd
+2024-12-30,Matchweek 19,Mon,Home,L,0,2,Manchester Utd,1,0,0,13,7,1,11,8,16,0,0,0,56,10,9,52.6,20:00:00,/en/matches/8cff7a63/Manchester-United-Newcastle-United-December-30-2024-Premier-League,Newcastle Utd
+2025-01-04,Matchweek 20,Sat,Home,L,1,2,Tottenham,1,0,0,11,14,2,25,9,20,0,0,0,40,20,20,50.0,12:30:00,/en/matches/be247ac3/Tottenham-Hotspur-Newcastle-United-January-4-2025-Premier-League,Newcastle Utd
+2025-01-15,Matchweek 21,Wed,Away,L,0,3,Wolves,2,0,0,13,10,1,10,10,8,0,0,0,55,5,18,21.7,19:30:00,/en/matches/535d70d7/Newcastle-United-Wolverhampton-Wanderers-January-15-2025-Premier-League,Newcastle Utd
+2025-01-18,Matchweek 22,Sat,Away,W,4,1,Bournemouth,6,0,0,18,7,0,24,13,14,0,0,0,45,15,16,48.4,12:30:00,/en/matches/99d11a39/Newcastle-United-Bournemouth-January-18-2025-Premier-League,Newcastle Utd
+2025-01-25,Matchweek 23,Sat,Home,L,1,3,Southampton,1,0,0,10,5,2,16,5,7,0,1,0,41,21,4,84.0,15:00:00,/en/matches/7d05223b/Southampton-Newcastle-United-January-25-2025-Premier-League,Newcastle Utd
+2025-02-01,Matchweek 24,Sat,Away,W,2,1,Fulham,4,0,0,15,10,0,32,7,12,0,0,0,45,13,13,50.0,15:00:00,/en/matches/5ec3f48b/Newcastle-United-Fulham-February-1-2025-Premier-League,Newcastle Utd
+2025-02-15,Matchweek 25,Sat,Home,W,4,0,Manchester City,0,0,0,5,13,0,13,6,5,0,0,0,38,8,5,61.5,15:00:00,/en/matches/8c51fa01/Manchester-City-Newcastle-United-February-15-2025-Premier-League,Newcastle Utd
+2025-02-23,Matchweek 26,Sun,Away,L,3,4,Nott'ham Forest,4,0,0,13,10,0,20,3,20,0,1,0,52,14,19,42.4,14:00:00,/en/matches/93caf0bc/Newcastle-United-Nottingham-Forest-February-23-2025-Premier-League,Newcastle Utd
+2025-02-26,Matchweek 27,Wed,Home,W,2,0,Liverpool,0,0,0,12,11,0,4,10,15,0,0,0,36,9,4,69.2,20:15:00,/en/matches/a0975f8c/Liverpool-Newcastle-United-February-26-2025-Premier-League,Newcastle Utd
+2024-08-17,Matchweek 1,Sat,Away,D,1,1,Bournemouth,3,0,0,8,17,4,25,14,7,0,0,0,57,15,25,37.5,15:00:00,/en/matches/4efc72e4/Nottingham-Forest-Bournemouth-August-17-2024-Premier-League,Nott'ham Forest
+2024-08-24,Matchweek 2,Sat,Home,L,0,1,Southampton,3,0,0,14,13,0,14,2,12,0,0,0,39,4,11,26.7,15:00:00,/en/matches/a641f3a0/Southampton-Nottingham-Forest-August-24-2024-Premier-League,Nott'ham Forest
+2024-08-31,Matchweek 3,Sat,Away,D,1,1,Wolves,4,0,0,18,13,0,7,10,14,0,0,0,44,16,14,53.3,15:00:00,/en/matches/837f0304/Nottingham-Forest-Wolverhampton-Wanderers-August-31-2024-Premier-League,Nott'ham Forest
+2024-09-14,Matchweek 4,Sat,Home,L,0,1,Liverpool,4,0,0,15,6,0,19,11,8,0,0,0,47,21,12,63.6,15:00:00,/en/matches/674bfe9e/Liverpool-Nottingham-Forest-September-14-2024-Premier-League,Nott'ham Forest
+2024-09-22,Matchweek 5,Sun,Home,D,2,2,Brighton,3,0,0,12,9,0,43,7,5,0,1,0,30,18,9,66.7,14:00:00,/en/matches/d701a1df/Brighton-and-Hove-Albion-Nottingham-Forest-September-22-2024-Premier-League,Nott'ham Forest
+2024-09-28,Matchweek 6,Sat,Away,W,1,0,Fulham,4,0,0,15,11,1,23,9,2,1,0,0,29,7,18,28.0,15:00:00,/en/matches/ee7d3371/Nottingham-Forest-Fulham-September-28-2024-Premier-League,Nott'ham Forest
+2024-10-06,Matchweek 7,Sun,Home,D,1,1,Chelsea,6,0,0,12,10,1,29,8,10,0,0,0,39,13,15,46.4,14:00:00,/en/matches/b9e00aac/Chelsea-Nottingham-Forest-October-6-2024-Premier-League,Nott'ham Forest
+2024-10-21,Matchweek 8,Mon,Away,L,0,1,Crystal Palace,3,0,0,12,9,2,16,5,14,0,0,0,45,14,18,43.8,20:00:00,/en/matches/5ed3894e/Nottingham-Forest-Crystal-Palace-October-21-2024-Premier-League,Nott'ham Forest
+2024-10-25,Matchweek 9,Fri,Home,L,1,3,Leicester City,5,0,0,16,9,0,26,6,10,0,0,0,45,24,15,61.5,20:00:00,/en/matches/292d8bc4/Leicester-City-Nottingham-Forest-October-25-2024-Premier-League,Nott'ham Forest
+2024-11-02,Matchweek 10,Sat,Away,L,0,3,West Ham,4,1,1,9,7,1,15,11,11,0,0,0,33,15,13,53.6,15:00:00,/en/matches/c2505640/Nottingham-Forest-West-Ham-United-November-2-2024-Premier-League,Nott'ham Forest
+2024-11-10,Matchweek 11,Sun,Away,W,3,1,Newcastle Utd,1,0,0,6,13,0,28,14,8,0,0,0,50,22,15,59.5,14:00:00,/en/matches/a41ce5c3/Nottingham-Forest-Newcastle-United-November-10-2024-Premier-League,Nott'ham Forest
+2024-11-23,Matchweek 12,Sat,Home,W,3,0,Arsenal,3,0,0,10,11,4,18,4,13,0,0,0,31,11,14,44.0,15:00:00,/en/matches/0cb4129b/Arsenal-Nottingham-Forest-November-23-2024-Premier-League,Nott'ham Forest
+2024-11-30,Matchweek 13,Sat,Away,L,0,1,Ipswich Town,3,0,0,16,5,1,16,4,10,0,1,0,24,17,16,51.5,15:00:00,/en/matches/ddc8856c/Nottingham-Forest-Ipswich-Town-November-30-2024-Premier-League,Nott'ham Forest
+2024-12-04,Matchweek 14,Wed,Home,W,3,0,Manchester City,2,0,0,7,15,1,15,5,11,0,0,0,43,7,5,58.3,19:30:00,/en/matches/dedb0eee/Manchester-City-Nottingham-Forest-December-4-2024-Premier-League,Nott'ham Forest
+2024-12-07,Matchweek 15,Sat,Home,L,2,3,Manchester Utd,0,0,0,10,13,0,23,9,10,0,0,0,47,14,16,46.7,17:30:00,/en/matches/08966ea6/Manchester-United-Nottingham-Forest-December-7-2024-Premier-League,Nott'ham Forest
+2024-12-14,Matchweek 16,Sat,Away,L,1,2,Aston Villa,1,0,0,6,12,2,16,6,5,0,0,0,36,8,10,44.4,17:30:00,/en/matches/26926fd3/Nottingham-Forest-Aston-Villa-December-14-2024-Premier-League,Nott'ham Forest
+2024-12-21,Matchweek 17,Sat,Home,L,0,2,Brentford,3,0,0,10,14,1,38,13,11,0,0,0,47,17,20,45.9,15:00:00,/en/matches/1c60d037/Brentford-Nottingham-Forest-December-21-2024-Premier-League,Nott'ham Forest
+2024-12-26,Matchweek 18,Thu,Away,L,0,1,Tottenham,4,1,1,13,12,1,18,7,4,0,0,0,50,13,12,52.0,15:00:00,/en/matches/eb738106/Nottingham-Forest-Tottenham-Hotspur-December-26-2024-Premier-League,Nott'ham Forest
+2024-12-29,Matchweek 19,Sun,Home,L,0,2,Everton,4,0,0,13,10,1,34,6,12,0,0,0,44,26,22,54.2,15:00:00,/en/matches/5fa986dc/Everton-Nottingham-Forest-December-29-2024-Premier-League,Nott'ham Forest
+2025-01-06,Matchweek 20,Mon,Home,L,0,3,Wolves,1,0,0,10,8,1,30,10,6,0,0,0,42,12,16,42.9,20:00:00,/en/matches/56c4250a/Wolverhampton-Wanderers-Nottingham-Forest-January-6-2025-Premier-League,Nott'ham Forest
+2025-01-14,Matchweek 21,Tue,Away,D,1,1,Liverpool,1,0,0,10,7,1,29,2,4,0,0,0,40,18,10,64.3,20:00:00,/en/matches/118f8df8/Nottingham-Forest-Liverpool-January-14-2025-Premier-League,Nott'ham Forest
+2025-01-19,Matchweek 22,Sun,Away,L,2,3,Southampton,4,0,0,18,4,0,24,6,10,0,0,0,40,22,19,53.7,14:00:00,/en/matches/e0f90407/Nottingham-Forest-Southampton-January-19-2025-Premier-League,Nott'ham Forest
+2025-01-25,Matchweek 23,Sat,Home,W,5,0,Bournemouth,2,0,0,9,12,2,17,9,12,0,0,0,43,9,20,31.0,15:00:00,/en/matches/efa8ddd7/Bournemouth-Nottingham-Forest-January-25-2025-Premier-League,Nott'ham Forest
+2025-02-01,Matchweek 24,Sat,Away,L,0,7,Brighton,3,0,0,13,8,0,25,5,13,0,1,1,44,8,15,34.8,12:30:00,/en/matches/897ab235/Nottingham-Forest-Brighton-and-Hove-Albion-February-1-2025-Premier-League,Nott'ham Forest
+2025-02-15,Matchweek 25,Sat,Home,W,2,1,Fulham,0,0,0,13,8,1,33,7,8,0,0,0,45,16,15,51.6,15:00:00,/en/matches/5968d7ad/Fulham-Nottingham-Forest-February-15-2025-Premier-League,Nott'ham Forest
+2025-02-23,Matchweek 26,Sun,Home,W,4,3,Newcastle Utd,1,0,0,11,11,1,18,11,13,0,0,0,47,19,14,57.6,14:00:00,/en/matches/93caf0bc/Newcastle-United-Nottingham-Forest-February-23-2025-Premier-League,Nott'ham Forest
+2025-02-26,Matchweek 27,Wed,Away,D,0,0,Arsenal,1,0,0,17,9,2,27,5,9,0,0,0,35,16,14,53.3,19:30:00,/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,Nott'ham Forest
+2024-08-17,Matchweek 1,Sat,Home,W,1,0,Newcastle Utd,2,1,0,15,16,1,12,4,14,0,0,0,31,7,9,43.8,15:00:00,/en/matches/34557647/Newcastle-United-Southampton-August-17-2024-Premier-League,Southampton
+2024-08-24,Matchweek 2,Sat,Away,W,1,0,Nott'ham Forest,3,0,0,14,14,1,19,11,15,0,0,0,50,11,4,73.3,15:00:00,/en/matches/a641f3a0/Southampton-Nottingham-Forest-August-24-2024-Premier-League,Southampton
+2024-08-31,Matchweek 3,Sat,Home,W,3,1,Brentford,2,0,0,10,7,1,13,11,13,0,0,0,40,9,3,75.0,15:00:00,/en/matches/fec3438b/Brentford-Southampton-August-31-2024-Premier-League,Southampton
+2024-09-14,Matchweek 4,Sat,Away,W,3,0,Manchester Utd,4,0,0,14,11,0,9,12,13,0,1,0,45,7,4,63.6,12:30:00,/en/matches/b96c3759/Southampton-Manchester-United-September-14-2024-Premier-League,Southampton
+2024-09-21,Matchweek 5,Sat,Away,D,1,1,Ipswich Town,4,0,0,16,16,1,23,13,8,0,0,0,37,18,8,69.2,15:00:00,/en/matches/948d52cc/Southampton-Ipswich-Town-September-21-2024-Premier-League,Southampton
+2024-09-30,Matchweek 6,Mon,Home,W,3,1,Bournemouth,2,0,0,19,11,1,19,11,8,0,0,0,57,9,16,36.0,20:00:00,/en/matches/04d2cc03/Bournemouth-Southampton-September-30-2024-Premier-League,Southampton
+2024-10-05,Matchweek 7,Sat,Home,W,3,1,Arsenal,0,0,0,10,9,1,32,9,12,0,0,0,46,9,14,39.1,15:00:00,/en/matches/c6439e5b/Arsenal-Southampton-October-5-2024-Premier-League,Southampton
+2024-10-19,Matchweek 8,Sat,Away,W,3,2,Leicester City,3,0,0,10,10,2,27,5,17,1,0,0,37,7,12,36.8,15:00:00,/en/matches/03d28c48/Southampton-Leicester-City-October-19-2024-Premier-League,Southampton
+2024-10-26,Matchweek 9,Sat,Home,W,1,0,Manchester City,1,0,0,9,9,1,29,10,7,0,0,0,32,6,8,42.9,15:00:00,/en/matches/b66f6389/Manchester-City-Southampton-October-26-2024-Premier-League,Southampton
+2024-11-02,Matchweek 10,Sat,Away,L,0,1,Everton,2,0,0,18,14,1,19,8,8,0,0,0,46,5,7,41.7,15:00:00,/en/matches/2be42fdb/Southampton-Everton-November-2-2024-Premier-League,Southampton
+2024-11-09,Matchweek 11,Sat,Home,W,2,0,Wolves,1,0,0,14,12,3,3,7,9,0,0,0,38,5,8,38.5,15:00:00,/en/matches/dbec2d40/Wolverhampton-Wanderers-Southampton-November-9-2024-Premier-League,Southampton
+2024-11-24,Matchweek 12,Sun,Away,W,3,2,Liverpool,4,0,0,9,10,1,30,8,12,0,1,0,42,3,4,42.9,14:00:00,/en/matches/eb6f8e39/Southampton-Liverpool-November-24-2024-Premier-League,Southampton
+2024-11-29,Matchweek 13,Fri,Home,D,1,1,Brighton,2,0,0,20,16,3,32,3,8,0,0,0,39,10,9,52.6,20:00:00,/en/matches/d38c4a31/Brighton-and-Hove-Albion-Southampton-November-29-2024-Premier-League,Southampton
+2024-12-04,Matchweek 14,Wed,Away,W,5,1,Chelsea,0,0,0,14,6,1,12,8,10,0,0,0,39,6,7,46.2,19:30:00,/en/matches/e4480630/Southampton-Chelsea-December-4-2024-Premier-League,Southampton
+2024-12-07,Matchweek 15,Sat,Home,W,1,0,Aston Villa,1,0,0,18,15,0,25,8,15,0,0,0,45,9,8,52.9,15:00:00,/en/matches/92cfde2c/Aston-Villa-Southampton-December-7-2024-Premier-League,Southampton
+2024-12-15,Matchweek 16,Sun,Away,W,5,0,Tottenham,3,0,0,15,8,0,15,16,8,0,0,0,43,4,9,30.8,19:00:00,/en/matches/37afd6da/Southampton-Tottenham-Hotspur-December-15-2024-Premier-League,Southampton
+2024-12-22,Matchweek 17,Sun,Home,D,0,0,Fulham,1,0,0,8,15,1,28,8,6,0,0,0,35,15,15,50.0,14:00:00,/en/matches/ba3fcb1e/Fulham-Southampton-December-22-2024-Premier-League,Southampton
+2024-12-26,Matchweek 18,Thu,Away,W,1,0,West Ham,2,0,0,8,15,0,10,6,13,0,0,0,40,20,22,47.6,15:00:00,/en/matches/8050686b/Southampton-West-Ham-United-December-26-2024-Premier-League,Southampton
+2024-12-29,Matchweek 19,Sun,Home,W,2,1,Crystal Palace,2,0,0,18,18,2,23,10,13,0,0,0,60,17,24,41.5,15:00:00,/en/matches/6d06b29c/Crystal-Palace-Southampton-December-29-2024-Premier-League,Southampton
+2025-01-04,Matchweek 20,Sat,Away,W,5,0,Brentford,0,0,0,4,9,2,11,5,11,1,0,0,44,15,18,45.5,15:00:00,/en/matches/36fc576a/Southampton-Brentford-January-4-2025-Premier-League,Southampton
+2025-01-16,Matchweek 21,Thu,Home,W,3,1,Manchester Utd,1,0,0,7,10,2,13,12,10,0,0,1,53,9,20,31.0,20:00:00,/en/matches/f443a602/Manchester-United-Southampton-January-16-2025-Premier-League,Southampton
+2025-01-19,Matchweek 22,Sun,Home,W,3,2,Nott'ham Forest,0,0,0,4,18,3,18,8,11,0,0,0,41,19,22,46.3,14:00:00,/en/matches/e0f90407/Nottingham-Forest-Southampton-January-19-2025-Premier-League,Southampton
+2025-01-25,Matchweek 23,Sat,Away,W,3,1,Newcastle Utd,0,0,0,5,10,4,11,11,12,1,0,0,49,4,21,16.0,15:00:00,/en/matches/7d05223b/Southampton-Newcastle-United-January-25-2025-Premier-League,Southampton
+2025-02-01,Matchweek 24,Sat,Home,L,1,2,Ipswich Town,0,0,0,11,14,0,14,4,8,0,0,0,61,19,26,42.2,15:00:00,/en/matches/1098cac0/Ipswich-Town-Southampton-February-1-2025-Premier-League,Southampton
+2025-02-15,Matchweek 25,Sat,Away,W,3,1,Bournemouth,3,0,0,15,13,0,18,9,7,0,0,0,42,14,22,38.9,15:00:00,/en/matches/ce3da486/Southampton-Bournemouth-February-15-2025-Premier-League,Southampton
+2025-02-22,Matchweek 26,Sat,Away,W,4,0,Brighton,0,0,0,12,11,1,15,9,9,0,0,0,48,21,12,63.6,15:00:00,/en/matches/e757bea1/Southampton-Brighton-and-Hove-Albion-February-22-2025-Premier-League,Southampton
+2025-02-25,Matchweek 27,Tue,Home,W,4,0,Chelsea,1,0,0,6,9,2,10,7,9,0,0,0,44,11,8,57.9,20:15:00,/en/matches/21d4a457/Chelsea-Southampton-February-25-2025-Premier-League,Southampton
+2024-08-19,Matchweek 1,Mon,Home,D,1,1,Leicester City,1,0,0,11,12,2,15,10,15,0,0,0,37,8,9,47.1,20:00:00,/en/matches/62eea1d6/Leicester-City-Tottenham-Hotspur-August-19-2024-Premier-League,Tottenham
+2024-08-24,Matchweek 2,Sat,Away,L,0,4,Everton,0,0,0,15,11,4,15,15,19,0,0,0,43,14,11,56.0,15:00:00,/en/matches/1eef1717/Tottenham-Hotspur-Everton-August-24-2024-Premier-League,Tottenham
+2024-09-01,Matchweek 3,Sun,Home,W,2,1,Newcastle Utd,4,0,0,16,13,2,12,14,8,0,0,1,40,9,13,40.9,13:30:00,/en/matches/0c994746/Newcastle-United-Tottenham-Hotspur-September-1-2024-Premier-League,Tottenham
+2024-09-15,Matchweek 4,Sun,Away,W,1,0,Arsenal,3,0,0,10,12,3,13,9,12,0,0,0,32,14,14,50.0,14:00:00,/en/matches/17774a57/North-London-Derby-Tottenham-Hotspur-Arsenal-September-15-2024-Premier-League,Tottenham
+2024-09-21,Matchweek 5,Sat,Away,L,1,3,Brentford,1,0,0,9,11,2,12,11,16,0,0,0,54,7,13,35.0,15:00:00,/en/matches/9511708f/Tottenham-Hotspur-Brentford-September-21-2024-Premier-League,Tottenham
+2024-09-29,Matchweek 6,Sun,Home,L,0,3,Manchester Utd,5,1,0,16,11,2,21,17,15,0,0,0,43,6,8,42.9,16:30:00,/en/matches/c4b97377/Manchester-United-Tottenham-Hotspur-September-29-2024-Premier-League,Tottenham
+2024-10-06,Matchweek 7,Sun,Home,W,3,2,Brighton,2,0,0,14,10,2,15,11,7,0,0,0,42,7,8,46.7,16:30:00,/en/matches/dac142c7/Brighton-and-Hove-Albion-Tottenham-Hotspur-October-6-2024-Premier-League,Tottenham
+2024-10-19,Matchweek 8,Sat,Away,L,1,4,West Ham,3,1,0,15,9,1,12,11,25,0,0,1,34,7,9,43.8,12:30:00,/en/matches/923bfab0/Tottenham-Hotspur-West-Ham-United-October-19-2024-Premier-League,Tottenham
+2024-10-27,Matchweek 9,Sun,Home,W,1,0,Crystal Palace,4,0,0,16,12,4,29,11,19,0,0,0,53,21,15,58.3,14:00:00,/en/matches/e995d937/Crystal-Palace-Tottenham-Hotspur-October-27-2024-Premier-League,Tottenham
+2024-11-03,Matchweek 10,Sun,Away,L,1,4,Aston Villa,0,0,0,14,14,0,12,11,11,0,0,0,36,11,12,47.8,14:00:00,/en/matches/8fa951f9/Tottenham-Hotspur-Aston-Villa-November-3-2024-Premier-League,Tottenham
+2024-11-10,Matchweek 11,Sun,Away,W,2,1,Ipswich Town,5,0,0,19,9,0,8,11,9,0,0,0,32,12,15,44.4,14:00:00,/en/matches/f9b9c3c4/Tottenham-Hotspur-Ipswich-Town-November-10-2024-Premier-League,Tottenham
+2024-11-23,Matchweek 12,Sat,Home,L,0,4,Manchester City,4,0,0,19,9,2,33,9,8,0,0,0,44,10,5,66.7,17:30:00,/en/matches/c48b896c/Manchester-City-Tottenham-Hotspur-November-23-2024-Premier-League,Tottenham
+2024-12-01,Matchweek 13,Sun,Away,D,1,1,Fulham,1,1,0,14,3,1,28,14,10,0,0,0,52,15,12,55.6,13:30:00,/en/matches/9aaa6ed5/Tottenham-Hotspur-Fulham-December-1-2024-Premier-League,Tottenham
+2024-12-05,Matchweek 14,Thu,Home,W,1,0,Bournemouth,2,0,0,15,8,3,14,18,14,0,0,0,49,12,7,63.2,20:15:00,/en/matches/c7e59a0a/Bournemouth-Tottenham-Hotspur-December-5-2024-Premier-League,Tottenham
+2024-12-08,Matchweek 15,Sun,Away,W,4,3,Chelsea,3,0,0,11,16,2,16,12,13,2,0,0,43,8,8,50.0,16:30:00,/en/matches/abff9b73/Tottenham-Hotspur-Chelsea-December-8-2024-Premier-League,Tottenham
+2024-12-15,Matchweek 16,Sun,Home,L,0,5,Southampton,1,0,0,8,15,2,13,11,10,0,0,0,39,9,4,69.2,19:00:00,/en/matches/37afd6da/Southampton-Tottenham-Hotspur-December-15-2024-Premier-League,Tottenham
+2024-12-22,Matchweek 17,Sun,Away,W,6,3,Liverpool,2,0,0,9,7,4,21,15,17,0,0,0,58,8,5,61.5,16:30:00,/en/matches/1e1cea4c/Tottenham-Hotspur-Liverpool-December-22-2024-Premier-League,Tottenham
+2024-12-26,Matchweek 18,Thu,Home,W,1,0,Nott'ham Forest,3,0,0,12,13,4,6,10,13,0,0,0,45,12,13,48.0,15:00:00,/en/matches/eb738106/Nottingham-Forest-Tottenham-Hotspur-December-26-2024-Premier-League,Tottenham
+2024-12-29,Matchweek 19,Sun,Away,D,2,2,Wolves,2,0,0,10,8,3,15,3,12,0,1,0,42,8,14,36.4,15:00:00,/en/matches/3d2ef5b4/Tottenham-Hotspur-Wolverhampton-Wanderers-December-29-2024-Premier-League,Tottenham
+2025-01-04,Matchweek 20,Sat,Away,W,2,1,Newcastle Utd,4,0,0,15,10,1,15,9,10,0,0,0,38,20,20,50.0,12:30:00,/en/matches/be247ac3/Tottenham-Hotspur-Newcastle-United-January-4-2025-Premier-League,Tottenham
+2025-01-15,Matchweek 21,Wed,Home,W,2,1,Arsenal,3,0,0,16,9,3,25,9,13,0,0,0,38,14,8,63.6,20:00:00,/en/matches/ee9ce5e2/North-London-Derby-Arsenal-Tottenham-Hotspur-January-15-2025-Premier-League,Tottenham
+2025-01-19,Matchweek 22,Sun,Home,W,3,2,Everton,2,0,0,14,14,2,19,12,19,0,0,0,38,16,14,53.3,14:00:00,/en/matches/e9f61cb0/Everton-Tottenham-Hotspur-January-19-2025-Premier-League,Tottenham
+2025-01-26,Matchweek 23,Sun,Away,W,2,1,Leicester City,5,0,0,16,5,2,16,16,17,0,0,0,53,19,19,50.0,14:00:00,/en/matches/8226bca2/Tottenham-Hotspur-Leicester-City-January-26-2025-Premier-League,Tottenham
+2025-02-02,Matchweek 24,Sun,Home,L,0,2,Brentford,0,0,0,4,11,0,38,6,17,0,0,1,49,19,16,54.3,14:00:00,/en/matches/7193a229/Brentford-Tottenham-Hotspur-February-2-2025-Premier-League,Tottenham
+2025-02-16,Matchweek 25,Sun,Away,L,0,1,Manchester Utd,2,0,0,9,12,7,24,11,20,0,0,0,45,11,9,55.0,16:30:00,/en/matches/09db2a2f/Tottenham-Hotspur-Manchester-United-February-16-2025-Premier-League,Tottenham
+2025-02-22,Matchweek 26,Sat,Home,L,1,4,Ipswich Town,2,0,0,15,14,2,19,10,12,0,0,0,44,4,7,36.4,15:00:00,/en/matches/7853cd1a/Ipswich-Town-Tottenham-Hotspur-February-22-2025-Premier-League,Tottenham
+2025-02-26,Matchweek 27,Wed,Away,W,1,0,Manchester City,0,0,0,15,12,2,12,10,13,0,0,0,35,5,8,38.5,19:30:00,/en/matches/3b8160bd/Tottenham-Hotspur-Manchester-City-February-26-2025-Premier-League,Tottenham
+2024-08-17,Matchweek 1,Sat,Away,W,2,1,Aston Villa,2,0,0,11,18,1,15,7,15,0,1,0,38,12,14,46.2,17:30:00,/en/matches/eac7c00b/West-Ham-United-Aston-Villa-August-17-2024-Premier-League,West Ham
+2024-08-24,Matchweek 2,Sat,Home,L,0,2,Crystal Palace,1,0,0,9,16,3,20,9,11,0,0,0,47,13,23,36.1,15:00:00,/en/matches/540cfb68/Crystal-Palace-West-Ham-United-August-24-2024-Premier-League,West Ham
+2024-08-31,Matchweek 3,Sat,Away,W,3,1,Manchester City,2,0,0,3,10,1,22,7,12,0,0,1,43,7,9,43.8,17:30:00,/en/matches/97ce60d4/West-Ham-United-Manchester-City-August-31-2024-Premier-League,West Ham
+2024-09-14,Matchweek 4,Sat,Home,D,1,1,Fulham,2,0,0,15,18,3,22,13,19,0,0,0,44,20,10,66.7,15:00:00,/en/matches/fa2b1777/Fulham-West-Ham-United-September-14-2024-Premier-League,West Ham
+2024-09-21,Matchweek 5,Sat,Away,W,3,0,Chelsea,2,0,0,9,17,1,8,8,9,0,0,0,37,10,9,52.6,12:30:00,/en/matches/ce0fb1f5/West-Ham-United-Chelsea-September-21-2024-Premier-League,West Ham
+2024-09-28,Matchweek 6,Sat,Home,D,1,1,Brentford,2,0,0,2,8,1,28,10,15,0,0,0,39,16,17,48.5,15:00:00,/en/matches/9c4f2bcd/Brentford-West-Ham-United-September-28-2024-Premier-League,West Ham
+2024-10-05,Matchweek 7,Sat,Away,L,1,4,Ipswich Town,1,0,0,6,10,1,15,6,11,0,0,0,32,16,10,61.5,15:00:00,/en/matches/93e19c5e/West-Ham-United-Ipswich-Town-October-5-2024-Premier-League,West Ham
+2024-10-19,Matchweek 8,Sat,Home,W,4,1,Tottenham,1,0,0,10,15,2,28,5,16,0,0,0,49,9,7,56.3,12:30:00,/en/matches/923bfab0/Tottenham-Hotspur-West-Ham-United-October-19-2024-Premier-League,West Ham
+2024-10-27,Matchweek 9,Sun,Away,L,1,2,Manchester Utd,1,0,0,7,6,3,24,6,11,0,1,0,41,14,13,51.9,14:00:00,/en/matches/38c31a07/West-Ham-United-Manchester-United-October-27-2024-Premier-League,West Ham
+2024-11-02,Matchweek 10,Sat,Home,W,3,0,Nott'ham Forest,1,0,0,7,8,1,20,6,12,0,0,0,41,13,15,46.4,15:00:00,/en/matches/c2505640/Nottingham-Forest-West-Ham-United-November-2-2024-Premier-League,West Ham
+2024-11-09,Matchweek 11,Sat,Away,D,0,0,Everton,2,0,0,9,10,1,27,8,8,0,0,0,40,18,18,50.0,15:00:00,/en/matches/a4cf40b4/West-Ham-United-Everton-November-9-2024-Premier-League,West Ham
+2024-11-25,Matchweek 12,Mon,Home,L,0,2,Newcastle Utd,1,0,0,11,7,1,35,7,13,0,0,0,53,7,14,33.3,20:00:00,/en/matches/79f46eec/Newcastle-United-West-Ham-United-November-25-2024-Premier-League,West Ham
+2024-11-30,Matchweek 13,Sat,Away,W,5,2,Arsenal,1,0,0,13,10,1,19,6,6,2,0,0,39,10,17,37.0,17:30:00,/en/matches/f78bee62/West-Ham-United-Arsenal-November-30-2024-Premier-League,West Ham
+2024-12-03,Matchweek 14,Tue,Home,W,3,1,Leicester City,2,0,0,9,7,1,11,12,24,0,0,0,47,20,29,40.8,20:15:00,/en/matches/355fd8ce/Leicester-City-West-Ham-United-December-3-2024-Premier-League,West Ham
+2024-12-09,Matchweek 15,Mon,Away,L,1,2,Wolves,4,0,0,17,12,1,13,4,9,0,0,0,47,24,20,54.5,20:00:00,/en/matches/4d72ec87/West-Ham-United-Wolverhampton-Wanderers-December-9-2024-Premier-League,West Ham
+2024-12-16,Matchweek 16,Mon,Home,D,1,1,Bournemouth,0,0,0,6,11,1,30,10,8,0,1,0,51,21,23,47.7,20:00:00,/en/matches/49cd674b/Bournemouth-West-Ham-United-December-16-2024-Premier-League,West Ham
+2024-12-21,Matchweek 17,Sat,Away,D,1,1,Brighton,2,0,0,20,14,1,22,9,10,0,0,0,50,21,17,55.3,15:00:00,/en/matches/04be8e87/West-Ham-United-Brighton-and-Hove-Albion-December-21-2024-Premier-League,West Ham
+2024-12-26,Matchweek 18,Thu,Home,L,0,1,Southampton,1,0,0,15,8,0,23,10,8,0,0,0,45,22,20,52.4,15:00:00,/en/matches/8050686b/Southampton-West-Ham-United-December-26-2024-Premier-League,West Ham
+2024-12-29,Matchweek 19,Sun,Away,W,5,0,Liverpool,0,0,0,10,7,0,22,4,15,0,0,0,45,7,6,53.8,17:15:00,/en/matches/c1a66ac0/West-Ham-United-Liverpool-December-29-2024-Premier-League,West Ham
+2025-01-04,Matchweek 20,Sat,Home,W,4,1,Manchester City,2,0,0,8,13,1,12,6,8,0,0,0,37,7,14,33.3,15:00:00,/en/matches/d7773a4c/Manchester-City-West-Ham-United-January-4-2025-Premier-League,West Ham
+2025-01-14,Matchweek 21,Tue,Away,L,2,3,Fulham,3,0,0,18,9,0,24,10,7,0,0,0,44,15,15,50.0,19:30:00,/en/matches/c6168c73/West-Ham-United-Fulham-January-14-2025-Premier-League,West Ham
+2025-01-18,Matchweek 22,Sat,Away,W,2,0,Crystal Palace,0,0,0,10,13,0,18,16,10,1,0,0,37,10,17,37.0,15:00:00,/en/matches/03ac4a9c/West-Ham-United-Crystal-Palace-January-18-2025-Premier-League,West Ham
+2025-01-26,Matchweek 23,Sun,Home,D,1,1,Aston Villa,2,0,0,13,14,2,17,9,15,0,0,0,46,20,18,52.6,16:30:00,/en/matches/bb05246c/Aston-Villa-West-Ham-United-January-26-2025-Premier-League,West Ham
+2025-02-03,Matchweek 24,Mon,Home,W,2,1,Chelsea,3,0,0,11,10,0,22,3,18,0,0,0,36,19,13,59.4,20:00:00,/en/matches/ed7df9b1/Chelsea-West-Ham-United-February-3-2025-Premier-League,West Ham
+2025-02-15,Matchweek 25,Sat,Away,W,1,0,Brentford,1,0,0,13,10,4,16,5,9,0,0,0,45,21,16,56.8,15:00:00,/en/matches/79406a7e/West-Ham-United-Brentford-February-15-2025-Premier-League,West Ham
+2025-02-22,Matchweek 26,Sat,Home,L,0,1,Arsenal,1,1,0,16,14,2,30,8,5,0,0,0,33,17,19,47.2,15:00:00,/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,West Ham
+2025-02-27,Matchweek 27,Thu,Away,L,0,2,Leicester City,0,0,0,6,11,0,24,9,11,0,0,1,41,15,16,48.4,20:00:00,/en/matches/08b1b7de/West-Ham-United-Leicester-City-February-27-2025-Premier-League,West Ham
+2024-08-17,Matchweek 1,Sat,Home,W,2,0,Arsenal,2,0,0,17,14,0,15,8,13,0,0,0,30,17,13,56.7,15:00:00,/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,Wolves
+2024-08-25,Matchweek 2,Sun,Away,W,6,2,Chelsea,3,0,0,13,13,1,11,9,11,0,0,0,39,5,8,38.5,14:00:00,/en/matches/e76c15c9/Wolverhampton-Wanderers-Chelsea-August-25-2024-Premier-League,Wolves
+2024-08-31,Matchweek 3,Sat,Home,D,1,1,Nott'ham Forest,3,0,0,15,17,4,23,10,12,0,0,0,44,14,16,46.7,15:00:00,/en/matches/837f0304/Nottingham-Forest-Wolverhampton-Wanderers-August-31-2024-Premier-League,Wolves
+2024-09-15,Matchweek 4,Sun,Away,W,2,1,Newcastle Utd,3,0,0,6,16,2,13,5,9,0,0,0,33,13,8,61.9,16:30:00,/en/matches/4b01981e/Wolverhampton-Wanderers-Newcastle-United-September-15-2024-Premier-League,Wolves
+2024-09-21,Matchweek 5,Sat,Home,W,3,1,Aston Villa,3,0,0,11,15,1,17,5,10,0,0,0,36,7,10,41.2,15:00:00,/en/matches/e2b62260/Aston-Villa-Wolverhampton-Wanderers-September-21-2024-Premier-League,Wolves
+2024-09-28,Matchweek 6,Sat,Away,W,2,1,Liverpool,3,0,0,8,15,2,21,7,9,1,0,0,45,10,10,50.0,17:30:00,/en/matches/f2633f1d/Wolverhampton-Wanderers-Liverpool-September-28-2024-Premier-League,Wolves
+2024-10-05,Matchweek 7,Sat,Home,W,5,3,Brentford,2,0,0,9,9,5,27,6,8,1,0,0,47,22,20,52.4,15:00:00,/en/matches/909090f8/Brentford-Wolverhampton-Wanderers-October-5-2024-Premier-League,Wolves
+2024-10-20,Matchweek 8,Sun,Away,W,2,1,Manchester City,1,0,0,5,8,1,40,3,10,0,0,0,43,13,14,48.1,14:00:00,/en/matches/90b22cd5/Wolverhampton-Wanderers-Manchester-City-October-20-2024-Premier-League,Wolves
+2024-10-26,Matchweek 9,Sat,Home,D,2,2,Brighton,3,0,0,12,10,2,26,9,10,0,0,0,55,11,15,42.3,15:00:00,/en/matches/9487e056/Brighton-and-Hove-Albion-Wolverhampton-Wanderers-October-26-2024-Premier-League,Wolves
+2024-11-02,Matchweek 10,Sat,Away,D,2,2,Crystal Palace,2,0,0,9,6,1,23,9,7,0,0,0,42,15,13,53.6,17:30:00,/en/matches/a4251fae/Wolverhampton-Wanderers-Crystal-Palace-November-2-2024-Premier-League,Wolves
+2024-11-09,Matchweek 11,Sat,Away,L,0,2,Southampton,4,0,0,12,14,0,25,5,7,0,0,0,39,8,5,61.5,15:00:00,/en/matches/dbec2d40/Wolverhampton-Wanderers-Southampton-November-9-2024-Premier-League,Wolves
+2024-11-23,Matchweek 12,Sat,Home,L,1,4,Fulham,3,0,0,14,13,2,28,11,15,0,0,0,44,6,7,46.2,15:00:00,/en/matches/ed24aeb8/Fulham-Wolverhampton-Wanderers-November-23-2024-Premier-League,Wolves
+2024-11-30,Matchweek 13,Sat,Away,W,4,2,Bournemouth,1,0,0,11,13,1,15,8,14,3,0,0,52,14,12,53.8,15:00:00,/en/matches/adfb1b89/Wolverhampton-Wanderers-Bournemouth-November-30-2024-Premier-League,Wolves
+2024-12-04,Matchweek 14,Wed,Home,W,4,0,Everton,2,0,0,10,8,4,10,13,11,0,0,0,45,8,10,44.4,19:30:00,/en/matches/71f00b04/Everton-Wolverhampton-Wanderers-December-4-2024-Premier-League,Wolves
+2024-12-09,Matchweek 15,Mon,Home,W,2,1,West Ham,5,0,0,12,17,4,22,8,7,0,0,0,43,20,24,45.5,20:00:00,/en/matches/4d72ec87/West-Ham-United-Wolverhampton-Wanderers-December-9-2024-Premier-League,Wolves
+2024-12-14,Matchweek 16,Sat,Away,W,2,1,Ipswich Town,2,0,0,9,13,4,17,12,4,0,0,0,49,15,12,55.6,15:00:00,/en/matches/46d52e33/Wolverhampton-Wanderers-Ipswich-Town-December-14-2024-Premier-League,Wolves
+2024-12-22,Matchweek 17,Sun,Home,L,0,3,Leicester City,2,0,0,15,15,1,24,9,8,0,0,0,41,11,8,57.9,14:00:00,/en/matches/ecd6cb1d/Leicester-City-Wolverhampton-Wanderers-December-22-2024-Premier-League,Wolves
+2024-12-26,Matchweek 18,Thu,Away,L,0,2,Manchester Utd,4,1,1,12,12,1,20,13,17,0,0,0,47,9,16,36.0,17:30:00,/en/matches/77bcad49/Wolverhampton-Wanderers-Manchester-United-December-26-2024-Premier-League,Wolves
+2024-12-29,Matchweek 19,Sun,Home,D,2,2,Tottenham,1,0,0,9,9,3,17,5,13,1,0,0,42,14,8,63.6,15:00:00,/en/matches/3d2ef5b4/Tottenham-Hotspur-Wolverhampton-Wanderers-December-29-2024-Premier-League,Wolves
+2025-01-06,Matchweek 20,Mon,Away,W,3,0,Nott'ham Forest,2,0,0,8,10,4,10,10,12,0,0,0,43,16,12,57.1,20:00:00,/en/matches/56c4250a/Wolverhampton-Wanderers-Nottingham-Forest-January-6-2025-Premier-League,Wolves
+2025-01-15,Matchweek 21,Wed,Home,W,3,0,Newcastle Utd,0,0,0,10,11,3,17,12,11,0,0,0,60,18,5,78.3,19:30:00,/en/matches/535d70d7/Newcastle-United-Wolverhampton-Wanderers-January-15-2025-Premier-League,Wolves
+2025-01-20,Matchweek 22,Mon,Home,W,3,1,Chelsea,4,0,0,8,14,5,23,7,8,0,0,0,33,12,9,57.1,20:00:00,/en/matches/e62cfa12/Chelsea-Wolverhampton-Wanderers-January-20-2025-Premier-League,Wolves
+2025-01-25,Matchweek 23,Sat,Away,W,1,0,Arsenal,1,1,0,10,20,0,23,8,11,0,0,0,42,7,13,35.0,15:00:00,/en/matches/0b39252e/Wolverhampton-Wanderers-Arsenal-January-25-2025-Premier-League,Wolves
+2025-02-01,Matchweek 24,Sat,Away,L,0,2,Aston Villa,3,0,0,13,20,3,23,3,8,0,0,0,26,11,8,57.9,17:30:00,/en/matches/693ab427/Wolverhampton-Wanderers-Aston-Villa-February-1-2025-Premier-League,Wolves
+2025-02-16,Matchweek 25,Sun,Home,W,2,1,Liverpool,2,0,0,15,12,5,13,15,10,1,0,0,38,8,10,44.4,14:00:00,/en/matches/6a917c79/Liverpool-Wolverhampton-Wanderers-February-16-2025-Premier-League,Wolves
+2025-02-22,Matchweek 26,Sat,Home,L,0,1,Bournemouth,3,1,0,17,8,1,27,12,5,0,0,0,56,16,17,48.5,15:00:00,/en/matches/ccdda6d3/Bournemouth-Wolverhampton-Wanderers-February-22-2025-Premier-League,Wolves
+2025-02-25,Matchweek 27,Tue,Away,W,2,1,Fulham,3,0,0,15,8,0,9,6,17,0,0,0,36,18,12,60.0,19:30:00,/en/matches/7aecfc4c/Wolverhampton-Wanderers-Fulham-February-25-2025-Premier-League,Wolves
