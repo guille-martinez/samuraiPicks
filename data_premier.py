@@ -34,14 +34,14 @@ stats_passing_types = pd.concat([
     fbref.read_team_match_stats(stat_type="passing_types", opponent_stats=True, team=team).assign(team=team)
     for team in teams
 ], ignore_index=True)
-stats_passing_types.to_csv("Premier_League_Passing_Types", index=False)
+stats_passing_types.to_csv("Premier_League_Passing_Types.csv", index=False)
 print("Passing Types data saved to csv")
 
 stats_possession = pd.concat([
     fbref.read_team_match_stats(stat_type="possession", opponent_stats=True, team=team).assign(team=team)
     for team in teams
 ], ignore_index=True)
-stats_possession.to_csv("Premier_League_Posession", index=False)
+stats_possession.to_csv("Premier_League_Posession.csv", index=False)
 print("Possession data saved to csv")
 
 stats_misc = pd.concat([
