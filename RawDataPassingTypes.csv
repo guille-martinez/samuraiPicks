@@ -27,6 +27,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Home,L,0,2,Leicester City,362,312,49,14,0,0,16,22,3,3,0,0,258,1,9,12:30:00,/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,Arsenal
 2025-02-22,Matchweek 26,Sat,Away,W,1,0,West Ham,334,293,39,17,1,1,8,11,0,0,0,0,257,2,5,15:00:00,/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,Arsenal
 2025-02-26,Matchweek 27,Wed,Home,D,0,0,Nott'ham Forest,303,256,46,19,1,2,18,16,3,1,1,0,213,1,8,19:30:00,/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,Arsenal
+2025-03-09,Matchweek 28,Sun,Home,D,1,1,Manchester Utd,298,265,33,11,2,1,11,8,2,1,0,0,219,0,4,16:30:00,/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,Arsenal
 2024-08-17,Matchweek 1,Sat,Home,L,1,2,West Ham,464,423,40,11,0,4,25,14,5,4,1,0,377,1,11,17:30:00,/en/matches/eac7c00b/West-Ham-United-Aston-Villa-August-17-2024-Premier-League,Aston Villa
 2024-08-24,Matchweek 2,Sat,Away,W,2,0,Arsenal,544,512,31,11,5,3,13,12,1,1,0,0,483,1,4,17:30:00,/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,Aston Villa
 2024-08-31,Matchweek 3,Sat,Home,L,1,2,Leicester City,545,506,36,22,1,3,18,6,1,1,0,0,471,3,7,15:00:00,/en/matches/5af68b76/Leicester-City-Aston-Villa-August-31-2024-Premier-League,Aston Villa
@@ -55,6 +56,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-19,Matchweek 29,Wed,Away,D,2,2,Liverpool,448,402,44,11,6,3,20,16,8,7,0,0,360,2,16,19:30:00,/en/matches/39c7b656/Aston-Villa-Liverpool-February-19-2025-Premier-League,Aston Villa
 2025-02-22,Matchweek 26,Sat,Away,L,1,2,Chelsea,475,433,41,16,6,2,12,13,3,0,2,1,409,1,5,17:30:00,/en/matches/5109d405/Aston-Villa-Chelsea-February-22-2025-Premier-League,Aston Villa
 2025-02-25,Matchweek 27,Tue,Home,W,4,1,Crystal Palace,290,243,40,15,0,0,12,13,3,3,0,0,202,7,6,19:30:00,/en/matches/0a97629a/Crystal-Palace-Aston-Villa-February-25-2025-Premier-League,Aston Villa
+2025-03-08,Matchweek 28,Sat,Home,L,0,1,Brentford,505,472,31,8,1,4,27,12,6,4,0,0,415,2,10,17:30:00,/en/matches/fb9126ab/Brentford-Aston-Villa-March-8-2025-Premier-League,Aston Villa
 2024-08-17,Matchweek 1,Sat,Home,D,1,1,Nott'ham Forest,543,490,52,12,1,0,13,23,2,2,0,0,420,1,12,15:00:00,/en/matches/4efc72e4/Nottingham-Forest-Bournemouth-August-17-2024-Premier-League,Bournemouth
 2024-08-25,Matchweek 2,Sun,Away,D,1,1,Newcastle Utd,552,487,65,20,1,4,26,25,9,4,2,0,428,0,20,14:00:00,/en/matches/1934f267/Bournemouth-Newcastle-United-August-25-2024-Premier-League,Bournemouth
 2024-08-31,Matchweek 3,Sat,Home,L,2,3,Everton,393,338,53,13,1,2,21,20,8,5,0,2,280,2,9,15:00:00,/en/matches/58bbe046/Everton-Bournemouth-August-31-2024-Premier-League,Bournemouth
@@ -82,6 +84,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Home,L,1,3,Southampton,423,377,46,15,1,2,20,16,4,0,3,0,325,0,9,15:00:00,/en/matches/ce3da486/Southampton-Bournemouth-February-15-2025-Premier-League,Bournemouth
 2025-02-22,Matchweek 26,Sat,Away,W,1,0,Wolves,490,435,54,17,3,1,16,16,7,2,4,0,381,1,7,15:00:00,/en/matches/ccdda6d3/Bournemouth-Wolverhampton-Wanderers-February-22-2025-Premier-League,Bournemouth
 2025-02-25,Matchweek 27,Tue,Home,W,2,1,Brighton,404,343,61,16,3,2,8,27,1,0,1,0,285,0,7,19:30:00,/en/matches/fade9277/Brighton-and-Hove-Albion-Bournemouth-February-25-2025-Premier-League,Bournemouth
+2025-03-09,Matchweek 28,Sun,Home,D,2,2,Tottenham,587,521,66,18,1,2,16,36,3,1,2,0,475,0,19,14:00:00,/en/matches/81575514/Tottenham-Hotspur-Bournemouth-March-9-2025-Premier-League,Bournemouth
 2024-08-18,Matchweek 1,Sun,Away,L,1,2,Crystal Palace,519,472,44,6,2,1,14,18,7,3,0,0,410,3,8,14:00:00,/en/matches/b63822b9/Brentford-Crystal-Palace-August-18-2024-Premier-League,Brentford
 2024-08-25,Matchweek 2,Sun,Home,W,2,0,Liverpool,638,596,41,8,3,3,15,18,9,6,2,0,571,1,4,16:30:00,/en/matches/09b1742e/Liverpool-Brentford-August-25-2024-Premier-League,Brentford
 2024-08-31,Matchweek 3,Sat,Away,L,1,3,Southampton,664,618,44,10,4,1,20,13,8,4,1,0,573,2,15,15:00:00,/en/matches/fec3438b/Brentford-Southampton-August-31-2024-Premier-League,Brentford
@@ -109,6 +112,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Home,L,0,1,West Ham,559,509,48,15,0,2,31,17,9,3,6,0,453,2,10,15:00:00,/en/matches/79406a7e/West-Ham-United-Brentford-February-15-2025-Premier-League,Brentford
 2025-02-21,Matchweek 26,Fri,Home,L,0,4,Leicester City,429,382,46,11,1,3,27,19,5,1,1,1,333,1,7,20:00:00,/en/matches/da5a149a/Leicester-City-Brentford-February-21-2025-Premier-League,Brentford
 2025-02-26,Matchweek 27,Wed,Away,D,1,1,Everton,474,432,42,4,0,2,21,23,5,5,0,0,378,0,13,19:30:00,/en/matches/1218933c/Brentford-Everton-February-26-2025-Premier-League,Brentford
+2025-03-08,Matchweek 28,Sat,Away,W,1,0,Aston Villa,346,307,36,11,1,1,12,14,5,4,0,0,254,3,14,17:30:00,/en/matches/fb9126ab/Brentford-Aston-Villa-March-8-2025-Premier-League,Brentford
 2024-08-17,Matchweek 1,Sat,Home,L,0,3,Everton,399,347,45,9,0,8,17,27,1,0,1,0,298,7,7,15:00:00,/en/matches/71618ace/Everton-Brighton-and-Hove-Albion-August-17-2024-Premier-League,Brighton
 2024-08-24,Matchweek 2,Sat,Away,L,1,2,Manchester Utd,552,512,34,9,4,1,12,14,4,2,0,1,470,6,11,12:30:00,/en/matches/fc8ab8b2/Brighton-and-Hove-Albion-Manchester-United-August-24-2024-Premier-League,Brighton
 2024-08-31,Matchweek 3,Sat,Home,D,1,1,Arsenal,296,257,36,8,5,2,7,13,3,3,0,0,215,3,5,12:30:00,/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,Brighton
@@ -136,6 +140,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-14,Matchweek 25,Fri,Away,L,0,3,Chelsea,776,724,49,12,1,1,18,17,9,5,0,0,685,3,7,20:00:00,/en/matches/ed780e1d/Brighton-and-Hove-Albion-Chelsea-February-14-2025-Premier-League,Brighton
 2025-02-22,Matchweek 26,Sat,Home,L,0,4,Southampton,467,424,41,13,0,0,11,15,5,3,0,0,369,2,8,15:00:00,/en/matches/e757bea1/Southampton-Brighton-and-Hove-Albion-February-22-2025-Premier-League,Brighton
 2025-02-25,Matchweek 27,Tue,Away,L,1,2,Bournemouth,515,462,49,12,1,2,22,18,9,8,0,0,402,4,9,19:30:00,/en/matches/fade9277/Brighton-and-Hove-Albion-Bournemouth-February-25-2025-Premier-League,Brighton
+2025-03-08,Matchweek 28,Sat,Away,L,1,2,Fulham,479,438,40,10,0,4,22,13,7,4,3,0,391,1,8,15:00:00,/en/matches/fb4bb61d/Brighton-and-Hove-Albion-Fulham-March-8-2025-Premier-League,Brighton
 2024-08-18,Matchweek 1,Sun,Away,W,2,0,Manchester City,570,528,41,14,2,1,11,18,3,2,0,0,501,1,7,16:30:00,/en/matches/67a0c715/Chelsea-Manchester-City-August-18-2024-Premier-League,Chelsea
 2024-08-25,Matchweek 2,Sun,Home,L,2,6,Wolves,357,307,47,12,2,3,13,19,5,2,3,0,272,3,11,14:00:00,/en/matches/e76c15c9/Wolverhampton-Wanderers-Chelsea-August-25-2024-Premier-League,Chelsea
 2024-09-01,Matchweek 3,Sun,Away,D,1,1,Crystal Palace,382,339,42,8,1,1,9,17,4,3,0,0,300,1,8,13:30:00,/en/matches/3387c2c8/Chelsea-Crystal-Palace-September-1-2024-Premier-League,Chelsea
@@ -163,6 +168,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-14,Matchweek 25,Fri,Home,W,3,0,Brighton,344,303,39,18,0,1,3,10,2,0,1,0,265,2,6,20:00:00,/en/matches/ed780e1d/Brighton-and-Hove-Albion-Chelsea-February-14-2025-Premier-League,Chelsea
 2025-02-22,Matchweek 26,Sat,Home,W,2,1,Aston Villa,518,475,42,16,2,2,13,14,2,1,0,0,441,1,8,17:30:00,/en/matches/5109d405/Aston-Villa-Chelsea-February-22-2025-Premier-League,Chelsea
 2025-02-25,Matchweek 27,Tue,Away,L,0,4,Southampton,441,404,37,8,0,2,10,13,2,1,1,0,370,0,2,20:15:00,/en/matches/21d4a457/Chelsea-Southampton-February-25-2025-Premier-League,Chelsea
+2025-03-09,Matchweek 28,Sun,Away,L,0,1,Leicester City,462,418,42,11,0,1,18,21,2,0,2,0,364,2,7,14:00:00,/en/matches/236640be/Chelsea-Leicester-City-March-9-2025-Premier-League,Chelsea
 2024-08-18,Matchweek 1,Sun,Home,W,2,1,Brentford,440,394,45,17,2,3,17,14,4,3,0,0,331,1,9,14:00:00,/en/matches/b63822b9/Brentford-Crystal-Palace-August-18-2024-Premier-League,Crystal Palace
 2024-08-24,Matchweek 2,Sat,Away,W,2,0,West Ham,425,382,41,11,2,3,14,13,3,0,3,0,320,2,9,15:00:00,/en/matches/540cfb68/Crystal-Palace-West-Ham-United-August-24-2024-Premier-League,Crystal Palace
 2024-09-01,Matchweek 3,Sun,Home,D,1,1,Chelsea,628,593,35,13,3,3,19,14,4,4,0,0,553,0,7,13:30:00,/en/matches/3387c2c8/Chelsea-Crystal-Palace-September-1-2024-Premier-League,Crystal Palace
@@ -190,6 +196,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Away,W,2,1,Everton,411,367,43,12,1,3,17,19,2,2,0,0,286,1,9,17:30:00,/en/matches/35ee3617/Crystal-Palace-Everton-February-15-2025-Premier-League,Crystal Palace
 2025-02-22,Matchweek 26,Sat,Home,L,0,2,Fulham,588,545,43,10,0,6,27,17,7,0,7,0,471,0,15,15:00:00,/en/matches/7289bcdf/Fulham-Crystal-Palace-February-22-2025-Premier-League,Crystal Palace
 2025-02-25,Matchweek 27,Tue,Away,L,1,4,Aston Villa,509,434,68,26,1,1,13,20,8,7,0,0,424,7,11,19:30:00,/en/matches/0a97629a/Crystal-Palace-Aston-Villa-February-25-2025-Premier-League,Crystal Palace
+2025-03-08,Matchweek 28,Sat,Away,L,0,1,Ipswich Town,380,329,51,7,2,1,16,28,4,4,0,0,269,0,10,15:00:00,/en/matches/b1ad79e4/Crystal-Palace-Ipswich-Town-March-8-2025-Premier-League,Crystal Palace
 2024-08-17,Matchweek 1,Sat,Away,W,3,0,Brighton,605,557,47,15,1,4,14,14,5,2,2,0,510,1,10,15:00:00,/en/matches/71618ace/Everton-Brighton-and-Hove-Albion-August-17-2024-Premier-League,Everton
 2024-08-24,Matchweek 2,Sat,Home,W,4,0,Tottenham,658,606,52,18,3,5,20,19,12,6,1,0,574,0,9,15:00:00,/en/matches/1eef1717/Tottenham-Hotspur-Everton-August-24-2024-Premier-League,Everton
 2024-08-31,Matchweek 3,Sat,Away,W,3,2,Bournemouth,441,391,48,8,0,2,24,19,4,3,1,0,327,2,9,15:00:00,/en/matches/58bbe046/Everton-Bournemouth-August-31-2024-Premier-League,Everton
@@ -217,6 +224,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Home,L,1,2,Crystal Palace,568,514,51,13,7,3,20,23,6,3,2,0,427,3,6,17:30:00,/en/matches/35ee3617/Crystal-Palace-Everton-February-15-2025-Premier-League,Everton
 2025-02-22,Matchweek 26,Sat,Away,D,2,2,Manchester Utd,575,532,43,11,5,2,20,17,8,4,3,0,479,0,5,12:30:00,/en/matches/e5b45c4d/Everton-Manchester-United-February-22-2025-Premier-League,Everton
 2025-02-26,Matchweek 27,Wed,Home,D,1,1,Brentford,507,464,42,6,1,6,20,21,2,1,0,0,411,1,7,19:30:00,/en/matches/1218933c/Brentford-Everton-February-26-2025-Premier-League,Everton
+2025-03-08,Matchweek 28,Sat,Home,D,1,1,Wolves,643,596,47,16,2,2,18,22,5,5,0,0,554,0,11,20:00:00,/en/matches/2ac7408b/Wolverhampton-Wanderers-Everton-March-8-2025-Premier-League,Everton
 2024-08-16,Matchweek 1,Fri,Home,W,1,0,Manchester Utd,524,483,38,9,1,2,18,15,7,3,2,0,430,3,7,20:00:00,/en/matches/cc5b4244/Manchester-United-Fulham-August-16-2024-Premier-League,Fulham
 2024-08-24,Matchweek 2,Sat,Away,L,1,2,Leicester City,489,441,43,13,1,2,12,10,5,5,0,0,402,5,7,15:00:00,/en/matches/4d0079fb/Fulham-Leicester-City-August-24-2024-Premier-League,Fulham
 2024-08-31,Matchweek 3,Sat,Home,D,1,1,Ipswich Town,434,396,34,13,3,4,16,7,8,7,0,0,360,4,8,15:00:00,/en/matches/cec85838/Ipswich-Town-Fulham-August-31-2024-Premier-League,Fulham
@@ -244,6 +252,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Away,L,1,2,Nott'ham Forest,441,401,39,14,0,3,18,10,4,2,2,0,358,1,4,15:00:00,/en/matches/5968d7ad/Fulham-Nottingham-Forest-February-15-2025-Premier-League,Fulham
 2025-02-22,Matchweek 26,Sat,Away,W,2,0,Crystal Palace,363,320,40,9,3,2,10,13,7,6,0,0,267,3,6,15:00:00,/en/matches/7289bcdf/Fulham-Crystal-Palace-February-22-2025-Premier-League,Fulham
 2025-02-25,Matchweek 27,Tue,Home,L,1,2,Wolves,625,576,48,12,2,3,29,21,7,7,0,0,535,1,7,19:30:00,/en/matches/7aecfc4c/Wolverhampton-Wanderers-Fulham-February-25-2025-Premier-League,Fulham
+2025-03-08,Matchweek 28,Sat,Home,W,2,1,Brighton,550,507,39,12,1,2,13,16,3,2,0,1,463,4,8,15:00:00,/en/matches/fb4bb61d/Brighton-and-Hove-Albion-Fulham-March-8-2025-Premier-League,Fulham
 2024-08-17,Matchweek 1,Sat,Away,W,2,0,Liverpool,620,567,53,14,6,4,23,24,10,8,1,0,520,0,9,12:30:00,/en/matches/a1d0d529/Ipswich-Town-Liverpool-August-17-2024-Premier-League,Ipswich Town
 2024-08-24,Matchweek 2,Sat,Home,W,4,1,Manchester City,796,747,46,13,2,2,17,20,10,3,1,0,726,3,13,15:00:00,/en/matches/a24b7a43/Manchester-City-Ipswich-Town-August-24-2024-Premier-League,Ipswich Town
 2024-08-31,Matchweek 3,Sat,Away,D,1,1,Fulham,469,412,57,19,0,4,26,23,6,4,1,0,383,0,9,15:00:00,/en/matches/cec85838/Ipswich-Town-Fulham-August-31-2024-Premier-League,Ipswich Town
@@ -271,6 +280,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Home,D,1,1,Aston Villa,715,668,45,13,2,1,32,12,16,8,0,0,622,2,11,15:00:00,/en/matches/06fee8c4/Aston-Villa-Ipswich-Town-February-15-2025-Premier-League,Ipswich Town
 2025-02-22,Matchweek 26,Sat,Away,W,4,1,Tottenham,549,512,36,17,0,1,4,8,4,1,2,0,473,1,4,15:00:00,/en/matches/7853cd1a/Ipswich-Town-Tottenham-Hotspur-February-22-2025-Premier-League,Ipswich Town
 2025-02-26,Matchweek 27,Wed,Home,W,3,2,Manchester Utd,397,349,48,18,3,1,18,15,5,3,1,0,313,0,5,19:30:00,/en/matches/bf6aa8ee/Manchester-United-Ipswich-Town-February-26-2025-Premier-League,Ipswich Town
+2025-03-08,Matchweek 28,Sat,Home,W,1,0,Crystal Palace,459,409,50,6,4,3,19,26,5,4,0,0,336,0,13,15:00:00,/en/matches/b1ad79e4/Crystal-Palace-Ipswich-Town-March-8-2025-Premier-League,Ipswich Town
 2024-08-19,Matchweek 1,Mon,Away,D,1,1,Tottenham,724,671,52,13,2,3,28,18,13,5,3,0,631,1,18,20:00:00,/en/matches/62eea1d6/Leicester-City-Tottenham-Hotspur-August-19-2024-Premier-League,Leicester City
 2024-08-24,Matchweek 2,Sat,Home,W,2,1,Fulham,582,530,52,17,0,4,21,21,7,1,5,0,489,0,15,15:00:00,/en/matches/4d0079fb/Fulham-Leicester-City-August-24-2024-Premier-League,Leicester City
 2024-08-31,Matchweek 3,Sat,Away,W,2,1,Aston Villa,411,363,47,16,3,4,10,15,4,4,0,0,333,1,8,15:00:00,/en/matches/5af68b76/Leicester-City-Aston-Villa-August-31-2024-Premier-League,Leicester City
@@ -298,6 +308,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Away,W,2,0,Arsenal,542,493,45,10,6,6,18,23,7,7,0,0,450,4,4,12:30:00,/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,Leicester City
 2025-02-21,Matchweek 26,Fri,Away,W,4,0,Brentford,460,421,38,11,2,2,20,12,6,3,0,0,379,1,7,20:00:00,/en/matches/da5a149a/Leicester-City-Brentford-February-21-2025-Premier-League,Leicester City
 2025-02-27,Matchweek 27,Thu,Home,W,2,0,West Ham,686,651,34,6,0,6,17,17,3,3,0,0,602,1,9,20:00:00,/en/matches/08b1b7de/West-Ham-United-Leicester-City-February-27-2025-Premier-League,Leicester City
+2025-03-09,Matchweek 28,Sun,Home,W,1,0,Chelsea,584,545,39,14,1,3,26,11,12,0,9,0,488,0,6,14:00:00,/en/matches/236640be/Chelsea-Leicester-City-March-9-2025-Premier-League,Leicester City
 2024-08-17,Matchweek 1,Sat,Home,L,0,2,Ipswich Town,381,333,43,18,0,2,8,14,2,0,1,0,290,5,13,12:30:00,/en/matches/a1d0d529/Ipswich-Town-Liverpool-August-17-2024-Premier-League,Liverpool
 2024-08-25,Matchweek 2,Sun,Away,L,0,2,Brentford,399,355,42,11,0,5,10,20,4,2,0,0,322,2,13,16:30:00,/en/matches/09b1742e/Liverpool-Brentford-August-25-2024-Premier-League,Liverpool
 2024-09-01,Matchweek 3,Sun,Home,L,0,3,Manchester Utd,556,504,52,9,1,1,19,26,5,3,0,1,453,0,14,16:00:00,/en/matches/a7ab7a12/North-West-Derby-Manchester-United-Liverpool-September-1-2024-Premier-League,Liverpool
@@ -326,6 +337,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-19,Matchweek 29,Wed,Home,D,2,2,Aston Villa,486,439,44,8,1,0,19,12,6,2,1,0,394,3,12,19:30:00,/en/matches/39c7b656/Aston-Villa-Liverpool-February-19-2025-Premier-League,Liverpool
 2025-02-23,Matchweek 26,Sun,Home,L,0,2,Manchester City,704,658,44,13,3,0,22,20,7,6,0,0,627,2,12,16:30:00,/en/matches/e51a316b/Manchester-City-Liverpool-February-23-2025-Premier-League,Liverpool
 2025-02-26,Matchweek 27,Wed,Away,L,0,2,Newcastle Utd,402,358,43,11,1,1,14,18,2,2,0,0,327,1,4,20:15:00,/en/matches/a0975f8c/Liverpool-Newcastle-United-February-26-2025-Premier-League,Liverpool
+2025-03-08,Matchweek 28,Sat,Away,L,1,3,Southampton,286,247,38,8,1,0,5,10,4,4,0,0,216,1,2,15:00:00,/en/matches/049341ab/Liverpool-Southampton-March-8-2025-Premier-League,Liverpool
 2024-08-18,Matchweek 1,Sun,Home,L,0,2,Chelsea,531,489,40,10,2,2,18,17,4,3,0,0,461,2,3,16:30:00,/en/matches/67a0c715/Chelsea-Manchester-City-August-18-2024-Premier-League,Manchester City
 2024-08-24,Matchweek 2,Sat,Away,L,1,4,Ipswich Town,266,236,29,7,1,0,6,10,1,1,0,0,211,1,7,15:00:00,/en/matches/a24b7a43/Manchester-City-Ipswich-Town-August-24-2024-Premier-League,Manchester City
 2024-08-31,Matchweek 3,Sat,Home,L,1,3,West Ham,379,341,38,4,0,4,14,19,3,1,1,0,310,0,13,17:30:00,/en/matches/97ce60d4/West-Ham-United-Manchester-City-August-31-2024-Premier-League,Manchester City
@@ -353,6 +365,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Away,L,0,4,Newcastle Utd,395,359,33,5,6,2,14,15,4,3,0,0,319,3,12,15:00:00,/en/matches/8c51fa01/Manchester-City-Newcastle-United-February-15-2025-Premier-League,Manchester City
 2025-02-23,Matchweek 26,Sun,Away,W,2,0,Liverpool,356,325,27,5,1,3,7,6,5,1,3,0,282,4,7,16:30:00,/en/matches/e51a316b/Manchester-City-Liverpool-February-23-2025-Premier-League,Manchester City
 2025-02-26,Matchweek 27,Wed,Home,L,0,1,Tottenham,569,521,48,17,1,1,16,19,8,5,1,0,497,0,8,19:30:00,/en/matches/3b8160bd/Tottenham-Hotspur-Manchester-City-February-26-2025-Premier-League,Manchester City
+2025-03-08,Matchweek 28,Sat,Home,W,1,0,Nott'ham Forest,299,259,39,8,1,2,18,15,3,2,0,0,230,1,5,12:30:00,/en/matches/d53c0405/Nottingham-Forest-Manchester-City-March-8-2025-Premier-League,Manchester City
 2024-08-16,Matchweek 1,Fri,Away,L,0,1,Fulham,424,372,51,16,2,0,21,15,8,6,2,0,329,1,10,20:00:00,/en/matches/cc5b4244/Manchester-United-Fulham-August-16-2024-Premier-League,Manchester Utd
 2024-08-24,Matchweek 2,Sat,Home,W,2,1,Brighton,514,466,48,18,2,5,12,19,4,2,2,0,435,0,8,12:30:00,/en/matches/fc8ab8b2/Brighton-and-Hove-Albion-Manchester-United-August-24-2024-Premier-League,Manchester Utd
 2024-09-01,Matchweek 3,Sun,Away,W,3,0,Liverpool,497,458,37,7,1,3,6,22,2,1,0,0,414,2,5,16:00:00,/en/matches/a7ab7a12/North-West-Derby-Manchester-United-Liverpool-September-1-2024-Premier-League,Manchester Utd
@@ -380,6 +393,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-16,Matchweek 25,Sun,Home,W,1,0,Tottenham,566,517,49,16,2,4,31,12,10,4,4,0,482,0,11,16:30:00,/en/matches/09db2a2f/Tottenham-Hotspur-Manchester-United-February-16-2025-Premier-League,Manchester Utd
 2025-02-22,Matchweek 26,Sat,Home,D,2,2,Everton,355,317,37,9,0,2,23,13,7,6,0,0,256,1,6,12:30:00,/en/matches/e5b45c4d/Everton-Manchester-United-February-22-2025-Premier-League,Manchester Utd
 2025-02-26,Matchweek 27,Wed,Away,L,2,3,Ipswich Town,486,451,33,9,1,3,18,9,6,4,0,0,404,2,9,19:30:00,/en/matches/bf6aa8ee/Manchester-United-Ipswich-Town-February-26-2025-Premier-League,Manchester Utd
+2025-03-09,Matchweek 28,Sun,Away,D,1,1,Arsenal,644,598,45,7,4,2,27,22,9,6,0,0,553,1,6,16:30:00,/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,Manchester Utd
 2024-08-17,Matchweek 1,Sat,Away,L,0,1,Southampton,702,650,50,15,1,3,30,18,12,5,2,0,604,2,17,15:00:00,/en/matches/34557647/Newcastle-United-Southampton-August-17-2024-Premier-League,Newcastle Utd
 2024-08-25,Matchweek 2,Sun,Home,D,1,1,Bournemouth,359,315,44,7,0,0,19,18,8,6,1,0,263,0,8,14:00:00,/en/matches/1934f267/Bournemouth-Newcastle-United-August-25-2024-Premier-League,Newcastle Utd
 2024-09-01,Matchweek 3,Sun,Away,L,1,2,Tottenham,557,498,55,17,2,0,27,20,12,3,2,0,450,4,16,13:30:00,/en/matches/0c994746/Newcastle-United-Tottenham-Hotspur-September-1-2024-Premier-League,Newcastle Utd
@@ -407,6 +421,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Home,W,4,0,Manchester City,618,578,40,16,3,0,13,13,7,5,2,0,564,0,8,15:00:00,/en/matches/8c51fa01/Manchester-City-Newcastle-United-February-15-2025-Premier-League,Newcastle Utd
 2025-02-23,Matchweek 26,Sun,Away,L,3,4,Nott'ham Forest,386,339,47,12,2,1,20,19,6,0,6,0,279,0,6,14:00:00,/en/matches/93caf0bc/Newcastle-United-Nottingham-Forest-February-23-2025-Premier-League,Newcastle Utd
 2025-02-26,Matchweek 27,Wed,Home,W,2,0,Liverpool,623,579,44,12,0,8,4,20,4,1,1,0,555,0,11,20:15:00,/en/matches/a0975f8c/Liverpool-Newcastle-United-February-26-2025-Premier-League,Newcastle Utd
+2025-03-10,Matchweek 28,Mon,Home,L,0,1,West Ham,505,459,45,16,2,4,21,16,3,2,0,1,393,1,15,20:00:00,/en/matches/61ad9d6a/West-Ham-United-Newcastle-United-March-10-2025-Premier-League,Newcastle Utd
 2024-08-17,Matchweek 1,Sat,Away,D,1,1,Bournemouth,485,433,48,16,0,3,25,18,6,4,0,0,363,4,11,15:00:00,/en/matches/4efc72e4/Nottingham-Forest-Bournemouth-August-17-2024-Premier-League,Nott'ham Forest
 2024-08-24,Matchweek 2,Sat,Home,L,0,1,Southampton,691,648,43,15,0,0,14,13,4,1,2,0,618,0,5,15:00:00,/en/matches/a641f3a0/Southampton-Nottingham-Forest-August-24-2024-Premier-League,Nott'ham Forest
 2024-08-31,Matchweek 3,Sat,Away,D,1,1,Wolves,383,335,48,19,3,5,7,17,3,3,0,0,292,0,7,15:00:00,/en/matches/837f0304/Nottingham-Forest-Wolverhampton-Wanderers-August-31-2024-Premier-League,Nott'ham Forest
@@ -434,6 +449,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Home,W,2,1,Fulham,549,510,38,9,0,2,33,11,8,2,5,0,464,1,6,15:00:00,/en/matches/5968d7ad/Fulham-Nottingham-Forest-February-15-2025-Premier-League,Nott'ham Forest
 2025-02-23,Matchweek 26,Sun,Home,W,4,3,Newcastle Utd,512,458,53,11,0,2,18,22,7,6,0,0,407,1,14,14:00:00,/en/matches/93caf0bc/Newcastle-United-Nottingham-Forest-February-23-2025-Premier-League,Nott'ham Forest
 2025-02-26,Matchweek 27,Wed,Away,D,0,0,Arsenal,544,503,39,11,1,1,27,9,11,10,0,0,455,2,4,19:30:00,/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,Nott'ham Forest
+2025-03-08,Matchweek 28,Sat,Away,L,0,1,Manchester City,652,615,36,9,1,2,17,17,2,0,0,1,571,1,15,12:30:00,/en/matches/d53c0405/Nottingham-Forest-Manchester-City-March-8-2025-Premier-League,Nott'ham Forest
 2024-08-17,Matchweek 1,Sat,Home,W,1,0,Newcastle Utd,207,163,43,18,0,1,12,11,3,3,0,0,128,1,6,15:00:00,/en/matches/34557647/Newcastle-United-Southampton-August-17-2024-Premier-League,Southampton
 2024-08-24,Matchweek 2,Sat,Away,W,1,0,Nott'ham Forest,383,342,40,14,1,2,19,11,10,5,5,0,306,1,11,15:00:00,/en/matches/a641f3a0/Southampton-Nottingham-Forest-August-24-2024-Premier-League,Southampton
 2024-08-31,Matchweek 3,Sat,Home,W,3,1,Brentford,398,358,39,9,2,3,13,22,2,1,0,0,331,1,3,15:00:00,/en/matches/fec3438b/Brentford-Southampton-August-31-2024-Premier-League,Southampton
@@ -461,6 +477,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Away,W,3,1,Bournemouth,531,478,53,13,2,2,18,27,6,5,0,0,426,0,6,15:00:00,/en/matches/ce3da486/Southampton-Bournemouth-February-15-2025-Premier-League,Southampton
 2025-02-22,Matchweek 26,Sat,Away,W,4,0,Brighton,467,426,40,12,3,2,15,15,6,1,3,0,374,1,2,15:00:00,/en/matches/e757bea1/Southampton-Brighton-and-Hove-Albion-February-22-2025-Premier-League,Southampton
 2025-02-25,Matchweek 27,Tue,Home,W,4,0,Chelsea,648,610,36,8,2,2,10,15,4,1,2,0,585,2,6,20:15:00,/en/matches/21d4a457/Chelsea-Southampton-February-25-2025-Premier-League,Southampton
+2025-03-08,Matchweek 28,Sat,Home,W,3,1,Liverpool,700,658,42,8,2,1,20,21,6,4,1,0,623,0,6,15:00:00,/en/matches/049341ab/Liverpool-Southampton-March-8-2025-Premier-League,Southampton
 2024-08-19,Matchweek 1,Mon,Home,D,1,1,Leicester City,313,272,39,13,3,1,15,16,2,0,2,0,237,2,5,20:00:00,/en/matches/62eea1d6/Leicester-City-Tottenham-Hotspur-August-19-2024-Premier-League,Tottenham
 2024-08-24,Matchweek 2,Sat,Away,L,0,4,Everton,287,241,42,11,2,0,15,15,5,3,2,0,211,4,8,15:00:00,/en/matches/1eef1717/Tottenham-Hotspur-Everton-August-24-2024-Premier-League,Tottenham
 2024-09-01,Matchweek 3,Sun,Home,W,2,1,Newcastle Utd,296,243,51,17,1,1,12,16,7,5,2,0,207,2,12,13:30:00,/en/matches/0c994746/Newcastle-United-Tottenham-Hotspur-September-1-2024-Premier-League,Tottenham
@@ -488,6 +505,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-16,Matchweek 25,Sun,Away,L,0,1,Manchester Utd,461,418,36,10,2,7,24,13,5,2,3,0,367,7,12,16:30:00,/en/matches/09db2a2f/Tottenham-Hotspur-Manchester-United-February-16-2025-Premier-League,Tottenham
 2025-02-22,Matchweek 26,Sat,Home,L,1,4,Ipswich Town,391,348,41,14,1,1,19,12,4,2,1,0,312,2,11,15:00:00,/en/matches/7853cd1a/Ipswich-Town-Tottenham-Hotspur-February-22-2025-Premier-League,Tottenham
 2025-02-26,Matchweek 27,Wed,Away,W,1,0,Manchester City,460,421,37,11,1,6,12,18,3,0,3,0,392,2,7,19:30:00,/en/matches/3b8160bd/Tottenham-Hotspur-Manchester-City-February-26-2025-Premier-League,Tottenham
+2025-03-09,Matchweek 28,Sun,Away,D,2,2,Bournemouth,370,329,38,13,2,2,14,13,6,4,1,0,274,3,4,14:00:00,/en/matches/81575514/Tottenham-Hotspur-Bournemouth-March-9-2025-Premier-League,Tottenham
 2024-08-17,Matchweek 1,Sat,Away,W,2,1,Aston Villa,433,383,49,19,4,1,15,19,3,3,0,0,348,1,11,17:30:00,/en/matches/eac7c00b/West-Ham-United-Aston-Villa-August-17-2024-Premier-League,West Ham
 2024-08-24,Matchweek 2,Sat,Home,L,0,2,Crystal Palace,596,541,52,19,2,3,20,17,3,2,0,0,478,3,6,15:00:00,/en/matches/540cfb68/Crystal-Palace-West-Ham-United-August-24-2024-Premier-League,West Ham
 2024-08-31,Matchweek 3,Sat,Away,W,3,1,Manchester City,762,722,39,9,4,2,22,11,11,2,3,1,691,1,9,17:30:00,/en/matches/97ce60d4/West-Ham-United-Manchester-City-August-31-2024-Premier-League,West Ham
@@ -515,6 +533,7 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-15,Matchweek 25,Sat,Away,W,1,0,Brentford,399,363,32,11,2,1,16,12,2,2,0,0,302,4,7,15:00:00,/en/matches/79406a7e/West-Ham-United-Brentford-February-15-2025-Premier-League,West Ham
 2025-02-22,Matchweek 26,Sat,Home,L,0,1,Arsenal,694,650,42,16,0,1,30,16,2,2,0,0,600,2,6,15:00:00,/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,West Ham
 2025-02-27,Matchweek 27,Thu,Away,L,0,2,Leicester City,504,466,38,12,1,2,24,16,3,2,0,0,411,0,10,20:00:00,/en/matches/08b1b7de/West-Ham-United-Leicester-City-February-27-2025-Premier-League,West Ham
+2025-03-10,Matchweek 28,Mon,Away,W,1,0,Newcastle Utd,484,443,40,7,1,0,21,22,4,0,0,3,384,1,13,20:00:00,/en/matches/61ad9d6a/West-Ham-United-Newcastle-United-March-10-2025-Premier-League,West Ham
 2024-08-17,Matchweek 1,Sat,Home,W,2,0,Arsenal,458,410,48,15,0,4,15,18,8,6,0,0,382,0,7,15:00:00,/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,Wolves
 2024-08-25,Matchweek 2,Sun,Away,W,6,2,Chelsea,525,477,47,15,1,2,11,13,5,3,0,0,445,1,10,14:00:00,/en/matches/e76c15c9/Wolverhampton-Wanderers-Chelsea-August-25-2024-Premier-League,Wolves
 2024-08-31,Matchweek 3,Sat,Home,D,1,1,Nott'ham Forest,412,358,50,17,0,1,23,17,7,4,3,0,312,4,10,15:00:00,/en/matches/837f0304/Nottingham-Forest-Wolverhampton-Wanderers-August-31-2024-Premier-League,Wolves
@@ -542,3 +561,4 @@ date,round,day,venue,result,GF,GA,opponent,Att,Pass Types,Pass Types,Pass Types,
 2025-02-16,Matchweek 25,Sun,Home,W,2,1,Liverpool,489,434,50,15,2,5,13,21,4,0,3,0,392,5,7,14:00:00,/en/matches/6a917c79/Liverpool-Wolverhampton-Wanderers-February-16-2025-Premier-League,Wolves
 2025-02-22,Matchweek 26,Sat,Home,L,0,1,Bournemouth,412,365,46,10,2,2,27,23,6,5,1,0,298,1,9,15:00:00,/en/matches/ccdda6d3/Bournemouth-Wolverhampton-Wanderers-February-22-2025-Premier-League,Wolves
 2025-02-25,Matchweek 27,Tue,Away,W,2,1,Fulham,410,376,34,9,5,2,9,8,4,1,2,0,343,0,4,19:30:00,/en/matches/7aecfc4c/Wolverhampton-Wanderers-Fulham-February-25-2025-Premier-League,Wolves
+2025-03-08,Matchweek 28,Sat,Away,D,1,1,Everton,337,298,38,11,0,0,16,9,5,4,0,0,252,1,6,20:00:00,/en/matches/2ac7408b/Wolverhampton-Wanderers-Everton-March-8-2025-Premier-League,Wolves

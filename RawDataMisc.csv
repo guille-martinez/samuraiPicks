@@ -27,6 +27,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Home,L,0,2,Leicester City,2,0,0,9,10,1,16,7,13,0,0,0,42,11,15,42.3,12:30:00,/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,Arsenal
 2025-02-22,Matchweek 26,Sat,Away,W,1,0,West Ham,3,0,0,15,16,2,8,14,5,0,0,0,34,19,17,52.8,15:00:00,/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,Arsenal
 2025-02-26,Matchweek 27,Wed,Home,D,0,0,Nott'ham Forest,1,0,0,10,15,1,18,8,10,0,0,0,34,14,16,46.7,19:30:00,/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,Arsenal
+2025-03-09,Matchweek 28,Sun,Home,D,1,1,Manchester Utd,0,0,0,8,9,0,11,7,15,0,0,0,34,13,10,56.5,16:30:00,/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,Arsenal
 2024-08-17,Matchweek 1,Sat,Home,L,1,2,West Ham,1,0,0,18,11,1,25,6,10,1,0,0,39,14,12,53.8,17:30:00,/en/matches/eac7c00b/West-Ham-United-Aston-Villa-August-17-2024-Premier-League,Aston Villa
 2024-08-24,Matchweek 2,Sat,Away,W,2,0,Arsenal,3,0,0,16,8,1,13,8,9,0,0,0,33,7,9,43.8,17:30:00,/en/matches/4692171a/Aston-Villa-Arsenal-August-24-2024-Premier-League,Aston Villa
 2024-08-31,Matchweek 3,Sat,Home,L,1,2,Leicester City,4,0,0,13,21,3,18,11,11,0,0,0,45,9,10,47.4,15:00:00,/en/matches/5af68b76/Leicester-City-Aston-Villa-August-31-2024-Premier-League,Aston Villa
@@ -55,6 +56,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-19,Matchweek 29,Wed,Away,D,2,2,Liverpool,0,0,0,6,8,2,20,8,11,0,0,0,34,13,12,52.0,19:30:00,/en/matches/39c7b656/Aston-Villa-Liverpool-February-19-2025-Premier-League,Aston Villa
 2025-02-22,Matchweek 26,Sat,Away,L,1,2,Chelsea,3,0,0,16,15,1,12,10,7,0,0,0,48,7,6,53.8,17:30:00,/en/matches/5109d405/Aston-Villa-Chelsea-February-22-2025-Premier-League,Aston Villa
 2025-02-25,Matchweek 27,Tue,Home,W,4,1,Crystal Palace,3,0,0,19,10,7,12,10,21,0,0,0,46,9,13,40.9,19:30:00,/en/matches/0a97629a/Crystal-Palace-Aston-Villa-February-25-2025-Premier-League,Aston Villa
+2025-03-08,Matchweek 28,Sat,Home,L,0,1,Brentford,2,0,0,10,4,2,27,7,6,0,0,0,48,23,16,59.0,17:30:00,/en/matches/fb9126ab/Brentford-Aston-Villa-March-8-2025-Premier-League,Aston Villa
 2024-08-17,Matchweek 1,Sat,Home,D,1,1,Nott'ham Forest,1,0,0,17,8,1,13,7,12,0,0,0,49,25,15,62.5,15:00:00,/en/matches/4efc72e4/Nottingham-Forest-Bournemouth-August-17-2024-Premier-League,Bournemouth
 2024-08-25,Matchweek 2,Sun,Away,D,1,1,Newcastle Utd,2,0,0,8,19,0,26,4,12,0,0,0,59,10,13,43.5,14:00:00,/en/matches/1934f267/Bournemouth-Newcastle-United-August-25-2024-Premier-League,Bournemouth
 2024-08-31,Matchweek 3,Sat,Home,L,2,3,Everton,2,0,0,6,11,2,21,12,11,0,0,0,56,22,17,56.4,15:00:00,/en/matches/58bbe046/Everton-Bournemouth-August-31-2024-Premier-League,Bournemouth
@@ -82,6 +84,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Home,L,1,3,Southampton,1,0,0,13,15,0,20,11,18,0,0,0,48,22,14,61.1,15:00:00,/en/matches/ce3da486/Southampton-Bournemouth-February-15-2025-Premier-League,Bournemouth
 2025-02-22,Matchweek 26,Sat,Away,W,1,0,Wolves,3,0,0,9,17,1,16,10,15,0,0,0,48,17,16,51.5,15:00:00,/en/matches/ccdda6d3/Bournemouth-Wolverhampton-Wanderers-February-22-2025-Premier-League,Bournemouth
 2025-02-25,Matchweek 27,Tue,Home,W,2,1,Brighton,2,0,0,12,14,0,8,6,13,1,0,0,34,18,25,41.9,19:30:00,/en/matches/fade9277/Brighton-and-Hove-Albion-Bournemouth-February-25-2025-Premier-League,Bournemouth
+2025-03-09,Matchweek 28,Sun,Home,D,2,2,Tottenham,3,0,0,15,16,0,16,8,10,1,0,0,42,14,14,50.0,14:00:00,/en/matches/81575514/Tottenham-Hotspur-Bournemouth-March-9-2025-Premier-League,Bournemouth
 2024-08-18,Matchweek 1,Sun,Away,L,1,2,Crystal Palace,5,0,0,15,6,3,14,5,13,0,0,0,49,14,19,42.4,14:00:00,/en/matches/b63822b9/Brentford-Crystal-Palace-August-18-2024-Premier-League,Brentford
 2024-08-25,Matchweek 2,Sun,Home,W,2,0,Liverpool,2,0,0,10,7,1,15,7,10,0,0,0,47,6,8,42.9,16:30:00,/en/matches/09b1742e/Liverpool-Brentford-August-25-2024-Premier-League,Brentford
 2024-08-31,Matchweek 3,Sat,Away,L,1,3,Southampton,1,0,0,7,10,2,20,9,10,0,0,0,36,3,9,25.0,15:00:00,/en/matches/fec3438b/Brentford-Southampton-August-31-2024-Premier-League,Brentford
@@ -109,6 +112,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Home,L,0,1,West Ham,1,0,0,10,13,2,31,2,8,0,0,0,38,16,21,43.2,15:00:00,/en/matches/79406a7e/West-Ham-United-Brentford-February-15-2025-Premier-League,Brentford
 2025-02-21,Matchweek 26,Fri,Home,L,0,4,Leicester City,4,0,0,10,9,1,27,13,5,0,0,0,37,9,21,30.0,20:00:00,/en/matches/da5a149a/Leicester-City-Brentford-February-21-2025-Premier-League,Brentford
 2025-02-26,Matchweek 27,Wed,Away,D,1,1,Everton,1,0,0,6,3,0,21,4,8,0,0,0,39,16,14,53.3,19:30:00,/en/matches/1218933c/Brentford-Everton-February-26-2025-Premier-League,Brentford
+2025-03-08,Matchweek 28,Sat,Away,W,1,0,Aston Villa,2,0,0,5,10,3,12,5,5,0,0,0,35,16,23,41.0,17:30:00,/en/matches/fb9126ab/Brentford-Aston-Villa-March-8-2025-Premier-League,Brentford
 2024-08-17,Matchweek 1,Sat,Home,L,0,3,Everton,1,1,0,8,8,7,17,13,11,0,0,0,45,18,13,58.1,15:00:00,/en/matches/71618ace/Everton-Brighton-and-Hove-Albion-August-17-2024-Premier-League,Brighton
 2024-08-24,Matchweek 2,Sat,Away,L,1,2,Manchester Utd,2,0,0,13,8,6,12,12,11,0,0,0,50,6,8,42.9,12:30:00,/en/matches/fc8ab8b2/Brighton-and-Hove-Albion-Manchester-United-August-24-2024-Premier-League,Brighton
 2024-08-31,Matchweek 3,Sat,Home,D,1,1,Arsenal,5,1,1,12,7,3,7,12,11,0,0,0,37,14,18,43.8,12:30:00,/en/matches/a843d023/Arsenal-Brighton-and-Hove-Albion-August-31-2024-Premier-League,Brighton
@@ -136,6 +140,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-14,Matchweek 25,Fri,Away,L,0,3,Chelsea,2,0,0,15,12,3,18,7,4,0,0,0,36,13,13,50.0,20:00:00,/en/matches/ed780e1d/Brighton-and-Hove-Albion-Chelsea-February-14-2025-Premier-League,Brighton
 2025-02-22,Matchweek 26,Sat,Home,L,0,4,Southampton,2,0,0,11,12,2,11,13,7,0,0,0,50,12,21,36.4,15:00:00,/en/matches/e757bea1/Southampton-Brighton-and-Hove-Albion-February-22-2025-Premier-League,Brighton
 2025-02-25,Matchweek 27,Tue,Away,L,1,2,Bournemouth,1,0,0,14,12,4,22,12,13,0,1,0,44,25,18,58.1,19:30:00,/en/matches/fade9277/Brighton-and-Hove-Albion-Bournemouth-February-25-2025-Premier-League,Brighton
+2025-03-08,Matchweek 28,Sat,Away,L,1,2,Fulham,2,0,0,12,6,1,22,4,9,0,1,0,44,13,19,40.6,15:00:00,/en/matches/fb4bb61d/Brighton-and-Hove-Albion-Fulham-March-8-2025-Premier-League,Brighton
 2024-08-18,Matchweek 1,Sun,Away,W,2,0,Manchester City,1,0,0,9,12,1,11,10,9,0,0,0,41,5,3,62.5,16:30:00,/en/matches/67a0c715/Chelsea-Manchester-City-August-18-2024-Premier-League,Chelsea
 2024-08-25,Matchweek 2,Sun,Home,L,2,6,Wolves,2,0,0,13,13,3,13,9,10,0,0,0,43,8,5,61.5,14:00:00,/en/matches/e76c15c9/Wolverhampton-Wanderers-Chelsea-August-25-2024-Premier-League,Chelsea
 2024-09-01,Matchweek 3,Sun,Away,D,1,1,Crystal Palace,2,0,0,13,9,1,9,6,11,0,0,0,31,7,10,41.2,13:30:00,/en/matches/3387c2c8/Chelsea-Crystal-Palace-September-1-2024-Premier-League,Chelsea
@@ -163,6 +168,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-14,Matchweek 25,Fri,Home,W,3,0,Brighton,1,0,0,12,13,2,3,13,11,0,0,0,32,13,13,50.0,20:00:00,/en/matches/ed780e1d/Brighton-and-Hove-Albion-Chelsea-February-14-2025-Premier-League,Chelsea
 2025-02-22,Matchweek 26,Sat,Home,W,2,1,Aston Villa,1,0,0,15,16,1,13,5,9,0,0,0,41,6,7,46.2,17:30:00,/en/matches/5109d405/Aston-Villa-Chelsea-February-22-2025-Premier-League,Chelsea
 2025-02-25,Matchweek 27,Tue,Away,L,0,4,Southampton,2,0,0,9,5,0,10,9,11,0,0,0,36,8,11,42.1,20:15:00,/en/matches/21d4a457/Chelsea-Southampton-February-25-2025-Premier-League,Chelsea
+2025-03-09,Matchweek 28,Sun,Away,L,0,1,Leicester City,0,0,0,13,12,2,18,5,12,0,1,0,36,12,21,36.4,14:00:00,/en/matches/236640be/Chelsea-Leicester-City-March-9-2025-Premier-League,Chelsea
 2024-08-18,Matchweek 1,Sun,Home,W,2,1,Brentford,1,0,0,6,15,1,17,11,10,0,0,1,47,19,14,57.6,14:00:00,/en/matches/b63822b9/Brentford-Crystal-Palace-August-18-2024-Premier-League,Crystal Palace
 2024-08-24,Matchweek 2,Sat,Away,W,2,0,West Ham,1,0,0,17,9,2,14,15,12,0,0,0,52,23,13,63.9,15:00:00,/en/matches/540cfb68/Crystal-Palace-West-Ham-United-August-24-2024-Premier-League,Crystal Palace
 2024-09-01,Matchweek 3,Sun,Home,D,1,1,Chelsea,4,0,0,9,13,0,19,8,7,0,0,0,46,10,7,58.8,13:30:00,/en/matches/3387c2c8/Chelsea-Crystal-Palace-September-1-2024-Premier-League,Crystal Palace
@@ -190,6 +196,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Away,W,2,1,Everton,1,0,0,12,9,1,17,11,6,0,0,0,40,32,22,59.3,17:30:00,/en/matches/35ee3617/Crystal-Palace-Everton-February-15-2025-Premier-League,Crystal Palace
 2025-02-22,Matchweek 26,Sat,Home,L,0,2,Fulham,1,0,0,10,7,0,27,8,5,0,0,1,51,16,9,64.0,15:00:00,/en/matches/7289bcdf/Fulham-Crystal-Palace-February-22-2025-Premier-League,Crystal Palace
 2025-02-25,Matchweek 27,Tue,Away,L,1,4,Aston Villa,1,0,0,10,19,7,13,9,4,0,0,0,43,13,9,59.1,19:30:00,/en/matches/0a97629a/Crystal-Palace-Aston-Villa-February-25-2025-Premier-League,Crystal Palace
+2025-03-08,Matchweek 28,Sat,Away,L,0,1,Ipswich Town,3,0,0,7,8,0,16,8,9,0,0,0,46,22,21,51.2,15:00:00,/en/matches/b1ad79e4/Crystal-Palace-Ipswich-Town-March-8-2025-Premier-League,Crystal Palace
 2024-08-17,Matchweek 1,Sat,Away,W,3,0,Brighton,1,0,0,8,8,1,14,8,13,0,0,0,43,13,18,41.9,15:00:00,/en/matches/71618ace/Everton-Brighton-and-Hove-Albion-August-17-2024-Premier-League,Everton
 2024-08-24,Matchweek 2,Sat,Home,W,4,0,Tottenham,0,0,0,11,15,0,20,4,16,0,0,0,43,11,14,44.0,15:00:00,/en/matches/1eef1717/Tottenham-Hotspur-Everton-August-24-2024-Premier-League,Everton
 2024-08-31,Matchweek 3,Sat,Away,W,3,2,Bournemouth,1,0,0,11,6,2,24,7,10,0,0,0,51,17,22,43.6,15:00:00,/en/matches/58bbe046/Everton-Bournemouth-August-31-2024-Premier-League,Everton
@@ -217,6 +224,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Home,L,1,2,Crystal Palace,0,0,0,9,12,3,20,7,11,0,0,0,44,22,32,40.7,17:30:00,/en/matches/35ee3617/Crystal-Palace-Everton-February-15-2025-Premier-League,Everton
 2025-02-22,Matchweek 26,Sat,Away,D,2,2,Manchester Utd,1,0,0,9,11,0,20,13,15,0,0,0,46,19,20,48.7,12:30:00,/en/matches/e5b45c4d/Everton-Manchester-United-February-22-2025-Premier-League,Everton
 2025-02-26,Matchweek 27,Wed,Home,D,1,1,Brentford,2,0,0,3,5,1,20,9,8,0,0,0,37,14,16,46.7,19:30:00,/en/matches/1218933c/Brentford-Everton-February-26-2025-Premier-League,Everton
+2025-03-08,Matchweek 28,Sat,Home,D,1,1,Wolves,2,0,0,11,16,0,18,6,8,0,0,0,43,9,15,37.5,20:00:00,/en/matches/2ac7408b/Wolverhampton-Wanderers-Everton-March-8-2025-Premier-League,Everton
 2024-08-16,Matchweek 1,Fri,Home,W,1,0,Manchester Utd,2,0,0,12,10,3,18,19,14,0,0,0,58,19,16,54.3,20:00:00,/en/matches/cc5b4244/Manchester-United-Fulham-August-16-2024-Premier-League,Fulham
 2024-08-24,Matchweek 2,Sat,Away,L,1,2,Leicester City,2,0,0,13,14,5,12,7,14,0,0,0,38,13,16,44.8,15:00:00,/en/matches/4d0079fb/Fulham-Leicester-City-August-24-2024-Premier-League,Fulham
 2024-08-31,Matchweek 3,Sat,Home,D,1,1,Ipswich Town,2,0,0,15,15,4,16,4,9,0,0,0,39,11,12,47.8,15:00:00,/en/matches/cec85838/Ipswich-Town-Fulham-August-31-2024-Premier-League,Fulham
@@ -244,6 +252,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Away,L,1,2,Nott'ham Forest,0,0,0,8,12,1,18,8,7,0,0,0,39,15,16,48.4,15:00:00,/en/matches/5968d7ad/Fulham-Nottingham-Forest-February-15-2025-Premier-League,Fulham
 2025-02-22,Matchweek 26,Sat,Away,W,2,0,Crystal Palace,3,0,0,7,10,3,10,10,11,0,0,0,40,9,16,36.0,15:00:00,/en/matches/7289bcdf/Fulham-Crystal-Palace-February-22-2025-Premier-League,Fulham
 2025-02-25,Matchweek 27,Tue,Home,L,1,2,Wolves,1,0,0,8,15,1,29,6,5,0,0,0,42,12,18,40.0,19:30:00,/en/matches/7aecfc4c/Wolverhampton-Wanderers-Fulham-February-25-2025-Premier-League,Fulham
+2025-03-08,Matchweek 28,Sat,Home,W,2,1,Brighton,0,0,0,6,11,4,13,15,11,1,0,0,44,19,13,59.4,15:00:00,/en/matches/fb4bb61d/Brighton-and-Hove-Albion-Fulham-March-8-2025-Premier-League,Fulham
 2024-08-17,Matchweek 1,Sat,Away,W,2,0,Liverpool,1,0,0,18,8,0,23,5,4,0,0,0,40,18,11,62.1,12:30:00,/en/matches/a1d0d529/Ipswich-Town-Liverpool-August-17-2024-Premier-League,Ipswich Town
 2024-08-24,Matchweek 2,Sat,Home,W,4,1,Manchester City,2,0,0,4,15,3,17,6,6,1,0,0,32,5,7,41.7,15:00:00,/en/matches/a24b7a43/Manchester-City-Ipswich-Town-August-24-2024-Premier-League,Ipswich Town
 2024-08-31,Matchweek 3,Sat,Away,D,1,1,Fulham,3,0,0,15,15,0,26,6,7,0,0,0,30,12,11,52.2,15:00:00,/en/matches/cec85838/Ipswich-Town-Fulham-August-31-2024-Premier-League,Ipswich Town
@@ -271,6 +280,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Home,D,1,1,Aston Villa,0,0,0,7,11,2,32,5,8,0,0,0,45,11,7,61.1,15:00:00,/en/matches/06fee8c4/Aston-Villa-Ipswich-Town-February-15-2025-Premier-League,Ipswich Town
 2025-02-22,Matchweek 26,Sat,Away,W,4,1,Tottenham,1,0,0,14,15,1,4,6,9,0,0,0,47,7,4,63.6,15:00:00,/en/matches/7853cd1a/Ipswich-Town-Tottenham-Hotspur-February-22-2025-Premier-League,Ipswich Town
 2025-02-26,Matchweek 27,Wed,Home,W,3,2,Manchester Utd,4,1,0,9,16,0,18,4,10,0,0,0,43,10,14,41.7,19:30:00,/en/matches/bf6aa8ee/Manchester-United-Ipswich-Town-February-26-2025-Premier-League,Ipswich Town
+2025-03-08,Matchweek 28,Sat,Home,W,1,0,Crystal Palace,4,0,0,8,7,0,19,7,11,0,0,0,46,21,22,48.8,15:00:00,/en/matches/b1ad79e4/Crystal-Palace-Ipswich-Town-March-8-2025-Premier-League,Ipswich Town
 2024-08-19,Matchweek 1,Mon,Away,D,1,1,Tottenham,1,0,0,12,11,1,28,6,13,0,0,0,45,9,8,52.9,20:00:00,/en/matches/62eea1d6/Leicester-City-Tottenham-Hotspur-August-19-2024-Premier-League,Leicester City
 2024-08-24,Matchweek 2,Sat,Home,W,2,1,Fulham,2,0,0,14,12,0,21,8,10,0,0,0,44,16,13,55.2,15:00:00,/en/matches/4d0079fb/Fulham-Leicester-City-August-24-2024-Premier-League,Leicester City
 2024-08-31,Matchweek 3,Sat,Away,W,2,1,Aston Villa,5,0,0,21,13,1,10,7,10,0,0,0,38,10,9,52.6,15:00:00,/en/matches/5af68b76/Leicester-City-Aston-Villa-August-31-2024-Premier-League,Leicester City
@@ -298,6 +308,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Away,W,2,0,Arsenal,1,0,0,10,9,4,18,5,11,0,0,0,42,15,11,57.7,12:30:00,/en/matches/af8aa0dd/Leicester-City-Arsenal-February-15-2025-Premier-League,Leicester City
 2025-02-21,Matchweek 26,Fri,Away,W,4,0,Brentford,0,0,0,10,10,1,20,9,9,0,0,0,42,21,9,70.0,20:00:00,/en/matches/da5a149a/Leicester-City-Brentford-February-21-2025-Premier-League,Leicester City
 2025-02-27,Matchweek 27,Thu,Home,W,2,0,West Ham,0,0,0,12,5,1,17,7,9,0,0,0,41,16,15,51.6,20:00:00,/en/matches/08b1b7de/West-Ham-United-Leicester-City-February-27-2025-Premier-League,Leicester City
+2025-03-09,Matchweek 28,Sun,Home,W,1,0,Chelsea,1,0,0,12,13,0,26,10,9,1,0,0,40,21,12,63.6,14:00:00,/en/matches/236640be/Chelsea-Leicester-City-March-9-2025-Premier-League,Leicester City
 2024-08-17,Matchweek 1,Sat,Home,L,0,2,Ipswich Town,3,0,0,9,17,5,8,9,10,0,0,0,36,11,18,37.9,12:30:00,/en/matches/a1d0d529/Ipswich-Town-Liverpool-August-17-2024-Premier-League,Liverpool
 2024-08-25,Matchweek 2,Sun,Away,L,0,2,Brentford,3,0,0,7,10,2,10,5,6,0,0,0,42,8,6,57.1,16:30:00,/en/matches/09b1742e/Liverpool-Brentford-August-25-2024-Premier-League,Liverpool
 2024-09-01,Matchweek 3,Sun,Home,L,0,3,Manchester Utd,4,0,0,7,7,0,19,7,20,0,0,0,51,5,13,27.8,16:00:00,/en/matches/a7ab7a12/North-West-Derby-Manchester-United-Liverpool-September-1-2024-Premier-League,Liverpool
@@ -326,6 +337,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-19,Matchweek 29,Wed,Home,D,2,2,Aston Villa,1,0,0,8,6,3,19,3,13,0,0,0,30,12,13,48.0,19:30:00,/en/matches/39c7b656/Aston-Villa-Liverpool-February-19-2025-Premier-League,Liverpool
 2025-02-23,Matchweek 26,Sun,Home,L,0,2,Manchester City,0,0,0,3,9,2,22,3,2,0,0,0,49,4,4,50.0,16:30:00,/en/matches/e51a316b/Manchester-City-Liverpool-February-23-2025-Premier-League,Liverpool
 2025-02-26,Matchweek 27,Wed,Away,L,0,2,Newcastle Utd,1,0,0,11,12,1,14,5,12,0,0,0,37,4,9,30.8,20:15:00,/en/matches/a0975f8c/Liverpool-Newcastle-United-February-26-2025-Premier-League,Liverpool
+2025-03-08,Matchweek 28,Sat,Away,L,1,3,Southampton,1,0,0,9,9,1,5,9,10,0,2,0,46,9,3,75.0,15:00:00,/en/matches/049341ab/Liverpool-Southampton-March-8-2025-Premier-League,Liverpool
 2024-08-18,Matchweek 1,Sun,Home,L,0,2,Chelsea,1,0,0,12,9,2,18,10,14,0,0,0,43,3,5,37.5,16:30:00,/en/matches/67a0c715/Chelsea-Manchester-City-August-18-2024-Premier-League,Manchester City
 2024-08-24,Matchweek 2,Sat,Away,L,1,4,Ipswich Town,3,0,0,15,3,1,6,10,8,0,1,0,24,7,5,58.3,15:00:00,/en/matches/a24b7a43/Manchester-City-Ipswich-Town-August-24-2024-Premier-League,Manchester City
 2024-08-31,Matchweek 3,Sat,Home,L,1,3,West Ham,3,0,0,10,2,0,14,6,6,0,0,0,29,9,7,56.3,17:30:00,/en/matches/97ce60d4/West-Ham-United-Manchester-City-August-31-2024-Premier-League,Manchester City
@@ -353,6 +365,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Away,L,0,4,Newcastle Utd,1,0,0,13,5,3,14,7,15,0,0,0,32,5,8,38.5,15:00:00,/en/matches/8c51fa01/Manchester-City-Newcastle-United-February-15-2025-Premier-League,Manchester City
 2025-02-23,Matchweek 26,Sun,Away,W,2,0,Liverpool,0,0,0,10,3,4,7,4,13,0,0,0,38,4,4,50.0,16:30:00,/en/matches/e51a316b/Manchester-City-Liverpool-February-23-2025-Premier-League,Manchester City
 2025-02-26,Matchweek 27,Wed,Home,L,0,1,Tottenham,3,0,0,12,14,0,16,7,15,0,0,0,44,8,5,61.5,19:30:00,/en/matches/3b8160bd/Tottenham-Hotspur-Manchester-City-February-26-2025-Premier-League,Manchester City
+2025-03-08,Matchweek 28,Sat,Home,W,1,0,Nott'ham Forest,3,0,0,9,7,1,18,5,8,0,0,0,36,10,7,58.8,12:30:00,/en/matches/d53c0405/Nottingham-Forest-Manchester-City-March-8-2025-Premier-League,Manchester City
 2024-08-16,Matchweek 1,Fri,Away,L,0,1,Fulham,3,0,0,10,11,1,21,9,17,0,0,0,53,16,19,45.7,20:00:00,/en/matches/cc5b4244/Manchester-United-Fulham-August-16-2024-Premier-League,Manchester Utd
 2024-08-24,Matchweek 2,Sat,Home,W,2,1,Brighton,1,0,0,9,13,0,12,7,12,0,0,0,42,8,6,57.1,12:30:00,/en/matches/fc8ab8b2/Brighton-and-Hove-Albion-Manchester-United-August-24-2024-Premier-League,Manchester Utd
 2024-09-01,Matchweek 3,Sun,Away,W,3,0,Liverpool,1,0,0,7,7,2,6,10,17,0,0,0,53,13,5,72.2,16:00:00,/en/matches/a7ab7a12/North-West-Derby-Manchester-United-Liverpool-September-1-2024-Premier-League,Manchester Utd
@@ -380,6 +393,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-16,Matchweek 25,Sun,Home,W,1,0,Tottenham,1,0,0,13,9,0,31,5,6,0,0,0,44,9,11,45.0,16:30:00,/en/matches/09db2a2f/Tottenham-Hotspur-Manchester-United-February-16-2025-Premier-League,Manchester Utd
 2025-02-22,Matchweek 26,Sat,Home,D,2,2,Everton,4,0,0,12,9,1,23,9,18,0,0,0,41,20,19,51.3,12:30:00,/en/matches/e5b45c4d/Everton-Manchester-United-February-22-2025-Premier-League,Manchester Utd
 2025-02-26,Matchweek 27,Wed,Away,L,2,3,Ipswich Town,4,0,0,16,9,2,18,11,11,0,0,1,39,14,10,58.3,19:30:00,/en/matches/bf6aa8ee/Manchester-United-Ipswich-Town-February-26-2025-Premier-League,Manchester Utd
+2025-03-09,Matchweek 28,Sun,Away,D,1,1,Arsenal,1,0,0,11,6,1,27,5,8,0,0,0,37,10,13,43.5,16:30:00,/en/matches/8efec987/Manchester-United-Arsenal-March-9-2025-Premier-League,Manchester Utd
 2024-08-17,Matchweek 1,Sat,Away,L,0,1,Southampton,4,0,0,16,15,2,30,3,6,0,0,0,35,9,7,56.3,15:00:00,/en/matches/34557647/Newcastle-United-Southampton-August-17-2024-Premier-League,Newcastle Utd
 2024-08-25,Matchweek 2,Sun,Home,D,1,1,Bournemouth,2,0,0,20,8,0,19,6,16,0,0,0,60,13,10,56.5,14:00:00,/en/matches/1934f267/Bournemouth-Newcastle-United-August-25-2024-Premier-League,Newcastle Utd
 2024-09-01,Matchweek 3,Sun,Away,L,1,2,Tottenham,4,0,0,13,16,4,27,7,16,0,0,0,45,13,9,59.1,13:30:00,/en/matches/0c994746/Newcastle-United-Tottenham-Hotspur-September-1-2024-Premier-League,Newcastle Utd
@@ -407,6 +421,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Home,W,4,0,Manchester City,0,0,0,5,13,0,13,6,5,0,0,0,38,8,5,61.5,15:00:00,/en/matches/8c51fa01/Manchester-City-Newcastle-United-February-15-2025-Premier-League,Newcastle Utd
 2025-02-23,Matchweek 26,Sun,Away,L,3,4,Nott'ham Forest,4,0,0,13,10,0,20,3,20,0,1,0,52,14,19,42.4,14:00:00,/en/matches/93caf0bc/Newcastle-United-Nottingham-Forest-February-23-2025-Premier-League,Newcastle Utd
 2025-02-26,Matchweek 27,Wed,Home,W,2,0,Liverpool,0,0,0,12,11,0,4,10,15,0,0,0,36,9,4,69.2,20:15:00,/en/matches/a0975f8c/Liverpool-Newcastle-United-February-26-2025-Premier-League,Newcastle Utd
+2025-03-10,Matchweek 28,Mon,Home,L,0,1,West Ham,0,0,0,7,15,1,21,9,9,0,0,0,39,16,13,55.2,20:00:00,/en/matches/61ad9d6a/West-Ham-United-Newcastle-United-March-10-2025-Premier-League,Newcastle Utd
 2024-08-17,Matchweek 1,Sat,Away,D,1,1,Bournemouth,3,0,0,8,17,4,25,14,7,0,0,0,57,15,25,37.5,15:00:00,/en/matches/4efc72e4/Nottingham-Forest-Bournemouth-August-17-2024-Premier-League,Nott'ham Forest
 2024-08-24,Matchweek 2,Sat,Home,L,0,1,Southampton,3,0,0,14,13,0,14,2,12,0,0,0,39,4,11,26.7,15:00:00,/en/matches/a641f3a0/Southampton-Nottingham-Forest-August-24-2024-Premier-League,Nott'ham Forest
 2024-08-31,Matchweek 3,Sat,Away,D,1,1,Wolves,4,0,0,18,13,0,7,10,14,0,0,0,44,16,14,53.3,15:00:00,/en/matches/837f0304/Nottingham-Forest-Wolverhampton-Wanderers-August-31-2024-Premier-League,Nott'ham Forest
@@ -434,6 +449,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Home,W,2,1,Fulham,0,0,0,13,8,1,33,7,8,0,0,0,45,16,15,51.6,15:00:00,/en/matches/5968d7ad/Fulham-Nottingham-Forest-February-15-2025-Premier-League,Nott'ham Forest
 2025-02-23,Matchweek 26,Sun,Home,W,4,3,Newcastle Utd,1,0,0,11,11,1,18,11,13,0,0,0,47,19,14,57.6,14:00:00,/en/matches/93caf0bc/Newcastle-United-Nottingham-Forest-February-23-2025-Premier-League,Nott'ham Forest
 2025-02-26,Matchweek 27,Wed,Away,D,0,0,Arsenal,1,0,0,17,9,2,27,5,9,0,0,0,35,16,14,53.3,19:30:00,/en/matches/d4387bc1/Nottingham-Forest-Arsenal-February-26-2025-Premier-League,Nott'ham Forest
+2025-03-08,Matchweek 28,Sat,Away,L,0,1,Manchester City,2,0,0,7,9,1,17,5,12,0,0,0,39,7,10,41.2,12:30:00,/en/matches/d53c0405/Nottingham-Forest-Manchester-City-March-8-2025-Premier-League,Nott'ham Forest
 2024-08-17,Matchweek 1,Sat,Home,W,1,0,Newcastle Utd,2,1,0,15,16,1,12,4,14,0,0,0,31,7,9,43.8,15:00:00,/en/matches/34557647/Newcastle-United-Southampton-August-17-2024-Premier-League,Southampton
 2024-08-24,Matchweek 2,Sat,Away,W,1,0,Nott'ham Forest,3,0,0,14,14,1,19,11,15,0,0,0,50,11,4,73.3,15:00:00,/en/matches/a641f3a0/Southampton-Nottingham-Forest-August-24-2024-Premier-League,Southampton
 2024-08-31,Matchweek 3,Sat,Home,W,3,1,Brentford,2,0,0,10,7,1,13,11,13,0,0,0,40,9,3,75.0,15:00:00,/en/matches/fec3438b/Brentford-Southampton-August-31-2024-Premier-League,Southampton
@@ -461,6 +477,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Away,W,3,1,Bournemouth,3,0,0,15,13,0,18,9,7,0,0,0,42,14,22,38.9,15:00:00,/en/matches/ce3da486/Southampton-Bournemouth-February-15-2025-Premier-League,Southampton
 2025-02-22,Matchweek 26,Sat,Away,W,4,0,Brighton,0,0,0,12,11,1,15,9,9,0,0,0,48,21,12,63.6,15:00:00,/en/matches/e757bea1/Southampton-Brighton-and-Hove-Albion-February-22-2025-Premier-League,Southampton
 2025-02-25,Matchweek 27,Tue,Home,W,4,0,Chelsea,1,0,0,6,9,2,10,7,9,0,0,0,44,11,8,57.9,20:15:00,/en/matches/21d4a457/Chelsea-Southampton-February-25-2025-Premier-League,Southampton
+2025-03-08,Matchweek 28,Sat,Home,W,3,1,Liverpool,2,0,0,10,6,0,20,10,15,1,0,0,45,3,9,25.0,15:00:00,/en/matches/049341ab/Liverpool-Southampton-March-8-2025-Premier-League,Southampton
 2024-08-19,Matchweek 1,Mon,Home,D,1,1,Leicester City,1,0,0,11,12,2,15,10,15,0,0,0,37,8,9,47.1,20:00:00,/en/matches/62eea1d6/Leicester-City-Tottenham-Hotspur-August-19-2024-Premier-League,Tottenham
 2024-08-24,Matchweek 2,Sat,Away,L,0,4,Everton,0,0,0,15,11,4,15,15,19,0,0,0,43,14,11,56.0,15:00:00,/en/matches/1eef1717/Tottenham-Hotspur-Everton-August-24-2024-Premier-League,Tottenham
 2024-09-01,Matchweek 3,Sun,Home,W,2,1,Newcastle Utd,4,0,0,16,13,2,12,14,8,0,0,1,40,9,13,40.9,13:30:00,/en/matches/0c994746/Newcastle-United-Tottenham-Hotspur-September-1-2024-Premier-League,Tottenham
@@ -488,6 +505,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-16,Matchweek 25,Sun,Away,L,0,1,Manchester Utd,2,0,0,9,12,7,24,11,20,0,0,0,45,11,9,55.0,16:30:00,/en/matches/09db2a2f/Tottenham-Hotspur-Manchester-United-February-16-2025-Premier-League,Tottenham
 2025-02-22,Matchweek 26,Sat,Home,L,1,4,Ipswich Town,2,0,0,15,14,2,19,10,12,0,0,0,44,4,7,36.4,15:00:00,/en/matches/7853cd1a/Ipswich-Town-Tottenham-Hotspur-February-22-2025-Premier-League,Tottenham
 2025-02-26,Matchweek 27,Wed,Away,W,1,0,Manchester City,0,0,0,15,12,2,12,10,13,0,0,0,35,5,8,38.5,19:30:00,/en/matches/3b8160bd/Tottenham-Hotspur-Manchester-City-February-26-2025-Premier-League,Tottenham
+2025-03-09,Matchweek 28,Sun,Away,D,2,2,Bournemouth,3,0,0,16,15,3,14,15,18,0,1,0,51,14,14,50.0,14:00:00,/en/matches/81575514/Tottenham-Hotspur-Bournemouth-March-9-2025-Premier-League,Tottenham
 2024-08-17,Matchweek 1,Sat,Away,W,2,1,Aston Villa,2,0,0,11,18,1,15,7,15,0,1,0,38,12,14,46.2,17:30:00,/en/matches/eac7c00b/West-Ham-United-Aston-Villa-August-17-2024-Premier-League,West Ham
 2024-08-24,Matchweek 2,Sat,Home,L,0,2,Crystal Palace,1,0,0,9,16,3,20,9,11,0,0,0,47,13,23,36.1,15:00:00,/en/matches/540cfb68/Crystal-Palace-West-Ham-United-August-24-2024-Premier-League,West Ham
 2024-08-31,Matchweek 3,Sat,Away,W,3,1,Manchester City,2,0,0,3,10,1,22,7,12,0,0,1,43,7,9,43.8,17:30:00,/en/matches/97ce60d4/West-Ham-United-Manchester-City-August-31-2024-Premier-League,West Ham
@@ -515,6 +533,7 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-15,Matchweek 25,Sat,Away,W,1,0,Brentford,1,0,0,13,10,4,16,5,9,0,0,0,45,21,16,56.8,15:00:00,/en/matches/79406a7e/West-Ham-United-Brentford-February-15-2025-Premier-League,West Ham
 2025-02-22,Matchweek 26,Sat,Home,L,0,1,Arsenal,1,1,0,16,14,2,30,8,5,0,0,0,33,17,19,47.2,15:00:00,/en/matches/e511e91c/Arsenal-West-Ham-United-February-22-2025-Premier-League,West Ham
 2025-02-27,Matchweek 27,Thu,Away,L,0,2,Leicester City,0,0,0,6,11,0,24,9,11,0,0,1,41,15,16,48.4,20:00:00,/en/matches/08b1b7de/West-Ham-United-Leicester-City-February-27-2025-Premier-League,West Ham
+2025-03-10,Matchweek 28,Mon,Away,W,1,0,Newcastle Utd,1,0,0,15,6,1,21,8,5,0,0,0,42,13,16,44.8,20:00:00,/en/matches/61ad9d6a/West-Ham-United-Newcastle-United-March-10-2025-Premier-League,West Ham
 2024-08-17,Matchweek 1,Sat,Home,W,2,0,Arsenal,2,0,0,17,14,0,15,8,13,0,0,0,30,17,13,56.7,15:00:00,/en/matches/c0e3342a/Arsenal-Wolverhampton-Wanderers-August-17-2024-Premier-League,Wolves
 2024-08-25,Matchweek 2,Sun,Away,W,6,2,Chelsea,3,0,0,13,13,1,11,9,11,0,0,0,39,5,8,38.5,14:00:00,/en/matches/e76c15c9/Wolverhampton-Wanderers-Chelsea-August-25-2024-Premier-League,Wolves
 2024-08-31,Matchweek 3,Sat,Home,D,1,1,Nott'ham Forest,3,0,0,15,17,4,23,10,12,0,0,0,44,14,16,46.7,15:00:00,/en/matches/837f0304/Nottingham-Forest-Wolverhampton-Wanderers-August-31-2024-Premier-League,Wolves
@@ -542,3 +561,4 @@ date,round,day,venue,result,GF,GA,opponent,Performance,Performance,Performance,P
 2025-02-16,Matchweek 25,Sun,Home,W,2,1,Liverpool,2,0,0,15,12,5,13,15,10,1,0,0,38,8,10,44.4,14:00:00,/en/matches/6a917c79/Liverpool-Wolverhampton-Wanderers-February-16-2025-Premier-League,Wolves
 2025-02-22,Matchweek 26,Sat,Home,L,0,1,Bournemouth,3,1,0,17,8,1,27,12,5,0,0,0,56,16,17,48.5,15:00:00,/en/matches/ccdda6d3/Bournemouth-Wolverhampton-Wanderers-February-22-2025-Premier-League,Wolves
 2025-02-25,Matchweek 27,Tue,Away,W,2,1,Fulham,3,0,0,15,8,0,9,6,17,0,0,0,36,18,12,60.0,19:30:00,/en/matches/7aecfc4c/Wolverhampton-Wanderers-Fulham-February-25-2025-Premier-League,Wolves
+2025-03-08,Matchweek 28,Sat,Away,D,1,1,Everton,2,0,0,16,10,1,16,8,16,0,0,0,35,15,9,62.5,20:00:00,/en/matches/2ac7408b/Wolverhampton-Wanderers-Everton-March-8-2025-Premier-League,Wolves
