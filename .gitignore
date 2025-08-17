@@ -1,0 +1,21 @@
+# Python virtual environments
+myenv/
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# OS files
+.DS_Store
+
+# Tooling caches
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Env files
+.env
+.env.*

@@ -1,0 +1,6 @@
+pandas
+soccerdata
+gspread
+google-auth
+flask
+gunicorn
