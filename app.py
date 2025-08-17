@@ -4,7 +4,7 @@ from fetch import update_sheet
 
 app = Flask(__name__)
 
-SPREADSHEET_ID = os.environ["1L1z3hH4jis3Y9Lyoaeu7-tQzLX2cBYesp_Hzy51iUBo"]
+SPREADSHEET_ID = os.environ["SPREADSHEET_ID"]
 WORKSHEET_NAME = os.environ.get("WORKSHEET_NAME", "PL2425 Shooting")
 DEFAULT_SEASON = os.environ.get("SEASON", "2425")
 
